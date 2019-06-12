@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Brian Plancher</title>
+    <link>https://plancherb1.github.io/tags/</link>
+    <description>Recent content in Tags on Brian Plancher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Differential Dynamic Programming</title>
+      <link>https://plancherb1.github.io/tags/differential-dynamic-programming/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/differential-dynamic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>https://plancherb1.github.io/tags/gpu/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Predictive Control</title>
+      <link>https://plancherb1.github.io/tags/model-predictive-control/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/model-predictive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://plancherb1.github.io/tags/parallel-computing/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented Lagrangian</title>
+      <link>https://plancherb1.github.io/tags/augmented-lagrangian/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/augmented-lagrangian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unscented Transform</title>
+      <link>https://plancherb1.github.io/tags/unscented-transform/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/unscented-transform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEM Education</title>
+      <link>https://plancherb1.github.io/tags/stem-education/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/stem-education/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Brian Plancher</title>
+    <link>https://plancherb1.github.io/authors/</link>
+    <description>Recent content in Authors on Brian Plancher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/scott-kuindersma/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/scott-kuindersma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/admin/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/admin/</guid>
+      <description>I am a PhD student studying Robotics and Controls at Harvard University working with Vijay Janapa Reddi and Scott Kuindersma. My research is focused on developing and implementing algorithms for realtime model predictive control for complex high dimensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such my reserach spans Robotics, Controls, and Computer Architecture. I have a passion for teaching and enjoy spending my free time with my wife and puppy and ski racing in the winters.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/ariel-anders/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/ariel-anders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/sertac-karaman/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/sertac-karaman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/zachary-manchester/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/zachary-manchester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jane Connor</title>
+      <link>https://plancherb1.github.io/authors/jane-connor/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/jane-connor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Vivilecchia</title>
+      <link>https://plancherb1.github.io/authors/john-vivilecchia/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/john-vivilecchia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenneth Gregson</title>
+      <link>https://plancherb1.github.io/authors/kenneth-gregson/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/kenneth-gregson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Boulet</title>
+      <link>https://plancherb1.github.io/authors/michael-boulet/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/michael-boulet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mubarik Mohamoud</title>
+      <link>https://plancherb1.github.io/authors/mubarik-mohamoud/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/mubarik-mohamoud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Owen Guldner</title>
+      <link>https://plancherb1.github.io/authors/owen-guldner/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/owen-guldner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Shin</title>
+      <link>https://plancherb1.github.io/authors/robert-shin/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/robert-shin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winter Guerra</title>
+      <link>https://plancherb1.github.io/authors/winter-guerra/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/winter-guerra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

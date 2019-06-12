@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Differential Dynamic Programming on Brian Plancher</title>
+    <link>https://plancherb1.github.io/tags/differential-dynamic-programming/</link>
+    <description>Recent content in Differential Dynamic Programming on Brian Plancher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://plancherb1.github.io/tags/differential-dynamic-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Realtime Model Predictive Control using Parallel DDP on a GPU</title>
+      <link>https://plancherb1.github.io/publication/parallelddp_icra/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/parallelddp_icra/</guid>
+      <description>In this extended abstract we extend our previous work by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.</description>
+    </item>
+    
+    <item>
+      <title>A Performance Analysis of Parallel Differential Dynamic Programming on a GPU</title>
+      <link>https://plancherb1.github.io/publication/parallelddp/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/parallelddp/</guid>
+      <description>We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism.</description>
+    </item>
+    
+    <item>
+      <title>Parallel and Constrained Differential Dynamic Programming for Model Predictive Control</title>
+      <link>https://plancherb1.github.io/publication/mastersthesis/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/mastersthesis/</guid>
+      <description>This thesis builds on recent work on Unscented Dynamic Programming (UDP)—which eliminates dynamics derivative computations in DDP—to support general nonlinear state and input constraints to high precision using an augmented Lagrangian. It then leverages parallel computations for increased throughput and systematically analyzes the insights, challenges, tradeoffs, and benefits of implementing a parallelized variant of DDP on both a multi-core CPU and a graphics processing unit (GPU).</description>
+    </item>
+    
+    <item>
+      <title>Constrained Unscented Dynamic Programming</title>
+      <link>https://plancherb1.github.io/publication/cudp/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/cudp/</guid>
+      <description>We build on recent work on Unscented Dynamic Programming (UDP) - which eliminates dynamics derivative computations in DDP - to support general nonlinear state and input constraints using an augmented Lagrangian. The resulting algorithm has the same computational cost as first-order penalty-based DDP variants, but can achieve constraint satisfaction to high precision without the numerical ill-conditioning associated with penalty methods.</description>
+    </item>
+    
+  </channel>
+</rss>

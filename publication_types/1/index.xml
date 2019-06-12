@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Brian Plancher</title>
+    <link>https://plancherb1.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Brian Plancher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://plancherb1.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Performance Analysis of Parallel Differential Dynamic Programming on a GPU</title>
+      <link>https://plancherb1.github.io/publication/parallelddp/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/parallelddp/</guid>
+      <description>We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism.</description>
+    </item>
+    
+    <item>
+      <title>Constrained Unscented Dynamic Programming</title>
+      <link>https://plancherb1.github.io/publication/cudp/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/cudp/</guid>
+      <description>We build on recent work on Unscented Dynamic Programming (UDP) - which eliminates dynamics derivative computations in DDP - to support general nonlinear state and input constraints using an augmented Lagrangian. The resulting algorithm has the same computational cost as first-order penalty-based DDP variants, but can achieve constraint satisfaction to high precision without the numerical ill-conditioning associated with penalty methods.</description>
+    </item>
+    
+    <item>
+      <title>Project-based, collaborative, algorithmic robotics for high school students: Programming self-driving race cars at MIT</title>
+      <link>https://plancherb1.github.io/publication/racecarteaching/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/racecarteaching/</guid>
+      <description>We describe the pedagogy behind the MIT Beaver Works Summer Institute Robotics Program, a new high-school STEM program in robotics. The program utilizes state-of-the-art sensors and embedded computers for mobile robotics. The program was offered as a four-week residential program at MIT in the summer of 2016.</description>
+    </item>
+    
+  </channel>
+</rss>
