@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://plancherb1.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Application of Approximate Matrix Multiplication to Neural Networks and Distributed SLAM</title>
+      <link>https://plancherb1.github.io/publication/appliedapproxmm/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/appliedapproxmm/</guid>
+      <description>We apply approximate matrix multiplication to artificial Neural Networks for image classification and to the robotics problem of Distributed Simultaneous Localization and Mapping increasing the speed of both applications by 15-20% while maintaining a 97% classification accuracy for NNs running on the MNIST dataset and keeping the average robot position error under 1 meter (vs 0.32 meters for the exact solution). However, both applications experience variance in their results.</description>
+    </item>
+    
+    <item>
+      <title>The Role of Compute in Autonomous Aerial Vehicles</title>
+      <link>https://plancherb1.github.io/publication/roleofcompute/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/roleofcompute/</guid>
+      <description>By combining MAVBench (our tool-set, which consists of (1) a closed-loop real-time feedback simulator and (2) an end-to-end benchmark suite comprised of state-of-the-art kernels), analytical modeling, and an understanding of various compute impacts, we show up to 2X and 1.8X improvements for mission time and mission energy for two optimization case studies. Our investigations, as well as our optimizations, show that cyber-physical co-design, a methodology with which both the cyber and physical processes/quantities of the robot are developed with consideration of one another, similar to hardware-software co-design, is necessary for arriving at the design of the optimal robot.</description>
+    </item>
     
     <item>
       <title>Realtime Model Predictive Control using Parallel DDP on a GPU</title>
@@ -60,10 +78,10 @@
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/admin/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/admin/</guid>
-      <description>I am a PhD student studying Robotics and Controls at Harvard University working with Vijay Janapa Reddi and Scott Kuindersma. My research is focused on developing and implementing algorithms for realtime model predictive control for complex high dimensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such my reserach spans Robotics, Controls, and Computer Architecture. I have a passion for teaching and enjoy spending my free time with my wife and puppy and ski racing in the winters.</description>
+      <description>I am a PhD student studying Robotics and Controls at Harvard University working with Vijay Janapa Reddi and Scott Kuindersma. My research is focused on developing and implementing algorithms for realtime model predictive control for complex high dimensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such my research spans Robotics, Controls, and Computer Architecture. I have a passion for teaching and enjoy spending my free time with my wife and puppy and ski racing in the winters.</description>
     </item>
     
   </channel>
