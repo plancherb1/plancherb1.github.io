@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Plancher</title>
+    <link>https://plancherb1.github.io/authors/thierry-tambe/</link>
+    <description>Recent content on Brian Plancher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    
+	<atom:link href="https://plancherb1.github.io/authors/thierry-tambe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/thierry-tambe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/thierry-tambe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
