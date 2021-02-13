@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Brian Plancher</title>
@@ -7,60 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/camelia-d.-brumar/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/camelia-d.-brumar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/david-brooks/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/david-brooks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/iulian-brumar/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/iulian-brumar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/lilliam-pentecost/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/lilliam-pentecost/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/saketh-rama/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/saketh-rama/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/admin/</link>
-      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/admin/</guid>
       <description>I am a PhD student studying Robotics at Harvard University working with Vijay Janapa Reddi and Scott Kuindersma. My research is focused on developing and implementing algorithms for dynamic motion planning and control of complex high dimensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms. As such my research is focused at the intersection of Robotics and Numerical Optimization, Computer Architecture / Embedded Systems, and Machine Learning.</description>
@@ -68,55 +19,136 @@
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/aleksandra-faust/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <link>https://plancherb1.github.io/authors/sabrinaneuman/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/aleksandra-faust/</guid>
+      <guid>https://plancherb1.github.io/authors/sabrinaneuman/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/bardienus-duisterhof/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <link>https://plancherb1.github.io/authors/scottkuindersma/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/bardienus-duisterhof/</guid>
+      <guid>https://plancherb1.github.io/authors/scottkuindersma/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/behzad-boroujerdian/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <link>https://plancherb1.github.io/authors/srinidevadas/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/behzad-boroujerdian/</guid>
+      <guid>https://plancherb1.github.io/authors/srinidevadas/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/hasan-genc/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <link>https://plancherb1.github.io/authors/thomasbourgeat/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/hasan-genc/</guid>
+      <guid>https://plancherb1.github.io/authors/thomasbourgeat/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/srivatsan-krishnan/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <link>https://plancherb1.github.io/authors/vijayjanapareddi/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/srivatsan-krishnan/</guid>
+      <guid>https://plancherb1.github.io/authors/vijayjanapareddi/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/vijay-janapa-reddi/</link>
+      <link>https://plancherb1.github.io/authors/cameliabrumar/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/cameliabrumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/davidbrooks/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/davidbrooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/iulianbrumar/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/iulianbrumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/lilliampentecost/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/lilliampentecost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/sakethrama/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/sakethrama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/aleksandrafaust/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/vijay-janapa-reddi/</guid>
+      <guid>https://plancherb1.github.io/authors/aleksandrafaust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/bardienusduisterhof/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/bardienusduisterhof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/behzadboroujerdian/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/behzadboroujerdian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/hasangenc/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/hasangenc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/srivatsankrishnan/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/srivatsankrishnan/</guid>
       <description></description>
     </item>
     
@@ -149,37 +181,28 @@
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/scott-kuindersma/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <link>https://plancherb1.github.io/authors/arielanders/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/scott-kuindersma/</guid>
+      <guid>https://plancherb1.github.io/authors/arielanders/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/ariel-anders/</link>
+      <link>https://plancherb1.github.io/authors/sertackaraman/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/ariel-anders/</guid>
+      <guid>https://plancherb1.github.io/authors/sertackaraman/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/sertac-karaman/</link>
+      <link>https://plancherb1.github.io/authors/zacharymanchester/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/sertac-karaman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/zachary-manchester/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/zachary-manchester/</guid>
+      <guid>https://plancherb1.github.io/authors/zacharymanchester/</guid>
       <description></description>
     </item>
     
@@ -257,37 +280,10 @@
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/sabrina-neuman/</link>
+      <link>https://plancherb1.github.io/authors/thierrytambe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/sabrina-neuman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/srini-devadas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/srini-devadas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/thierry-tambe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/thierry-tambe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/thomas-bourgeat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/thomas-bourgeat/</guid>
+      <guid>https://plancherb1.github.io/authors/thierrytambe/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Brian Plancher</title>
@@ -7,10 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FPGA</title>
+      <link>https://plancherb1.github.io/tags/fpga/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPU</title>
+      <link>https://plancherb1.github.io/tags/gpu/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/gpu/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Hardware Acceleration</title>
+      <link>https://plancherb1.github.io/tags/hardware-acceleration/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://plancherb1.github.io/tags/parallel-computing/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rigid Body Dynamics</title>
+      <link>https://plancherb1.github.io/tags/rigid-body-dynamics/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/rigid-body-dynamics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Approximation</title>
@@ -85,29 +126,11 @@
     </item>
     
     <item>
-      <title>GPU</title>
-      <link>https://plancherb1.github.io/tags/gpu/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/gpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Model Predictive Control</title>
       <link>https://plancherb1.github.io/tags/model-predictive-control/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/model-predictive-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Computing</title>
-      <link>https://plancherb1.github.io/tags/parallel-computing/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/parallel-computing/</guid>
       <description></description>
     </item>
     

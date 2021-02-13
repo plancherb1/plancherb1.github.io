@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Brian Plancher</title>
@@ -7,10 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://plancherb1.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA</title>
+      <link>https://plancherb1.github.io/publication/accellrbdgrad/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/accellrbdgrad/</guid>
+      <description>In this paper, we detail the designs of three faster than state-of-the-art implementations of the gradient of rigid body dynamics on a CPU, GPU, and FPGA. Our optimized FPGA and GPU implementations provide as much as a 3.0x end-to-end speedup over our optimized CPU implementation by refactoring the algorithm to exploit its computational features, e.g., parallelism at different granularities.</description>
+    </item>
     
     <item>
       <title>Application of Approximate Matrix Multiplication to Neural Networks and Distributed SLAM</title>

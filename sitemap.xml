@@ -1,41 +1,125 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://plancherb1.github.io/authors/camelia-d.-brumar/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/david-brooks/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/iulian-brumar/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/lilliam-pentecost/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/saketh-rama/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://plancherb1.github.io/authors/admin/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/sabrinaneuman/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/scottkuindersma/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/srinidevadas/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/thomasbourgeat/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/vijayjanapareddi/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication_types/2/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication/accellrbdgrad/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/fpga/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/gpu/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/hardware-acceleration/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication_types/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/rigid-body-dynamics/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/cameliabrumar/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/davidbrooks/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/iulianbrumar/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/lilliampentecost/</loc>
+    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/sakethrama/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/publication_types/1/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -46,126 +130,81 @@
   <url>
     <loc>https://plancherb1.github.io/tags/approximation/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/tags/neural-networks/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/publication_types/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/publication/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/tags/slam/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/tags/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/aleksandra-faust/</loc>
+    <loc>https://plancherb1.github.io/authors/aleksandrafaust/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/bardienus-duisterhof/</loc>
+    <loc>https://plancherb1.github.io/authors/bardienusduisterhof/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/behzad-boroujerdian/</loc>
+    <loc>https://plancherb1.github.io/authors/behzadboroujerdian/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/hasan-genc/</loc>
+    <loc>https://plancherb1.github.io/authors/hasangenc/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/srivatsan-krishnan/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/vijay-janapa-reddi/</loc>
+    <loc>https://plancherb1.github.io/authors/srivatsankrishnan/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/publication_types/3/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/tags/compute/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/tags/cyber-physical-systems/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/authors/kayvan-mansoorshahi/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/mav/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/authors/marcelino-almeida/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/mav/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/tags/motion-planning/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/authors/pieter-bardienus/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -174,38 +213,18 @@
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/scott-kuindersma/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://plancherb1.github.io/publication_types/0/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/tags/differential-dynamic-programming/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/gpu/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -221,13 +240,11 @@
   <url>
     <loc>https://plancherb1.github.io/publication_types/7/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/tags/augmented-lagrangian/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -238,21 +255,20 @@
   <url>
     <loc>https://plancherb1.github.io/tags/unscented-transform/</loc>
     <lastmod>2018-05-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/ariel-anders/</loc>
+    <loc>https://plancherb1.github.io/authors/arielanders/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/sertac-karaman/</loc>
+    <loc>https://plancherb1.github.io/authors/sertackaraman/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/zachary-manchester/</loc>
+    <loc>https://plancherb1.github.io/authors/zacharymanchester/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -264,37 +280,31 @@
   <url>
     <loc>https://plancherb1.github.io/authors/jane-connor/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/authors/john-vivilecchia/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/authors/kenneth-gregson/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/authors/michael-boulet/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/authors/mubarik-mohamoud/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/authors/owen-guldner/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -305,40 +315,24 @@
   <url>
     <loc>https://plancherb1.github.io/authors/robert-shin/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/tags/stem-education/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/authors/winter-guerra/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/sabrina-neuman/</loc>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/srini-devadas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/thierry-tambe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/thomas-bourgeat/</loc>
+    <loc>https://plancherb1.github.io/authors/thierrytambe/</loc>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
