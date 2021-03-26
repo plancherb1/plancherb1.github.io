@@ -93,6 +93,46 @@
   </url>
   
   <url>
+    <loc>https://plancherb1.github.io/courses/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/embedded-systems/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/courses/tinymledx/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/machine-learning/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/tinyml/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/applied-ai/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/arduino/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/courses/cs249r_tinyml/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://plancherb1.github.io/authors/cameliabrumar/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
@@ -140,6 +180,46 @@
   <url>
     <loc>https://plancherb1.github.io/tags/slam/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/computer-architecture/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/control/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/hardware-software-co-design/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/courses/cs249r_autonomous/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/mapping-localization/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/perception/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/planning/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/robotics/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -325,6 +405,46 @@
   <url>
     <loc>https://plancherb1.github.io/authors/winter-guerra/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/artificial-intelligence/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/courses/cs182/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/robot-motion-planning/</loc>
+    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/circuit-design/</loc>
+    <lastmod>2017-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/digital-fabrication/</loc>
+    <lastmod>2017-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/courses/htmaa/</loc>
+    <lastmod>2017-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/autonomous-vehicles/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/courses/beaverworks/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

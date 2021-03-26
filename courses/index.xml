@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Brian Plancher</title>
+    <link>https://plancherb1.github.io/courses/</link>
+    <description>Recent content in Courses on Brian Plancher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HarvardX: Tiny Machine Learning MOOC</title>
+      <link>https://plancherb1.github.io/courses/tinymledx/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/tinymledx/</guid>
+      <description>In this exciting Professional Certificate program offered by Harvard University and Google TensorFlow, you will learn about the emerging field of Tiny Machine Learning (TinyML), its real-world applications, and the future possibilities of this transformative technology. TinyML is a cutting-edge field that brings the transformative power of machine learning (ML) to the performance-constrained and power-constrained domain of embedded systems. The program will emphasize hands-on experience and is a collaboration between expert faculty at Harvard’s John A. Paulson School of Engineering and Applied Sciences (SEAS) and innovative members of Google’s TensorFlow team.</description>
+    </item>
+    
+    <item>
+      <title>Harvard CS249r: Tiny Machine Learning (TinyML)</title>
+      <link>https://plancherb1.github.io/courses/cs249r_tinyml/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/cs249r_tinyml/</guid>
+      <description>An introductory course on Applied AI at the intersection of Machine Learning and Embedded IoT Devices. We provide background on both topics and then dive into the unique challenges faced at that intersection point with hands-on assignments using TensorFlow, Google Colab, and Arduino.</description>
+    </item>
+    
+    <item>
+      <title>Harvard CS249r: Special Topics in Edge Computing - Autonomous Machines</title>
+      <link>https://plancherb1.github.io/courses/cs249r_autonomous/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/cs249r_autonomous/</guid>
+      <description>Modern embedded systems are intelligent devices that involve complex hardware and software to perform a multitude of cognitive functions collaboratively. Designing such systems requires us to have deep understanding of the target application domains, as well as an appreciation for the coupling between the hardware and the software subsystems.This course is structured around building “systems” for Autonomous Machines (cars, drones, ground robots, manipulators, etc.). For example, we will discuss what are all the hardware and software components that are involved in developing the intelligence required for an autonomous car?</description>
+    </item>
+    
+    <item>
+      <title>Harvard CS 182: Introduction to Artificial Intelligence</title>
+      <link>https://plancherb1.github.io/courses/cs182/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/cs182/</guid>
+      <description>Artificial Intelligence (AI) is an exciting field that has enabled a wide range of cutting-edge tech-nology, from driverless cars to grandmaster-beating Go programs. The goal of this course is to introduce the ideas and techniques underlying the design of intelligent computer systems. Topics covered in this course are broadly be divided into 1) planning and search algorithms, 2) probabilistic reasoning and representations, and 3) machine learning (although, as you will see, it is impossible to separate these ideas so neatly).</description>
+    </item>
+    
+    <item>
+      <title>MIT MAS.863 - How to Make Almost Anything</title>
+      <link>https://plancherb1.github.io/courses/htmaa/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/htmaa/</guid>
+      <description>This course provides a hands-on introduction to the resources for designing and fabricating smart systems, including CAD/CAM/CAE; NC machining, 3-D printing, injection molding, laser cutting; PCB layout and fabrication; sensors and actuators; analog instrumentation; embedded digital processing; wired and wireless communications. This course also puts emphasis on learning how to use the tools as well as understand how they work. By the end of the course you will know how to make&amp;hellip; almost anything.</description>
+    </item>
+    
+    <item>
+      <title>MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix</title>
+      <link>https://plancherb1.github.io/courses/beaverworks/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/beaverworks/</guid>
+      <description>Driverless vehicle technology has been growing at an exponential pace since the DARPA Grand and Urban Challenges pushed the state of the art to demonstrate what was already possible. Commercial interest and aggressive development are being driven by Google, Toyota, Tesla, Continental, Uber, Apple, NVidia, and many other companies. There is no single technology or “killer app” available to solve the myriad perception, understanding, localization, planning, and control problems required to achieve robust navigation in highly variable, extremely complex and dynamically changing environments. This summer, Beaver Works Summer Institute will offer nine teams of five students, each with its own MIT-designed RACECAR (Rapid Autonomous Complex Environment Competing Ackermann steeRing) robot, the opportunity to explore the broad spectrum of research in these areas, learn to collaborate, and demonstrate fast, autonomous navigation in a Mini Grand Prix to Move&amp;hellip; Explore&amp;hellip; Learn&amp;hellip;Race!</description>
+    </item>
+    
+  </channel>
+</rss>

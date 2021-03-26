@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence on Brian Plancher</title>
+    <link>https://plancherb1.github.io/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on Brian Plancher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harvard CS 182: Introduction to Artificial Intelligence</title>
+      <link>https://plancherb1.github.io/courses/cs182/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/cs182/</guid>
+      <description>Artificial Intelligence (AI) is an exciting field that has enabled a wide range of cutting-edge tech-nology, from driverless cars to grandmaster-beating Go programs. The goal of this course is to introduce the ideas and techniques underlying the design of intelligent computer systems. Topics covered in this course are broadly be divided into 1) planning and search algorithms, 2) probabilistic reasoning and representations, and 3) machine learning (although, as you will see, it is impossible to separate these ideas so neatly).</description>
+    </item>
+    
+    <item>
+      <title>MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix</title>
+      <link>https://plancherb1.github.io/courses/beaverworks/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/beaverworks/</guid>
+      <description>Driverless vehicle technology has been growing at an exponential pace since the DARPA Grand and Urban Challenges pushed the state of the art to demonstrate what was already possible. Commercial interest and aggressive development are being driven by Google, Toyota, Tesla, Continental, Uber, Apple, NVidia, and many other companies. There is no single technology or “killer app” available to solve the myriad perception, understanding, localization, planning, and control problems required to achieve robust navigation in highly variable, extremely complex and dynamically changing environments. This summer, Beaver Works Summer Institute will offer nine teams of five students, each with its own MIT-designed RACECAR (Rapid Autonomous Complex Environment Competing Ackermann steeRing) robot, the opportunity to explore the broad spectrum of research in these areas, learn to collaborate, and demonstrate fast, autonomous navigation in a Mini Grand Prix to Move&amp;hellip; Explore&amp;hellip; Learn&amp;hellip;Race!</description>
+    </item>
+    
+  </channel>
+</rss>
