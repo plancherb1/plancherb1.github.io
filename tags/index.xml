@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embedded Systems</title>
+      <link>https://plancherb1.github.io/tags/embedded-systems/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://plancherb1.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOOC</title>
+      <link>https://plancherb1.github.io/tags/mooc/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/mooc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEM Education</title>
+      <link>https://plancherb1.github.io/tags/stem-education/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/stem-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TinyML</title>
+      <link>https://plancherb1.github.io/tags/tinyml/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/tinyml/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>FPGA</title>
       <link>https://plancherb1.github.io/tags/fpga/</link>
@@ -68,33 +113,6 @@
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/rigid-body-dynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Embedded Systems</title>
-      <link>https://plancherb1.github.io/tags/embedded-systems/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/embedded-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://plancherb1.github.io/tags/machine-learning/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TinyML</title>
-      <link>https://plancherb1.github.io/tags/tinyml/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/tinyml/</guid>
       <description></description>
     </item>
     
@@ -257,15 +275,6 @@
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/unscented-transform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STEM Education</title>
-      <link>https://plancherb1.github.io/tags/stem-education/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/stem-education/</guid>
       <description></description>
     </item>
     
