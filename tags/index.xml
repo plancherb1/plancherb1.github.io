@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://plancherb1.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEM Education</title>
+      <link>https://plancherb1.github.io/tags/stem-education/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/stem-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TinyML</title>
+      <link>https://plancherb1.github.io/tags/tinyml/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/tinyml/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Embedded Systems</title>
       <link>https://plancherb1.github.io/tags/embedded-systems/</link>
@@ -32,24 +59,6 @@
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/mooc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STEM Education</title>
-      <link>https://plancherb1.github.io/tags/stem-education/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/stem-education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TinyML</title>
-      <link>https://plancherb1.github.io/tags/tinyml/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/tinyml/</guid>
       <description></description>
     </item>
     
@@ -275,15 +284,6 @@
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/unscented-transform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://plancherb1.github.io/tags/artificial-intelligence/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
