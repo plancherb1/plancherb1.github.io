@@ -7,14 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/admin/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/admin/</guid>
       <description>I am a PhD Candidate studying Robotics at Harvard University working with Vijay Janapa Reddi and Scott Kuindersma. I want to improve the accessibility of STEM education. As such, I enjoy teaching and designing new interdisciplinary, project-based, open-access courses that lower the barrier to entry of cutting edge topics like TinyML. My research is focused on developing and implementing algorithms for dynamic motion planning and control of complex, high dimensional robots by exploiting both the mathematical structure of algorithms and the design of computational platforms.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/radhikaghosal/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/radhikaghosal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/sabrinaneuman/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/sabrinaneuman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/scottkuindersma/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/scottkuindersma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/vijayjanapareddi/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/vijayjanapareddi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/behzadboroujerdian/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/behzadboroujerdian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jon Cruz</title>
+      <link>https://plancherb1.github.io/authors/jon-cruz/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/jon-cruz/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -100,15 +154,6 @@
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/radhikaghosal/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/radhikaghosal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://plancherb1.github.io/authors/srivatsankrishnan/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -122,15 +167,6 @@
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/susankennedy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/vijayjanapareddi/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/vijayjanapareddi/</guid>
       <description></description>
     </item>
     
@@ -226,10 +262,55 @@
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/sabrinaneuman/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <link>https://plancherb1.github.io/authors/aleksandrafaust/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/sabrinaneuman/</guid>
+      <guid>https://plancherb1.github.io/authors/aleksandrafaust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/bardienusduisterhof/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/bardienusduisterhof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/hasangenc/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/hasangenc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kayvan Mansoorshahi</title>
+      <link>https://plancherb1.github.io/authors/kayvan-mansoorshahi/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/kayvan-mansoorshahi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcelino Almeida</title>
+      <link>https://plancherb1.github.io/authors/marcelino-almeida/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/marcelino-almeida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pieter Bardienus</title>
+      <link>https://plancherb1.github.io/authors/pieter-bardienus/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/pieter-bardienus/</guid>
       <description></description>
     </item>
     
@@ -262,10 +343,10 @@
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/scottkuindersma/</link>
-      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      <link>https://plancherb1.github.io/authors/levgrossman/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/scottkuindersma/</guid>
+      <guid>https://plancherb1.github.io/authors/levgrossman/</guid>
       <description></description>
     </item>
     
@@ -311,69 +392,6 @@
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/sakethrama/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/aleksandrafaust/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/aleksandrafaust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/bardienusduisterhof/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/bardienusduisterhof/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/behzadboroujerdian/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/behzadboroujerdian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/hasangenc/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/hasangenc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kayvan Mansoorshahi</title>
-      <link>https://plancherb1.github.io/authors/kayvan-mansoorshahi/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/kayvan-mansoorshahi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marcelino Almeida</title>
-      <link>https://plancherb1.github.io/authors/marcelino-almeida/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/marcelino-almeida/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pieter Bardienus</title>
-      <link>https://plancherb1.github.io/authors/pieter-bardienus/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/pieter-bardienus/</guid>
       <description></description>
     </item>
     
@@ -473,6 +491,42 @@
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/winter-guerra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/greggbarrett/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/greggbarrett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/halspeed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/halspeed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/marcelorovai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/marcelorovai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/marcozennaro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/marcozennaro/</guid>
       <description></description>
     </item>
     

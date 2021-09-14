@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients</title>
+      <link>https://plancherb1.github.io/publication/grid/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/grid/</guid>
+      <description>We introduce and release GRiD, an open-source, GPU-accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate nonlinear trajectory optimization Through optimized code generation, GRiD provides as much as a 7.6x speedup over a state-of-the-art, multi-threaded CPU implementation and maintains as much as a 2.6x speedup when accounting for I/O overhead.</description>
+    </item>
+    
     <item>
       <title>Accelerating Robot Dynamics Gradients on a CPU, GPU, and FPGA</title>
       <link>https://plancherb1.github.io/publication/accellrbdgrad/</link>

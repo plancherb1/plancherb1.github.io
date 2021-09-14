@@ -3,12 +3,137 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://plancherb1.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
+    <loc>https://plancherb1.github.io/authors/admin/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/radhikaghosal/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/sabrinaneuman/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/scottkuindersma/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/vijayjanapareddi/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication_types/3/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/gpu/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication/grid/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/hardware-acceleration/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication_types/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/rigid-body-dynamics/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/</loc>
+    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/outreach/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/projects/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/behzadboroujerdian/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication_types/1/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/compute/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/cyber-physical-systems/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/jon-cruz/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/mav/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication/roborun/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/runtimes/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,18 +153,8 @@
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/tags/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://plancherb1.github.io/tags/tinyml/</loc>
     <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/admin/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -88,32 +203,12 @@
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/radhikaghosal/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://plancherb1.github.io/authors/srivatsankrishnan/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/authors/susankennedy/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/vijayjanapareddi/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/publication_types/3/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,16 +263,6 @@
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/publication_types/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/publication/</loc>
-    <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://plancherb1.github.io/authors/rupert-jaeger/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
   </url>
@@ -198,8 +283,43 @@
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/sabrinaneuman/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+    <loc>https://plancherb1.github.io/authors/aleksandrafaust/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/bardienusduisterhof/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/hasangenc/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/kayvan-mansoorshahi/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/marcelino-almeida/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/motion-planning/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/pieter-bardienus/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication/roleofcompute/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -218,17 +338,7 @@
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/publication_types/1/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://plancherb1.github.io/tags/fpga/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/hardware-acceleration/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -248,32 +358,12 @@
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/scottkuindersma/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://plancherb1.github.io/publication_types/2/</loc>
     <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/publication/accellrbdgrad/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/gpu/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/rigid-body-dynamics/</loc>
     <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -295,6 +385,31 @@
   <url>
     <loc>https://plancherb1.github.io/courses/cs249r_tinyml/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/levgrossman/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication_types/7/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/publication/levthesis/</loc>
+    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -373,77 +488,12 @@
   </url>
   
   <url>
-    <loc>https://plancherb1.github.io/authors/aleksandrafaust/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/bardienusduisterhof/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/behzadboroujerdian/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/hasangenc/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/compute/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/cyber-physical-systems/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/kayvan-mansoorshahi/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/marcelino-almeida/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/mav/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/motion-planning/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/authors/pieter-bardienus/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/publication/roleofcompute/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/publication_types/0/</loc>
+    <loc>https://plancherb1.github.io/publication_types/9/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://plancherb1.github.io/tags/differential-dynamic-programming/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -455,11 +505,6 @@
   <url>
     <loc>https://plancherb1.github.io/publication/parallelddp/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://plancherb1.github.io/publication_types/7/</loc>
-    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -578,7 +623,27 @@
   </url>
   
   <url>
+    <loc>https://plancherb1.github.io/authors/greggbarrett/</loc>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/halspeed/</loc>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/marcelorovai/</loc>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/authors/marcozennaro/</loc>
+  </url>
+  
+  <url>
     <loc>https://plancherb1.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/projects/acceleratingrobotics/</loc>
   </url>
   
   <url>
@@ -587,6 +652,18 @@
   
   <url>
     <loc>https://plancherb1.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/projects/robusttrajopt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/projects/tinymlx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://plancherb1.github.io/projects/tinyrobots/</loc>
   </url>
   
 </urlset>

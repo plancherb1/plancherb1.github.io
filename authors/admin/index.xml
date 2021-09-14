@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GRiD: GPU-Accelerated Rigid Body Dynamics with Analytical Gradients</title>
+      <link>https://plancherb1.github.io/publication/grid/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/grid/</guid>
+      <description>We introduce and release GRiD, an open-source, GPU-accelerated library for computing rigid body dynamics with analytical gradients. GRiD was designed to accelerate nonlinear trajectory optimization Through optimized code generation, GRiD provides as much as a 7.6x speedup over a state-of-the-art, multi-threaded CPU implementation and maintains as much as a 2.6x speedup when accounting for I/O overhead.</description>
+    </item>
+    
+    <item>
+      <title>RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity</title>
+      <link>https://plancherb1.github.io/publication/roborun/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/roborun/</guid>
+      <description>This paper introduces RoboRun, a mobile-robot runtime that dynamically exploits the compute-environment synergy to improve performance and energy. We implement RoboRun in the Robot Operating System (ROS) and evaluate it on autonomous drones. We compare RoboRun against a state-of-the-art static design and show 4.5X and 4X improvements in mission time and energy, respectively, as well as a 36% reduction in CPU utilization.</description>
+    </item>
+    
     <item>
       <title>Widening Access to Applied Machine Learning with TinyML</title>
       <link>https://plancherb1.github.io/publication/wideningaccesswithtinyml/</link>
@@ -15,6 +33,15 @@
       
       <guid>https://plancherb1.github.io/publication/wideningaccesswithtinyml/</guid>
       <description>In this paper, we describe our pedagogical approach to increasing access to applied ML through a four part massive open online course (MOOC) on Tiny Machine Learning (TinyML) produced in collaboration between academia (Harvard University) and industry (Google). We suggest that TinyML, ML on resource-constrained embedded devices, is an attractive means to widen access because TinyML both leverages low-cost and globally accessible hardware, and encourages the development of complete, self-contained applications, from data collection to deployment. We also released the course materials publicly, hoping they will inspire the next generation of ML practitioners and educators and further broaden access to cutting-edge ML technologies.</description>
+    </item>
+    
+    <item>
+      <title>The Role of Compute in Autonomous Aerial Vehicles</title>
+      <link>https://plancherb1.github.io/publication/roleofcompute/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/roleofcompute/</guid>
+      <description>By combining MAVBench (our tool-set, which consists of (1) a closed-loop real-time feedback simulator and (2) an end-to-end benchmark suite comprised of state-of-the-art kernels), analytical modeling, and an understanding of various compute impacts, we show up to 2X and 1.8X improvements for mission time and mission energy for two optimization case studies. Our investigations, as well as our optimizations, show that cyber-physical co-design, a methodology with which both the cyber and physical processes/quantities of the robot are developed with consideration of one another, similar to hardware-software co-design, is necessary for arriving at the design of the optimal robot.</description>
     </item>
     
     <item>
@@ -42,15 +69,6 @@
       
       <guid>https://plancherb1.github.io/publication/appliedapproxmm/</guid>
       <description>We apply approximate matrix multiplication to artificial Neural Networks for image classification and to the robotics problem of Distributed Simultaneous Localization and Mapping increasing the speed of both applications by 15-20% while maintaining a 97% classification accuracy for NNs running on the MNIST dataset and keeping the average robot position error under 1 meter (vs 0.32 meters for the exact solution). However, both applications experience variance in their results.</description>
-    </item>
-    
-    <item>
-      <title>The Role of Compute in Autonomous Aerial Vehicles</title>
-      <link>https://plancherb1.github.io/publication/roleofcompute/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/publication/roleofcompute/</guid>
-      <description>By combining MAVBench (our tool-set, which consists of (1) a closed-loop real-time feedback simulator and (2) an end-to-end benchmark suite comprised of state-of-the-art kernels), analytical modeling, and an understanding of various compute impacts, we show up to 2X and 1.8X improvements for mission time and mission energy for two optimization case studies. Our investigations, as well as our optimizations, show that cyber-physical co-design, a methodology with which both the cyber and physical processes/quantities of the robot are developed with consideration of one another, similar to hardware-software co-design, is necessary for arriving at the design of the optimal robot.</description>
     </item>
     
     <item>

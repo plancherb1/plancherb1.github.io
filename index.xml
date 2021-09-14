@@ -7,10 +7,61 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://plancherb1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>https://plancherb1.github.io/publication/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outreach</title>
+      <link>https://plancherb1.github.io/outreach/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/outreach/</guid>
+      <description>&lt;h2 id=&#34;co-chair&#34;&gt;Co-Chair:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tinymlx.org/4D/&#34;&gt;TinyML4D: TinyML for Developing Countries Working Group&lt;/a&gt;. A group of academics and industry professionals from
+around the globe working to increase global access to low-cost embedded machine learning education and research.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructor&#34;&gt;Instructor:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/crestlex&#34;&gt;CRESTLEX 3.0: CReating Effective STem Learning Experiences &amp;ndash; Summer 2021&lt;/a&gt;. A 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of TinyML. This program was a collaboration between Harvard, Navajo Technical University, Google, and Edge Impulse.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/coures/beaverworks&#34;&gt;MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix &amp;ndash; Summer 2016,17,18,19&lt;/a&gt;. A 4-week, project-based, summer program held at MIT for rising high school juniors and seniors exploring self driving cars. Students worked in teams of 4-6 to program their own 1/10-scale self driving car powered by an NVIDIA Jetson using an onboard LIDAR, stero camera, and IMU.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mentor&#34;&gt;Mentor:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hcwc.college.harvard.edu/&#34;&gt;Harvard College Women in Science, Technology, Engineering, and Mathematics (WiSTEM) Mentorship Program&lt;/a&gt;: &amp;ldquo;A program desinged to create and maintain an environment that fosters the growth and development of women students in the science, technology, engineering, and mathematics community at Harvard College.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.try-ai.org/&#34;&gt;Try AI&lt;/a&gt;: “A program designed to introduce early undergraduate students, particularly those identifying as women, Black, Latinx, and/or Indigenous, to research in Artificial Intelligence”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;judge&#34;&gt;Judge:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 &lt;a href=&#34;http://tech.seas.harvard.edu/harvardi3&#34;&gt;Harvard i3: The Harvard College Innovation Challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2020 &lt;a href=&#34;https://www.envisionbywistem.com/&#34;&gt;Harvard Women in STEM ENVISION Proposal-Writing Competition&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;member&#34;&gt;Member:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Harvard SEAS Committee on Diversity, Inclusion, and Belonging: Post-Bachelorette Outreach Program Working Group&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://plancherb1.github.io/projects/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/projects/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Courses</title>
@@ -18,15 +69,6 @@
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://plancherb1.github.io/publication/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/publication/</guid>
       <description></description>
     </item>
     
