@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 07 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SciTinyML - Scientific Use of Machine Learning on Low-Power Devices</title>
+      <link>https://plancherb1.github.io/courses/scitinyml/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/scitinyml/</guid>
+      <description>SciTinyML is a, five day, hands-on, virtual workshop exploring embedded ML (tinyML) through hands-on activities using the Edge Impulse cloud platform and a smartphone. This program is a collaboration between the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyML4D.</description>
+    </item>
+    
     <item>
       <title>CRESTLEX 3.0 - CReating Effective STem Learning EXperiences</title>
       <link>https://plancherb1.github.io/courses/crestlex/</link>
