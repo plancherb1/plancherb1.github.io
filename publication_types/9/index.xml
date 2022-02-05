@@ -14,7 +14,7 @@
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/publication/parallelddp_icra/</guid>
-      <description>In this extended abstract we extend our previous work by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.</description>
+      <description>In this extended abstract we extend our &lt;a href=&#34;https://plancherb1.github.io/publication/parallelddp&#34;&gt;previous work&lt;/a&gt; by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.</description>
     </item>
     
   </channel>

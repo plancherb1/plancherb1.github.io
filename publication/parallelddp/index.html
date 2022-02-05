@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism.">
+  <meta name="description" content="We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism. This work was [extended](/publication/parallelddp_icra) and used for MPC on a physical Kuka arm.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/publication/parallelddp/">
@@ -110,7 +110,7 @@
   <meta property="og:site_name" content="Brian Plancher">
   <meta property="og:url" content="https://plancherb1.github.io/publication/parallelddp/">
   <meta property="og:title" content="A Performance Analysis of Parallel Differential Dynamic Programming on a GPU | Brian Plancher">
-  <meta property="og:description" content="We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism."><meta property="og:image" content="https://plancherb1.github.io/publication/parallelddp/featured.png">
+  <meta property="og:description" content="We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism. This work was [extended](/publication/parallelddp_icra) and used for MPC on a physical Kuka arm."><meta property="og:image" content="https://plancherb1.github.io/publication/parallelddp/featured.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2019-05-31T00:00:00&#43;00:00">
@@ -403,6 +403,10 @@
 
         
 
+        <p class="page-subtitle">
+
+</p>
+
         
 
 
@@ -564,6 +568,10 @@
 
 
 
+  
+
+
+
 <meta content="2018-12-11 00:00:00 &#43;0000 UTC" itemprop="datePublished">
 <meta content="2018-12-11 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
@@ -708,7 +716,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text">Parallelism can be used to significantly increase the throughput of computationally expensive algorithms. With the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving trajectory optimization problems online. Differential Dynamic Programming (DDP) algorithms have been shown to achieve some of the best timing performance in robotics tasks by making use of optimized dynamics methods and CPU multi-threading. This paper aims to analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism.</p>
+      <p class="pub-abstract" itemprop="text">Parallelism can be used to significantly increase the throughput of computationally expensive algorithms. With the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving trajectory optimization problems online. Differential Dynamic Programming (DDP) algorithms have been shown to achieve some of the best timing performance in robotics tasks by making use of optimized dynamics methods and CPU multi-threading. This paper aims to analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism. This work was <a href="/publication/parallelddp_icra">extended</a> and used for MPC on a physical Kuka arm.</p>
     
 
     
@@ -881,7 +889,7 @@
   
 
   <p class="powered-by">
-    © 2021 Brian Plancher &middot; 
+    © 2022 Brian Plancher &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
