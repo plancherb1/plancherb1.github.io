@@ -56,12 +56,12 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;judge&#34;&gt;Judge:&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;2021, 2022 &lt;a href=&#34;https://www.envisionbywistem.com/&#34;&gt;Harvard Women in STEM ENVISION Proposal-Writing Competition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;2021 &lt;a href=&#34;http://tech.seas.harvard.edu/harvardi3&#34;&gt;Harvard i3: The Harvard College Innovation Challenge&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;2020 &lt;a href=&#34;https://www.envisionbywistem.com/&#34;&gt;Harvard Women in STEM ENVISION Proposal-Writing Competition&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;member&#34;&gt;Member:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Harvard SEAS Committee on Diversity, Inclusion, and Belonging: Post-Bachelorette Outreach Program Working Group&lt;/li&gt;
+&lt;li&gt;2021 Harvard SEAS Committee on Diversity, Inclusion, and Belonging: Post-Bachelorette Outreach Program Working Group&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -77,20 +77,32 @@
     
     <item>
       <title>Posts</title>
-      <link>https://plancherb1.github.io/post/</link>
+      <link>https://plancherb1.github.io/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/post/</guid>
+      <guid>https://plancherb1.github.io/posts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://plancherb1.github.io/talk/</link>
+      <title>Talks</title>
+      <link>https://plancherb1.github.io/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/talk/</guid>
-      <description></description>
+      <guid>https://plancherb1.github.io/talks/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;“&lt;strong&gt;TinyMLedu: Widening Access to TinyML Education and Resources&lt;/strong&gt;,” TinyML Toronto Meetup, Remote, January 2022. &lt;a href=&#34;https://youtu.be/VowFpOsU5m0&#34;&gt;Video&lt;/a&gt;. &lt;a href=&#34;https://plancherb1.github.io/files/22.01_tinyMLtorontoMeetup_tinyMLedu_overview.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;“&lt;strong&gt;Hardware Acceleration for Realtime Robotics&lt;/strong&gt;,” Barnard College, New York, NY, December 2021. &lt;a href=&#34;https://youtu.be/IFXlHAfr_v0&#34;&gt;Video&lt;/a&gt;. &lt;a href=&#34;https://plancherb1.github.io/files/21.12_Hardware_Acceleration_for_Realtime_Robotics.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;“&lt;strong&gt;Introduction to Robot Motion Planning&lt;/strong&gt;,” Simmons College, Boston, MA, December 2021. &lt;a href=&#34;https://plancherb1.github.io/files/21.12_Introduction_to_Robot_Motion_Planning.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;“&lt;strong&gt;TinyMLedu Outreach: Embedded Machine Learning for the Navajo Nation&lt;/strong&gt;,” TinyML for Good, Remote, November 2021. &lt;a href=&#34;https://youtu.be/Qi7N4KPcQZA?t=1712&#34;&gt;Video&lt;/a&gt;. &lt;a href=&#34;https://plancherb1.github.io/files/21.11_tinyMLForGood_tinyMLedu_outreach.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;“&lt;strong&gt;Hands-on Embedded ML from Theory to Practice: Vision and Audio&lt;/strong&gt;,” SciTinyML: Scientific Use of Machine Learning on
+Low-Power Devices Workshop, Remote, October 2021. &lt;a href=&#34;https://youtu.be/8HU1uOqZmLA&#34;&gt;Video&lt;/a&gt;. &lt;a href=&#34;https://plancherb1.github.io/files/21.10_SciTinyML_Hands_On_Vision_Audio.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;“&lt;strong&gt;Robust Realtime Model Predictive Control through Co-Design&lt;/strong&gt;,” CMU Robotic Exploration Lab, Remote, December 2020.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;strong&gt;Custom Accelerator Chips (ASICs) for Robotics / Autonomous Systems&lt;/strong&gt;,” Pillar VC, Boston, MA, April 2020.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;strong&gt;Accelerating Real Time Model Predictive Control&lt;/strong&gt;,&amp;rdquo; Optimus Ride, Boston, MA, October 2019.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;strong&gt;GPU Acceleration for Robotics&lt;/strong&gt;,” DUT/MIT Formula Student Driverless, Cambridge, MA, November 2018.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
