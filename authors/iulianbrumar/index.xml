@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/iulianbrumar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://plancherb1.github.io/authors/iulianbrumar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Application of Approximate Matrix Multiplication to Neural Networks and Distributed SLAM</title>
       <link>https://plancherb1.github.io/publication/appliedapproxmm/</link>
