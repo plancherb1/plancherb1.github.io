@@ -7,17 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Control</title>
+      <link>https://plancherb1.github.io/tags/control/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Embedded Systems</title>
       <link>https://plancherb1.github.io/tags/embedded-systems/</link>
-      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://plancherb1.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping &amp; Localization</title>
+      <link>https://plancherb1.github.io/tags/mapping-localization/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/mapping-localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception</title>
+      <link>https://plancherb1.github.io/tags/perception/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning</title>
+      <link>https://plancherb1.github.io/tags/planning/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-World Deployments</title>
+      <link>https://plancherb1.github.io/tags/real-world-deployments/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/real-world-deployments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://plancherb1.github.io/tags/robotics/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
@@ -27,15 +90,6 @@
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/global-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://plancherb1.github.io/tags/machine-learning/</link>
-      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -175,15 +229,6 @@
     </item>
     
     <item>
-      <title>Robotics</title>
-      <link>https://plancherb1.github.io/tags/robotics/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Applied AI</title>
       <link>https://plancherb1.github.io/tags/applied-ai/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
@@ -252,42 +297,6 @@
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/computer-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Control</title>
-      <link>https://plancherb1.github.io/tags/control/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping &amp; Localization</title>
-      <link>https://plancherb1.github.io/tags/mapping-localization/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/mapping-localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perception</title>
-      <link>https://plancherb1.github.io/tags/perception/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Planning</title>
-      <link>https://plancherb1.github.io/tags/planning/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/planning/</guid>
       <description></description>
     </item>
     
