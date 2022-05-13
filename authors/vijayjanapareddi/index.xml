@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://plancherb1.github.io/authors/vijayjanapareddi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots</title>
+      <link>https://plancherb1.github.io/publication/tinyrobotlearning/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/tinyrobotlearning/</guid>
+      <description>Tiny robot learning lies at the intersection of embedded systems, robotics, and ML, compounding the challenges of these domains. This paper gives a brief survey of the tiny robot learning space, elaborates on key challenges, and proposes promising opportunities for future work in ML system design.</description>
+    </item>
+    
+    <item>
+      <title>RobotCore: An Open Architecture for Hardware Acceleration in ROS 2</title>
+      <link>https://plancherb1.github.io/publication/robotcore/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/robotcore/</guid>
+      <description>We introduce RobotCore, an architecture to integrate hardware acceleration in the widely-used ROS 2 robotics software framework. This architecture is target-agnostic (supports edge, workstation, data center, or cloud targets) and accelerator-agnostic (supports both FPGAs and GPUs). It builds on top of the common ROS 2 build system and tools and is easily portable across different research and commercial solutions through a new firmware layer. We also leverage the Linux Tracing Toolkit next generation (LTTng) for low-overhead real-time tracing and benchmarking. To demonstrate the acceleration enabled by this architecture, we design an intra-FPGA ROS 2 node communication queue to enable faster data flows, and use it in conjunction with FPGA-accelerated nodes to achieve a 24.42% speedup over a CPU.</description>
+    </item>
+    
+    <item>
+      <title>TinyML: Applied AI for Development</title>
+      <link>https://plancherb1.github.io/publication/tinymlunsti22/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/tinymlunsti22/</guid>
+      <description>We believe that TinyML has a significant role to play in achieving the SDGs and facilitating scientific research in areas such as environmental monitoring, physics of complex systems and energy management. To broaden access and participation and increase the impact of this new technology, we present an initiative that is creating and supporting a global network of academic institutions working on TinyML in developing countries. We suggest the development of additional open educational resources, South–South academic collaboration and pilot projects of at-scale TinyML solutions aimed at addressing the SDGs.</description>
+    </item>
     
     <item>
       <title>TinyMLedu: The Tiny Machine Learning Open Education Initiative</title>

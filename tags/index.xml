@@ -7,10 +7,127 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Embedded Systems</title>
+      <link>https://plancherb1.github.io/tags/embedded-systems/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://plancherb1.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://plancherb1.github.io/tags/robotics/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TinyML</title>
+      <link>https://plancherb1.github.io/tags/tinyml/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/tinyml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://plancherb1.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://plancherb1.github.io/tags/fpga/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Acceleration</title>
+      <link>https://plancherb1.github.io/tags/hardware-acceleration/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-Software Co-Design</title>
+      <link>https://plancherb1.github.io/tags/hardware-software-co-design/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/hardware-software-co-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROS2</title>
+      <link>https://plancherb1.github.io/tags/ros2/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/ros2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEM Education</title>
+      <link>https://plancherb1.github.io/tags/stem-education/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/stem-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>https://plancherb1.github.io/tags/sustainability/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainable Development</title>
+      <link>https://plancherb1.github.io/tags/sustainable-development/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/sustainable-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UN SDGs</title>
+      <link>https://plancherb1.github.io/tags/un-sdgs/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/un-sdgs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Control</title>
@@ -22,29 +139,11 @@
     </item>
     
     <item>
-      <title>Embedded Systems</title>
-      <link>https://plancherb1.github.io/tags/embedded-systems/</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/embedded-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hands-on</title>
       <link>https://plancherb1.github.io/tags/hands-on/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/hands-on/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://plancherb1.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -76,15 +175,6 @@
     </item>
     
     <item>
-      <title>Robotics</title>
-      <link>https://plancherb1.github.io/tags/robotics/</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Real-World Deployments</title>
       <link>https://plancherb1.github.io/tags/real-world-deployments/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
@@ -103,38 +193,11 @@
     </item>
     
     <item>
-      <title>STEM Education</title>
-      <link>https://plancherb1.github.io/tags/stem-education/</link>
-      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/stem-education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TinyML</title>
-      <link>https://plancherb1.github.io/tags/tinyml/</link>
-      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/tinyml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GPU</title>
       <link>https://plancherb1.github.io/tags/gpu/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/gpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware Acceleration</title>
-      <link>https://plancherb1.github.io/tags/hardware-acceleration/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/hardware-acceleration/</guid>
       <description></description>
     </item>
     
@@ -162,15 +225,6 @@
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/mooc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://plancherb1.github.io/tags/artificial-intelligence/</link>
-      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
@@ -216,24 +270,6 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/motion-planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FPGA</title>
-      <link>https://plancherb1.github.io/tags/fpga/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/fpga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware-Software Co-Design</title>
-      <link>https://plancherb1.github.io/tags/hardware-software-co-design/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/hardware-software-co-design/</guid>
       <description></description>
     </item>
     
