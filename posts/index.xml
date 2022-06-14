@@ -6,10 +6,6 @@
     <description>Recent content in Posts on Brian Plancher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    
-	<atom:link href="https://plancherb1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; {year} Brian Plancher</copyright><atom:link href="https://plancherb1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

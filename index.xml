@@ -28,8 +28,9 @@
       
       <guid>https://plancherb1.github.io/office_hours/</guid>
       <description>&lt;p&gt;Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that&amp;rsquo;s you, you are welcome to drop in at any time during the office hours; no appointment needed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you want to do research with me, please follow the instructions on the &lt;a href=&#34;https://a2r-lab.org/join&#34;&gt;A²R Lab Join&lt;/a&gt; page.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;For Fall 2022, my office hours are typically &lt;strong&gt;Tuesdays Time TBD&lt;/strong&gt;, with some changes and cancellations due to schedule conflicts or holidays. The full schedule is below, with exceptions shown in &lt;strong&gt;bold&lt;/strong&gt;. Changes to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.&lt;/p&gt;
-&lt;p&gt;I plan to hold these office hours in person in my office, location TBD. If you prefer to meet via Zoom, or would like to meet at a different time, please schedule a meeting through &lt;a href=&#34;https://calendly.com/bplancher/&#34;&gt;calendly&lt;/a&gt;. You can also reach me at &lt;a href=&#34;mailto:bplancher@barnard.edu&#34;&gt;bplancher@barnard.edu&lt;/a&gt;. I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend.&lt;/p&gt;
+&lt;p&gt;I plan to hold these office hours in person in my office in Milstein 512, but will also keep a Zoom window open for hybrid meetings. If you would like to meet at a different time, please send me an email at &lt;a href=&#34;mailto:bplancher@barnard.edu&#34;&gt;bplancher@barnard.edu&lt;/a&gt;. I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -187,7 +188,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;co-organizer&#34;&gt;Co-Organizer:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-22&#34;&gt;SciTinyML-22: Scientific Use of Machine Learning on Low-Power Devices&lt;/a&gt;: a 5-day hands-on, virtual workshop for university students and professors exploring real-world applications of TinyML and how they can impact the developing world. The workshop was run regionally for 2022 with seperate workshops for Africa (187 participants from 29 countries), Asia, and Latin America.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-22&#34;&gt;SciTinyML-22: Scientific Use of Machine Learning on Low-Power Devices&lt;/a&gt;: a 5-day hands-on, virtual workshop for university students and professors exploring real-world applications of TinyML and how they can impact the developing world. The workshop was run regionally for 2022 with seperate workshops for Africa (187 participants from 29 countries), Asia (100 from 8), and Latin America.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/easi-22&#34;&gt;EASI-22: Edge AI Summer Institute&lt;/a&gt;. A 3-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence at the edge through hands-on examples of TinyML. This program was a collaboration between Harvard University, Navajo Technical University, and Barnard College, Columbia University.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-21&#34;&gt;SciTinyML-21: Scientific Use of Machine Learning on Low-Power Devices&lt;/a&gt;: a 5-day hands-on, virtual, global (216 participants from 48 countries) workshop for university students and professors exploring real-world applications of TinyML and how they can impact the developing world.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/crestlex&#34;&gt;CRESTLEX 3.0: CReating Effective STem Learning Experiences&lt;/a&gt;. A 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of TinyML. This program was a collaboration between Harvard University, Navajo Technical University, Google, and Edge Impulse.&lt;/li&gt;
@@ -223,21 +224,15 @@
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://plancherb1.github.io/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
+      <title>Invited Talks and Seminars</title>
       <link>https://plancherb1.github.io/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/talks/</guid>
       <description>&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;&lt;strong&gt;Data Pre-Processing for Hands-on Keyword Spotting&lt;/strong&gt;,&amp;rdquo; SciTinyML-22 Africa: African Regional Workshop on Scientific Use of Machine Learning on Low-Power Devices Workshop, Remote, April 2022. &lt;a href=&#34;https://youtu.be/eS6d50RJ6FI&#34;&gt;Pre-Recorded Video&lt;/a&gt; with Live Support from Marcelo Rovai and Marco Zennaro. &lt;a href=&#34;https://docs.google.com/presentation/d/1EsISSVZxNXeCphAd6PriBORMnM5As0w05xIzuyfs4hI/edit&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;“&lt;strong&gt;Convolutions for Hands-on Computer Vision&lt;/strong&gt;,” SciTinyML-22 Africa: African Regional Workshop on Scientific Use of Machine Learning on Low-Power Devices Workshop, Remote, April 2022. &lt;a href=&#34;https://www.youtube.com/watch?v=Grf_21CXgo4&#34;&gt;Video&lt;/a&gt;. &lt;a href=&#34;https://docs.google.com/presentation/d/1cHjB1iUDKkLMZseuLpaoWnOJUDoMx6ygdicT-DUsGTU/edit&#34;&gt;Slides&lt;/a&gt;.
+Machine Learning on Low-Power Devices Workshop, Remote, April 2022.&lt;/li&gt;
 &lt;li&gt;“&lt;strong&gt;TinyMLedu: Widening Access to TinyML Education and Resources&lt;/strong&gt;,” TinyML Toronto Meetup, Remote, January 2022. &lt;a href=&#34;https://youtu.be/VowFpOsU5m0&#34;&gt;Video&lt;/a&gt;. &lt;a href=&#34;https://plancherb1.github.io/files/22.01_tinyMLtorontoMeetup_tinyMLedu_overview.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;“&lt;strong&gt;Hardware Acceleration for Realtime Robotics&lt;/strong&gt;,” Barnard College, New York, NY, December 2021. &lt;a href=&#34;https://youtu.be/IFXlHAfr_v0&#34;&gt;Video&lt;/a&gt;. &lt;a href=&#34;https://plancherb1.github.io/files/21.12_Hardware_Acceleration_for_Realtime_Robotics.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;“&lt;strong&gt;Introduction to Robot Motion Planning&lt;/strong&gt;,” Simmons College, Boston, MA, December 2021. &lt;a href=&#34;https://plancherb1.github.io/files/21.12_Introduction_to_Robot_Motion_Planning.pdf&#34;&gt;Slides&lt;/a&gt;.&lt;/li&gt;
@@ -250,6 +245,15 @@ Low-Power Devices Workshop, Remote, October 2021. &lt;a href=&#34;https://youtu.
 &lt;li&gt;&amp;ldquo;&lt;strong&gt;GPU Acceleration for Robotics&lt;/strong&gt;,” DUT/MIT Formula Student Driverless, Cambridge, MA, November 2018.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://plancherb1.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/posts/</guid>
+      <description></description>
     </item>
     
   </channel>

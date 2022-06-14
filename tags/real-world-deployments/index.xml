@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://plancherb1.github.io/tags/real-world-deployments/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/real-world-deployments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry</title>
       <link>https://plancherb1.github.io/courses/mtgrss22/</link>
