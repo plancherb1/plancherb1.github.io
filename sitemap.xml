@@ -146,6 +146,30 @@
     <loc>https://plancherb1.github.io/tags/un-sdgs/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://plancherb1.github.io/publication_types/7/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/differential-dynamic-programming/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/gpu/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/dissertation/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/rigid-body-dynamics/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/trajectory-optimization/</loc>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://plancherb1.github.io/courses/scitinyml-22/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -185,16 +209,7 @@
     <loc>https://plancherb1.github.io/authors/scottkuindersma/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/gpu/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/publication/grid/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/rigid-body-dynamics/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/anantagarwal/</loc>
@@ -335,12 +350,6 @@
     <loc>https://plancherb1.github.io/authors/levgrossman/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/publication_types/7/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -379,9 +388,6 @@
   </url><url>
     <loc>https://plancherb1.github.io/courses/cs249r_autonomous/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/differential-dynamic-programming/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/parallelddp_icra/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>

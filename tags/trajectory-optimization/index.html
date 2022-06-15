@@ -34,7 +34,7 @@
   <meta name="description" content="bplancher@barnard.edu">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/tags/differential-dynamic-programming/">
+  <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/tags/trajectory-optimization/">
 
   
 
@@ -96,15 +96,15 @@
   
 
   
-  <link rel="alternate" href="/tags/differential-dynamic-programming/index.xml" type="application/rss+xml" title="Brian Plancher">
-  <link rel="feed" href="/tags/differential-dynamic-programming/index.xml" type="application/rss+xml" title="Brian Plancher">
+  <link rel="alternate" href="/tags/trajectory-optimization/index.xml" type="application/rss+xml" title="Brian Plancher">
+  <link rel="feed" href="/tags/trajectory-optimization/index.xml" type="application/rss+xml" title="Brian Plancher">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://plancherb1.github.io/tags/differential-dynamic-programming/">
+  <link rel="canonical" href="https://plancherb1.github.io/tags/trajectory-optimization/">
 
   
   
@@ -116,8 +116,8 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Brian Plancher">
-  <meta property="og:url" content="https://plancherb1.github.io/tags/differential-dynamic-programming/">
-  <meta property="og:title" content="Differential Dynamic Programming | Brian Plancher">
+  <meta property="og:url" content="https://plancherb1.github.io/tags/trajectory-optimization/">
+  <meta property="og:title" content="Trajectory Optimization | Brian Plancher">
   <meta property="og:description" content="bplancher@barnard.edu"><meta property="og:image" content="https://plancherb1.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
@@ -136,7 +136,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>Differential Dynamic Programming | Brian Plancher</title>
+  <title>Trajectory Optimization | Brian Plancher</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -429,7 +429,7 @@
     
   
 <div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Differential Dynamic Programming</h1>
+  <h1 itemprop="name">Trajectory Optimization</h1>
 
   
 
@@ -452,42 +452,6 @@
     <div class="article-style">
       
       This dissertation address the computational challenges of whole-body, nonlinear model predictive control (MPC) by exposing, analyzing, and leveraging the structured sparsity and parallelism patterns found in the underlying numerical optimization and rigid body dynamics algorithms. Through careful algorithmic refactoring and re-design, this work exploits these patterns to enable real-time MPC performance through GPU-acceleration. It also validates the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU by deploying the resulting implementations onto a physical manipulator arm. Overall, this dissertation finds that GPU acceleration can provide nearly order-of-magnitude speedups, and open-sources its implementations to aid the wider robotics community in accelerating both robotics computations and application development timelines.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/parallelddp_icra/">Realtime Model Predictive Control using Parallel DDP on a GPU</a></h2>
-    <div class="article-style">
-      
-      In this extended abstract we extend our [previous work](/publication/parallelddp) by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/parallelddp/">A Performance Analysis of Parallel Differential Dynamic Programming on a GPU</a></h2>
-    <div class="article-style">
-      
-      We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism. This work was [extended](/publication/parallelddp_icra) and used for MPC on a physical Kuka arm.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/mastersthesis/">Parallel and Constrained Differential Dynamic Programming for Model Predictive Control</a></h2>
-    <div class="article-style">
-      
-      This thesis builds on recent work on Unscented Dynamic Programming (UDP)—which eliminates dynamics derivative computations in DDP—to support general nonlinear state and input constraints to high precision using an augmented Lagrangian. It then leverages parallel computations for increased throughput and systematically analyzes the insights, challenges, tradeoffs, and benefits of implementing a parallelized variant of DDP on both a multi-core CPU and a graphics processing unit (GPU).
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/cudp/">Constrained Unscented Dynamic Programming</a></h2>
-    <div class="article-style">
-      
-      We build on recent work on Unscented Dynamic Programming (UDP) - which eliminates dynamics derivative computations in DDP - to support general nonlinear state and input constraints using an augmented Lagrangian. The resulting algorithm has the same computational cost as first-order penalty-based DDP variants, but can achieve constraint satisfaction to high precision without the numerical ill-conditioning associated with penalty methods.
       
     </div>
   </div>

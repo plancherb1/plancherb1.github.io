@@ -31,10 +31,10 @@
   
     
   
-  <meta name="description" content="bplancher@barnard.edu">
+  <meta name="description" content="This dissertation address the computational challenges of whole-body, nonlinear model predictive control (MPC) by exposing, analyzing, and leveraging the structured sparsity and parallelism patterns found in the underlying numerical optimization and rigid body dynamics algorithms. Through careful algorithmic refactoring and re-design, this work exploits these patterns to enable real-time MPC performance through GPU-acceleration. It also validates the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU by deploying the resulting implementations onto a physical manipulator arm. Overall, this dissertation finds that GPU acceleration can provide nearly order-of-magnitude speedups, and open-sources its implementations to aid the wider robotics community in accelerating both robotics computations and application development timelines.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/tags/differential-dynamic-programming/">
+  <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/publication/dissertation/">
 
   
 
@@ -96,15 +96,12 @@
   
 
   
-  <link rel="alternate" href="/tags/differential-dynamic-programming/index.xml" type="application/rss+xml" title="Brian Plancher">
-  <link rel="feed" href="/tags/differential-dynamic-programming/index.xml" type="application/rss+xml" title="Brian Plancher">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://plancherb1.github.io/tags/differential-dynamic-programming/">
+  <link rel="canonical" href="https://plancherb1.github.io/publication/dissertation/">
 
   
   
@@ -116,12 +113,14 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Brian Plancher">
-  <meta property="og:url" content="https://plancherb1.github.io/tags/differential-dynamic-programming/">
-  <meta property="og:title" content="Differential Dynamic Programming | Brian Plancher">
-  <meta property="og:description" content="bplancher@barnard.edu"><meta property="og:image" content="https://plancherb1.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://plancherb1.github.io/publication/dissertation/">
+  <meta property="og:title" content="GPU Acceleration for Real-time, Whole-body, Nonlinear Model Predictive Control | Brian Plancher">
+  <meta property="og:description" content="This dissertation address the computational challenges of whole-body, nonlinear model predictive control (MPC) by exposing, analyzing, and leveraging the structured sparsity and parallelism patterns found in the underlying numerical optimization and rigid body dynamics algorithms. Through careful algorithmic refactoring and re-design, this work exploits these patterns to enable real-time MPC performance through GPU-acceleration. It also validates the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU by deploying the resulting implementations onto a physical manipulator arm. Overall, this dissertation finds that GPU acceleration can provide nearly order-of-magnitude speedups, and open-sources its implementations to aid the wider robotics community in accelerating both robotics computations and application development timelines."><meta property="og:image" content="https://plancherb1.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2022-04-26T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2022-06-15T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2022-04-26T00:00:00&#43;00:00">
   
 
   
@@ -136,7 +135,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>Differential Dynamic Programming | Brian Plancher</title>
+  <title>GPU Acceleration for Real-time, Whole-body, Nonlinear Model Predictive Control | Brian Plancher</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -294,7 +293,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication">
+          <a class="nav-link  active" href="/publication">
             
             <span>Publications</span>
             
@@ -407,8 +406,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-
+  
 
 
 
@@ -424,17 +424,142 @@
   
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">GPU Acceleration for Real-time, Whole-body, Nonlinear Model Predictive Control</h1>
+
+  
+
+  
+
+
+
+  
+    
+
+
+
+<meta content="2022-04-26 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2022-04-26 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <b>Brian Plancher</b>
+        </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>April 2022</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37372225" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/dissertation/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Differential Dynamic Programming</h1>
+<a class="btn btn-outline-primary my-1 mr-1" href="https://youtu.be/tTy2Vhg2G-I" target="_blank" rel="noopener">
+  Video
+</a>
 
-  
 
-  
 
+
+
+</div>
 
 
   
@@ -442,60 +567,182 @@
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
-  <div>
-    <h2><a href="/publication/dissertation/">GPU Acceleration for Real-time, Whole-body, Nonlinear Model Predictive Control</a></h2>
-    <div class="article-style">
-      
-      This dissertation address the computational challenges of whole-body, nonlinear model predictive control (MPC) by exposing, analyzing, and leveraging the structured sparsity and parallelism patterns found in the underlying numerical optimization and rigid body dynamics algorithms. Through careful algorithmic refactoring and re-design, this work exploits these patterns to enable real-time MPC performance through GPU-acceleration. It also validates the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU by deploying the resulting implementations onto a physical manipulator arm. Overall, this dissertation finds that GPU acceleration can provide nearly order-of-magnitude speedups, and open-sources its implementations to aid the wider robotics community in accelerating both robotics computations and application development timelines.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/parallelddp_icra/">Realtime Model Predictive Control using Parallel DDP on a GPU</a></h2>
-    <div class="article-style">
-      
-      In this extended abstract we extend our [previous work](/publication/parallelddp) by using our Parallel DDP implementation for MPC on a physical Kuka arm. We demonstrated the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU and found that higher control rates generally lead to better tracking performance across a range of parallelization options.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/parallelddp/">A Performance Analysis of Parallel Differential Dynamic Programming on a GPU</a></h2>
-    <div class="article-style">
-      
-      We analyze the benefits and tradeoffs of higher degrees of parallelization using a multiple-shooting variant of DDP implemented on a GPU. We describe our implementation strategy and present results demonstrating its performance compared to an equivalent multi-threaded CPU implementation using several benchmark control tasks. Our results suggest that GPU-based solvers can offer increased per-iteration computation time and faster convergence in some cases, but in general tradeoffs exist between convergence behavior and degree of algorithm-level parallelism. This work was [extended](/publication/parallelddp_icra) and used for MPC on a physical Kuka arm.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/mastersthesis/">Parallel and Constrained Differential Dynamic Programming for Model Predictive Control</a></h2>
-    <div class="article-style">
-      
-      This thesis builds on recent work on Unscented Dynamic Programming (UDP)—which eliminates dynamics derivative computations in DDP—to support general nonlinear state and input constraints to high precision using an augmented Lagrangian. It then leverages parallel computations for increased throughput and systematically analyzes the insights, challenges, tradeoffs, and benefits of implementing a parallelized variant of DDP on both a multi-core CPU and a graphics processing unit (GPU).
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/publication/cudp/">Constrained Unscented Dynamic Programming</a></h2>
-    <div class="article-style">
-      
-      We build on recent work on Unscented Dynamic Programming (UDP) - which eliminates dynamics derivative computations in DDP - to support general nonlinear state and input constraints using an augmented Lagrangian. The resulting algorithm has the same computational cost as first-order penalty-based DDP variants, but can achieve constraint satisfaction to high precision without the numerical ill-conditioning associated with penalty methods.
-      
-    </div>
-  </div>
-  
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Whole-body, nonlinear model predictive control (MPC) refers to the control strategy where a robot’s state and input trajectories are continually optimized over a finite time horizon while taking into account the robot’s full nonlinear dynamics. This has been referred to as the “Holy Grail” of robot motion planning and control, as it can enable robots to dynamically compute optimal trajectories and adapt to changes in their environment. Unfortunately, the underlying trajectory optimization algorithms traditionally used to solve these problems are computationally expensive and often too slow to run in real-time. Compounding this issue, the impending end of Moore’s Law and the end of Dennard Scaling have led to a utilization wall that limits the performance a single CPU chip can deliver, requiring computer scientists to look beyond the CPU to exploit large-scale parallelism available on alternative computing platforms such as GPUs. This dissertation address these challenges by exposing, analyzing, and leveraging the structured sparsity and parallelism patterns found in the numerical optimization and rigid body dynamics algorithms commonly used for whole-body, nonlinear MPC. Through careful algorithmic refactoring and re-design, this work exploits these patterns to enable real-time MPC performance through GPU-acceleration. It also validates the feasibility of this approach in the presence of model discrepancies and communication delays between the robot and GPU by deploying the resulting implementations onto a physical manipulator arm. Overall, this dissertation finds that GPU acceleration can provide nearly order-of-magnitude speedups, and open-sources its implementations to aid the wider robotics community in accelerating both robotics computations and application development timelines.</p>
+    
 
-  
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#7">
+              Thesis
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
 
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Harvard University PhD Dissertation</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 </div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/model-predictive-control/">Model Predictive Control</a>
+  
+  <a class="badge badge-light" href="/tags/gpu/">GPU</a>
+  
+  <a class="badge badge-light" href="/tags/parallel-computing/">Parallel Computing</a>
+  
+  <a class="badge badge-light" href="/tags/differential-dynamic-programming/">Differential Dynamic Programming</a>
+  
+  <a class="badge badge-light" href="/tags/rigid-body-dynamics/">Rigid Body Dynamics</a>
+  
+  <a class="badge badge-light" href="/tags/trajectory-optimization/">Trajectory Optimization</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu69fa87f0cd9e31a34afe2d888ac4d665_76139_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/admin/">Brian Plancher</a></h5>
+      <h6 class="card-subtitle"><a href="mailto:bplancher@barnard.edu">bplancher@barnard.edu</a></h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:bplancher@barnard.edu" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/plancherb1" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.com/citations?user=Hys8HdsAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://www.linkedin.com/in/brianplancher" target="_blank" rel="noopener">
+              <i class="fab fa-linkedin"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   

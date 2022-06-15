@@ -144,6 +144,60 @@
     </item>
     
     <item>
+      <title>Differential Dynamic Programming</title>
+      <link>https://plancherb1.github.io/tags/differential-dynamic-programming/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/differential-dynamic-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>https://plancherb1.github.io/tags/gpu/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Predictive Control</title>
+      <link>https://plancherb1.github.io/tags/model-predictive-control/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/model-predictive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://plancherb1.github.io/tags/parallel-computing/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rigid Body Dynamics</title>
+      <link>https://plancherb1.github.io/tags/rigid-body-dynamics/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/rigid-body-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory Optimization</title>
+      <link>https://plancherb1.github.io/tags/trajectory-optimization/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/trajectory-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Control</title>
       <link>https://plancherb1.github.io/tags/control/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
@@ -203,33 +257,6 @@
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/global-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPU</title>
-      <link>https://plancherb1.github.io/tags/gpu/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/gpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Computing</title>
-      <link>https://plancherb1.github.io/tags/parallel-computing/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/parallel-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rigid Body Dynamics</title>
-      <link>https://plancherb1.github.io/tags/rigid-body-dynamics/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/rigid-body-dynamics/</guid>
       <description></description>
     </item>
     
@@ -306,15 +333,6 @@
     </item>
     
     <item>
-      <title>Model Predictive Control</title>
-      <link>https://plancherb1.github.io/tags/model-predictive-control/</link>
-      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/model-predictive-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reinforcement Learning</title>
       <link>https://plancherb1.github.io/tags/reinforcement-learning/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
@@ -356,15 +374,6 @@
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/computer-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Differential Dynamic Programming</title>
-      <link>https://plancherb1.github.io/tags/differential-dynamic-programming/</link>
-      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/differential-dynamic-programming/</guid>
       <description></description>
     </item>
     
