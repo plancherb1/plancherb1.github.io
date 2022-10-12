@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/hands-on/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/hands-on/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COMS-3997-SP23: Projects in Computer Science</title>
+      <link>https://plancherb1.github.io/courses/coms-3997-sp23/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/coms-3997-sp23/</guid>
+      <description>This course is designed as a companion to independent research and industry projects taken on by undergraduate students. The course staff is working to source a limited amount of projects, however, students are welcome and encouraged to bring a project to the course. Projects must be supervised by a  mentor who is committed to meeting with the student at least once a week to provide advice and guidance on the technical focus of the project. This course, and its weekly meetings, are designed to provide additional support and guidance on additional topics that will be crucial for students&#39; future careers in both academia and industry. Each week we will cover a high level topic through a mix of lecture and group work led by both the lead course instructor as well as guest instructors from industry and academia. Students will also be given opportunities to check in and seek help from the rest of the class on their individual projects. To document their projects and begin to build their personal portfolio, students will (learn how to and) develop a website, report, and presentation about both the final result of their project as well as the journey taken to get to their final result.</description>
+    </item>
+    
     <item>
       <title>COMS-3997-F22: Introduction to Robotics Engineering from Bits to Electrons</title>
       <link>https://plancherb1.github.io/courses/coms-3997-f22/</link>
