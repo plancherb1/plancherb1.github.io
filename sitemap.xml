@@ -2,8 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://plancherb1.github.io/authors/admin/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/levgrossman/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/3/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://plancherb1.github.io/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/justround/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/machine-learning/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/robot-learning/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/</loc>
+    <lastmod>2022-10-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/computer-architecture/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
@@ -41,12 +74,6 @@
     <loc>https://plancherb1.github.io/tags/robotics/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/admin/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/authors/bobedmison/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -74,9 +101,6 @@
     <loc>https://plancherb1.github.io/publication_types/9/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/cs-education/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -84,12 +108,6 @@
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/open-source/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication_types/</loc>
-    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/stem-education/</loc>
@@ -135,9 +153,6 @@
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/embedded-systems/</loc>
-    <lastmod>2022-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/machine-learning/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/sim-to-real/</loc>
@@ -409,12 +424,6 @@
   </url><url>
     <loc>https://plancherb1.github.io/courses/cs249r_tinyml/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/levgrossman/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2020-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/levthesis/</loc>
     <lastmod>2020-05-31T00:00:00+00:00</lastmod>
