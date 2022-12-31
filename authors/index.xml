@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/admin/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/admin/</guid>
       <description>I am an Assistant Professor of Computer Science at Barnard College, Columbia University where I lead the Accessible and Accelerated Robotics Lab (A²R Lab). I am also a co-chair for the Tiny Machine Learning Open Education Initiative (TinyMLedu) and an associate co-chair for the IEEE RAS TC on Model Based Optimization for Robotics.
@@ -20,17 +20,8 @@ My research is focused on developing and implementing open-source algorithms for
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/levgrossman/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/levgrossman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://plancherb1.github.io/authors/bobedmison/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/bobedmison/</guid>
       <description></description>
@@ -39,7 +30,7 @@ My research is focused on developing and implementing open-source algorithms for
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/jeremiahblanchard/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/jeremiahblanchard/</guid>
       <description></description>
@@ -48,7 +39,7 @@ My research is focused on developing and implementing open-source algorithms for
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/johnrhott/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/johnrhott/</guid>
       <description></description>
@@ -57,7 +48,7 @@ My research is focused on developing and implementing open-source algorithms for
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/oscarkarnalim/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/oscarkarnalim/</guid>
       <description></description>
@@ -66,7 +57,7 @@ My research is focused on developing and implementing open-source algorithms for
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/rebeccacarroll/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/rebeccacarroll/</guid>
       <description></description>
@@ -75,7 +66,7 @@ My research is focused on developing and implementing open-source algorithms for
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/richardglassey/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/richardglassey/</guid>
       <description></description>
@@ -84,7 +75,7 @@ My research is focused on developing and implementing open-source algorithms for
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/seanrussell/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/seanrussell/</guid>
       <description></description>
@@ -93,9 +84,18 @@ My research is focused on developing and implementing open-source algorithms for
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/vincentberry/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/vincentberry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/levgrossman/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/levgrossman/</guid>
       <description></description>
     </item>
     
