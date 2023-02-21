@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://plancherb1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Publications</title>
       <link>https://plancherb1.github.io/publication/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/publication/</guid>
       <description></description>
@@ -31,17 +31,20 @@
     </item>
     
     <item>
-      <title>Office Hours for Fall 2022</title>
+      <title>Office Hours</title>
       <link>https://plancherb1.github.io/office_hours/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/office_hours/</guid>
       <description>&lt;p&gt;Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that&amp;rsquo;s you, you are welcome to drop in at any time during the office hours; no appointment needed.&lt;/p&gt;
+&lt;p&gt;I plan to hold these office hours in person in my office in Milstein 512 or down the hall in Milstein 503 (unless noted below as a &lt;a href=&#34;https://columbiauniversity.zoom.us/my/bplancher&#34;&gt;Zoom&lt;/a&gt;). If you want to meet via Zoom or would like to meet at a different time, please send me an email at &lt;a href=&#34;mailto:bplancher+meeting@barnard.edu&#34;&gt;bplancher+meeting@barnard.edu&lt;/a&gt;. I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;If you want to do research with me, please follow the instructions on the &lt;a href=&#34;https://a2r-lab.org/join&#34;&gt;A²R Lab Join&lt;/a&gt; page.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at &lt;a href=&#34;mailto:bplancher+advising@barnard.edu&#34;&gt;bplancher+advising@barnard.edu&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;For Fall 2022, my office hours were originally 11:00am-1:00pm or 2:00pm-4:00pm on Tuesdays, with some changes and cancellations due to schedule conflicts or holidays, but have moved to be a bit more sporadic to better account for student needs. The full schedule is below, with changes shown in &lt;strong&gt;bold&lt;/strong&gt;. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.&lt;/p&gt;
-&lt;p&gt;I plan to hold these office hours in person in my office in Milstein 512 (unless noted below), but will also offer hybrid meetings via &lt;a href=&#34;https://columbiauniversity.zoom.us/my/bplancher&#34;&gt;Zoom&lt;/a&gt;. If you want to meet via Zoom or would like to meet at a different time, please send me an email at &lt;a href=&#34;mailto:bplancher+meeting@barnard.edu&#34;&gt;bplancher+meeting@barnard.edu&lt;/a&gt;. I will try to respond to emails within 24 hours during the weekdays and within 48 hours over the weekend.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Note that due to personal reasons, for November, I request that students mask during OHs.&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;For Spring 2022, my office hours will generally be 10:00am-12:00pm on Wednesdays, with changes and cancellations due to scheduling conflicts or holidays. The full schedule is below, with changes shown in &lt;strong&gt;bold&lt;/strong&gt;. Updates to office hours will usually be noted at least a week in advance, except for (rare) emergency cancellations.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -53,64 +56,52 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Wednesday&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;September 7&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;2:00 PM - 4:00 PM EDT&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;td&gt;September 13&lt;/td&gt;
-&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;td&gt;September 20&lt;/td&gt;
-&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Wednesday&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;September 28&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Tuesday&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;January 17&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;strong&gt;4:00 PM - 6:00 PM EDT&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;Milstein 512&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;January 25&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;td&gt;October 4&lt;/td&gt;
-&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;February 1&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;td&gt;October 11&lt;/td&gt;
-&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Thursday&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;February 9&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;11:00 AM - 1:00 PM EDT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://columbiauniversity.zoom.us/my/bplancher&#34;&gt;&lt;strong&gt;Zoom&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;February 15&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Tuesday&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;October 18&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;2:00 PM - 4:00 PM EDT&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;February 21&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;4:30 PM - 5:30 PM EDT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Milstein 512&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;td&gt;October 25&lt;/td&gt;
-&lt;td&gt;2:00 PM - 4:00 PM EDT&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;October 31&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;7:30 PM - 9:30 PM EDT&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;DIA LL103&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;February 22&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;11-11:30 AM, 12:30-1 PM EDT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -119,28 +110,34 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Wednesday&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;November 9&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;12:00 PM - 2:00 PM EDT&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Tuesday&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;February 28&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;4:00 PM - 6:00 PM EDT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;November 14&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;7:30 PM - 9:30 PM EDT&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;DIA LL103&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;March 8&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Monday&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;November 21&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;2:00 PM - 4:00 PM EDT&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Spring Break&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Spring Break&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Spring Break&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Spring Break&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;td&gt;November 29&lt;/td&gt;
-&lt;td&gt;2:00 PM - 4:00 PM EDT&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;March 22&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;March 29&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -149,16 +146,46 @@
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;td&gt;December 6&lt;/td&gt;
-&lt;td&gt;2:00 PM - 4:00 PM EDT&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;April 5&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Tuesday&lt;/td&gt;
-&lt;td&gt;December 13&lt;/td&gt;
-&lt;td&gt;2:00 PM - 4:00 PM EDT&lt;/td&gt;
-&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;April 12&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;April 12&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Tuesday&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;April 18&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;2:30 PM - 4:30 PM EDT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;April 26&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;May 3&lt;/td&gt;
+&lt;td&gt;10:00 AM - 12:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 503&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
