@@ -38,7 +38,7 @@
     <item>
       <title>Edge ML</title>
       <link>https://plancherb1.github.io/tags/edge-ml/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/edge-ml/</guid>
       <description></description>
@@ -47,9 +47,36 @@
     <item>
       <title>Embedded Systems</title>
       <link>https://plancherb1.github.io/tags/embedded-systems/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML Sensors</title>
+      <link>https://plancherb1.github.io/tags/ml-sensors/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/ml-sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://plancherb1.github.io/tags/privacy/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TinyML</title>
+      <link>https://plancherb1.github.io/tags/tinyml/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/tinyml/</guid>
       <description></description>
     </item>
     
@@ -59,15 +86,6 @@
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/sustainability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TinyML</title>
-      <link>https://plancherb1.github.io/tags/tinyml/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/tinyml/</guid>
       <description></description>
     </item>
     
@@ -212,15 +230,6 @@
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/sim-to-real/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ML Sensors</title>
-      <link>https://plancherb1.github.io/tags/ml-sensors/</link>
-      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/ml-sensors/</guid>
       <description></description>
     </item>
     
