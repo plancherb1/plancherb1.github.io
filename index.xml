@@ -164,10 +164,10 @@
 &lt;td&gt;Milstein 512&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Wednesday&lt;/td&gt;
-&lt;td&gt;March 29&lt;/td&gt;
-&lt;td&gt;10:00 AM - 11:30 AM EDT&lt;/td&gt;
-&lt;td&gt;Milstein 503&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Wednesday&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;March 29&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;10:00 AM - 11:30 AM EDT&lt;/del&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Milstein 503&lt;/del&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -247,6 +247,8 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
