@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://plancherb1.github.io/authors/admin/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://plancherb1.github.io/authors/benjaminbrown/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,16 +20,28 @@
     <loc>https://plancherb1.github.io/authors/petewarden/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://plancherb1.github.io/authors/radhikaghosal/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/sabrinaneuman/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://plancherb1.github.io/authors/shawnhymel/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/shvetankprakash/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://plancherb1.github.io/authors/thomasbourgeat/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://plancherb1.github.io/authors/vijayjanapareddi/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/yasmineomri/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/1/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication_types/3/</loc>
@@ -38,9 +53,6 @@
     <loc>https://plancherb1.github.io/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/brianplancher/</loc>
-    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/publication/mlsensorsdatasheet/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -48,6 +60,15 @@
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/embedded-systems/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/fpga/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/hardware-acceleration/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/hardware-software-co-design/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/jimmacarthur/</loc>
@@ -68,6 +89,12 @@
     <loc>https://plancherb1.github.io/publication/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://plancherb1.github.io/publication/roboshape/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/robotics/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://plancherb1.github.io/tags/sustainability/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,13 +104,7 @@
     <loc>https://plancherb1.github.io/tags/tinyml/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/admin/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/authors/levgrossman/</loc>
-    <lastmod>2023-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication_types/1/</loc>
     <lastmod>2023-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/justround/</loc>
@@ -170,9 +191,6 @@
     <loc>https://plancherb1.github.io/tags/hands-on/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/hardware-software-co-design/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/optimization/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -185,25 +203,13 @@
     <loc>https://plancherb1.github.io/tags/projects/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/robotics/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/publication_types/9/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/csedreinventing/</loc>
     <lastmod>2022-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/sabrinaneuman/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/authors/victormayoralvilches/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/fpga/</loc>
-    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/hardware-acceleration/</loc>
     <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/robotcore/</loc>
@@ -323,9 +329,6 @@
     <loc>https://plancherb1.github.io/publication/tinymledu/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/radhikaghosal/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/authors/scottkuindersma/</loc>
     <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -444,9 +447,6 @@
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/thierrytambe/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/thomasbourgeat/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/robomorphic/</loc>

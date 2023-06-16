@@ -31,10 +31,10 @@
   
     
   
-  <meta name="description" content="bplancher@barnard.edu">
+  <meta name="description" content="We present RoboShape, an accelerator framework that leverages two topology-based computational patterns that scale with robot size: (1) topology traversals, and (2) large topology-based matrices. Using these patterns and building on prior work, we expose opportunities to directly use robot topology to inform architectural mechanisms including task scheduling and allocation, data placement, block matrix operations, and sparse I/O data. For the topologically-diverse iiwa manipulator, HyQ quadruped, and Baxter torso robots, RoboShape accelerators on an FPGA provide a 4.0x to 4.4x speedup in compute latency over CPU and a 8.0x to 15.1x speedup over GPU for the dynamics gradients, a key bottleneck preventing online execution of nonlinear optimal motion control for legged robots. Taking a broader view, for topology-based applications, RoboShape enables analysis of performance and resource utilization tradeoffs that will be critical to managing resources across accelerators in future full robotics domain-specific SoCs.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/tags/hardware-software-co-design/">
+  <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/publication/roboshape/">
 
   
 
@@ -96,32 +96,30 @@
   
 
   
-  <link rel="alternate" href="/tags/hardware-software-co-design/index.xml" type="application/rss+xml" title="Brian Plancher">
-  <link rel="feed" href="/tags/hardware-software-co-design/index.xml" type="application/rss+xml" title="Brian Plancher">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://plancherb1.github.io/tags/hardware-software-co-design/">
+  <link rel="canonical" href="https://plancherb1.github.io/publication/roboshape/">
 
   
   
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Brian Plancher">
-  <meta property="og:url" content="https://plancherb1.github.io/tags/hardware-software-co-design/">
-  <meta property="og:title" content="Hardware-Software Co-Design | Brian Plancher">
-  <meta property="og:description" content="bplancher@barnard.edu"><meta property="og:image" content="https://plancherb1.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://plancherb1.github.io/publication/roboshape/">
+  <meta property="og:title" content="RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots | Brian Plancher">
+  <meta property="og:description" content="We present RoboShape, an accelerator framework that leverages two topology-based computational patterns that scale with robot size: (1) topology traversals, and (2) large topology-based matrices. Using these patterns and building on prior work, we expose opportunities to directly use robot topology to inform architectural mechanisms including task scheduling and allocation, data placement, block matrix operations, and sparse I/O data. For the topologically-diverse iiwa manipulator, HyQ quadruped, and Baxter torso robots, RoboShape accelerators on an FPGA provide a 4.0x to 4.4x speedup in compute latency over CPU and a 8.0x to 15.1x speedup over GPU for the dynamics gradients, a key bottleneck preventing online execution of nonlinear optimal motion control for legged robots. Taking a broader view, for topology-based applications, RoboShape enables analysis of performance and resource utilization tradeoffs that will be critical to managing resources across accelerators in future full robotics domain-specific SoCs."><meta property="og:image" content="https://plancherb1.github.io/publication/roboshape/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2023-06-15T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2023-06-15T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2023-06-15T00:00:00&#43;00:00">
   
 
   
@@ -136,7 +134,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>Hardware-Software Co-Design | Brian Plancher</title>
+  <title>RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots | Brian Plancher</title>
 
   
   
@@ -297,7 +295,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication">
+          <a class="nav-link  active" href="/publication">
             
             <span>Publications</span>
             
@@ -436,9 +434,100 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
 
 
 
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/publication/roboshape/featured_hu170448481e3f5b8cdd233e97acb560f0_226366_800x0_resize_lanczos_3.png');"></div>
+  
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots</h1>
+
+        
+
+        <p class="page-subtitle">
+
+</p>
+
+        
+
+
+
+<meta content="2023-06-15 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-06-15 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://scholar.harvard.edu/sneuman" target="_blank">Sabrina M. Neuman</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.kharghoshal.xyz/" target="_blank">Radhika Ghosal</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://dblp.org/pid/145/1652.html" target="_blank">Thomas Bourgeat</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <b>Brian Plancher</b>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home" target="_blank">Vijay Janapa Reddi</a>
+        </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>June 2023</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+
+        
 
 
 
@@ -452,79 +541,319 @@
 
   
 
+
+
+<div class="btn-links mb-3">
   
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/roboshape/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Hardware-Software Co-Design</h1>
-
-  
-
-  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=cy4xcEYcp1o" target="_blank" rel="noopener">
+  Video
+</a>
 
 
 
-  
+
+
 </div>
 
 
 
-<div class="universal-wrapper">
+        
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/publication/roboshape/featured_hu170448481e3f5b8cdd233e97acb560f0_226366_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots</h1>
+
+  
+
+  
+
+
+
+  
+
+
+
+<meta content="2023-06-15 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2023-06-15 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://scholar.harvard.edu/sneuman" target="_blank">Sabrina M. Neuman</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.kharghoshal.xyz/" target="_blank">Radhika Ghosal</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://dblp.org/pid/145/1652.html" target="_blank">Thomas Bourgeat</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <b>Brian Plancher</b>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home" target="_blank">Vijay Janapa Reddi</a>
+        </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>June 2023</time>
+  </span>
+  
+
+  
+
   
 
   
   
-  <div>
-    <h2><a href="/publication/roboshape/">RoboShape: Using Topology Patterns to Scalably and Flexibly Deploy Accelerators Across Robots</a></h2>
-    <div class="article-style">
-      
-      We present RoboShape, an accelerator framework that leverages two topology-based computational patterns that scale with robot size: (1) topology traversals, and (2) large topology-based matrices. Using these patterns and building on prior work, we expose opportunities to directly use robot topology to inform architectural mechanisms including task scheduling and allocation, data placement, block matrix operations, and sparse I/O data. For the topologically-diverse iiwa manipulator, HyQ quadruped, and Baxter torso robots, RoboShape accelerators on an FPGA provide a 4.0x to 4.4x speedup in compute latency over CPU and a 8.0x to 15.1x speedup over GPU for the dynamics gradients, a key bottleneck preventing online execution of nonlinear optimal motion control for legged robots. Taking a broader view, for topology-based applications, RoboShape enables analysis of performance and resource utilization tradeoffs that will be critical to managing resources across accelerators in future full robotics domain-specific SoCs.
-      
-    </div>
-  </div>
+
   
-  <div>
-    <h2><a href="/courses/coms-bc3159-sp23/">COMS-BC3159-SP23: Parallel Optimization for Robotics</a></h2>
-    <div class="article-style">
-      
-      Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on CPUs and GPUs as well as optimization algorithms for robotics applications. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.
-      
-    </div>
-  </div>
   
-  <div>
-    <h2><a href="/publication/robotcore/">RobotCore: An Open Architecture for Hardware Acceleration in ROS 2</a></h2>
-    <div class="article-style">
-      
-      We introduce RobotCore, an architecture to integrate hardware acceleration in the widely-used ROS 2 robotics software framework. This architecture is target-agnostic (supports edge, workstation, data center, or cloud targets) and accelerator-agnostic (supports both FPGAs and GPUs). It builds on top of the common ROS 2 build system and tools and is easily portable across different research and commercial solutions through a new firmware layer. We also leverage the Linux Tracing Toolkit next generation (LTTng) for low-overhead real-time tracing and benchmarking. To demonstrate the acceleration enabled by this architecture, we design an intra-FPGA ROS 2 node communication queue to enable faster data flows, and use it in conjunction with FPGA-accelerated nodes to achieve a 24.42% speedup over a CPU.
-      
-    </div>
-  </div>
+
   
-  <div>
-    <h2><a href="/publication/robomorphic/">Robomorphic Computing: A Design Methodology for Domain-Specific Accelerators Parameterized by Robot Morphology</a></h2>
-    <div class="article-style">
-      
-      We introduce robomorphic computing; a methodology to transform robot morphology into a customized hardware accelerator morphology. In this work, we (i) present this design methodology; (ii) use the methodology to generate a parameterized accelerator design for the gradient of rigid body dynamics; (iii) evaluate FPGA and synthesized ASIC implementations; and (iv) describe how the design can be automatically customized for other robot models. Our FPGA accelerator achieves speedups of 8x and 86x over CPU and GPU latency, and maintains an overall speedup of 1.9x to 2.9x deployed in an end-to-end coprocessor system. ASIC synthesis indicates an additional factor of 7.2x.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/courses/cs249r_autonomous/">Harvard CS249r: Special Topics in Edge Computing - Autonomous Machines</a></h2>
-    <div class="article-style">
-      
-      Modern embedded systems are intelligent devices that involve complex hardware and software to perform a multitude of cognitive functions collaboratively. Designing such systems requires us to have deep understanding of the target application domains, as well as an appreciation for the coupling between the hardware and the software subsystems.This course is structured around building “systems” for Autonomous Machines (cars, drones, ground robots, manipulators, etc.). For example, we will discuss what are all the hardware and software components that are involved in developing the intelligence required for an autonomous car?
-      
-    </div>
-  </div>
-  
+    
 
   
 
 </div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/roboshape/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=cy4xcEYcp1o" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">A key challenge for hardware acceleration of robotics applications is the enormous diversity of possible deployment scenarios. To create efficient accelerators while minimizing non-recurring engineering costs, it is essential to identify high-level computational patterns that are prescribed by the physical characteristics of the deployed robot system and directly embed these domain-specific insights into the accelerator design process. To address this challenge, we present RoboShape, an accelerator framework that leverages two topology-based computational patterns that scale with robot size: (1) topology traversals, and (2) large topology-based matrices. Using these patterns and building on prior work, we expose opportunities to directly use robot topology to inform architectural mechanisms including task scheduling and allocation, data placement, block matrix operations, and sparse I/O data. Designing architectures according to topology-based patterns enables flexible, scalable, optimized accelerator deployment across the nonlinear design space of robot shape and computing resources. With this insight, we establish a systematic framework to generate accelerators, and use it to implement three accelerators for three different robots, achieving speedups over state-of-the-art CPU and GPU solutions. For the topologically-diverse iiwa manipulator, HyQ quadruped, and Baxter torso robots, RoboShape accelerators on an FPGA provide a 4.0x to 4.4x speedup in compute latency over CPU and a 8.0x to 15.1x speedup over GPU for the dynamics gradients, a key bottleneck preventing online execution of nonlinear optimal motion control for legged robots.Taking a broader view, for topology-based applications, RoboShape enables analysis of performance and resource utilization tradeoffs that will be critical to managing resources across accelerators in future full robotics domain-specific SoCs.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em><a href="https://iscaconf.org/isca2023/">2023 International Symposium on Computer Architecture (ISCA)</a></em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+</div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/hardware-acceleration/">Hardware Acceleration</a>
+  
+  <a class="badge badge-light" href="/tags/hardware-software-co-design/">Hardware-Software Co-Design</a>
+  
+  <a class="badge badge-light" href="/tags/fpga/">FPGA</a>
+  
+  <a class="badge badge-light" href="/tags/robotics/">Robotics</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/sabrinaneuman/">Sabrina M. Neuman</a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
+
 <div class="container">
   <footer class="site-footer">
   
