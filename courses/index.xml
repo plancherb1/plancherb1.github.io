@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EdgeMLUP-23: Building Sustainable Edge Machine Learning University Programs</title>
+      <link>https://plancherb1.github.io/courses/edgemlup-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/edgemlup-23/</guid>
+      <description>EdgeMLUP-23 was an ICTP In-Person Meeting which brought together educators and researchers from around the globe (47 participants from 28 countries) to develop a roadmap for sustainable university programs in embedded machine learning including the development of a common modular curriculum. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, Barnard College of Columbia University, Universidade Federal de Itajubá (UNIFEI), and TinyMLedu with support from Edge Impulse, Arduino, Seeed Studio, Arm, and the TinyML Foundation.</description>
+    </item>
+    
+    <item>
+      <title>RoboARCH: Workshop on Robotics Acceleration with Computing Hardware</title>
+      <link>https://plancherb1.github.io/courses/roboarchmicro-23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/roboarchmicro-23/</guid>
+      <description>Robotics is pushing the limits of conventional computing. This is a call to action for researchers across academia and industry: we must leverage nontraditional computing hardware (e.g., custom accelerator ASICs, FPGAs, and GPUs) and navigate enormous design spaces spanning across algorithms, hardware, and physical robot parameters in order to design new high performance systems enabling critical tasks in robotics. This workshop aims to gather pioneers and innovators working at the intersection of robotics and computer architecture, and to provide an introduction to this exciting emerging field to the computer architecture community.</description>
+    </item>
+    
     <item>
       <title>SciTinyML-23: Scientific Use of Machine Learning on Low-Power Devices</title>
       <link>https://plancherb1.github.io/courses/scitinyml-23/</link>
@@ -36,6 +54,33 @@
     </item>
     
     <item>
+      <title>RoboARCH: Workshop on Robotics Acceleration with Computing Hardware</title>
+      <link>https://plancherb1.github.io/courses/roboarchmicro-22/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/roboarchmicro-22/</guid>
+      <description>Robotics is pushing the limits of conventional computing. This is a call to action for researchers across academia and industry: we must leverage nontraditional computing hardware (e.g., custom accelerator ASICs, FPGAs, and GPUs) and navigate enormous design spaces spanning across algorithms, hardware, and physical robot parameters in order to design new high performance systems enabling critical tasks in robotics. This workshop aims to gather pioneers and innovators working at the intersection of robotics and computer architecture, and to provide an introduction to this exciting emerging field to the computer architecture community.</description>
+    </item>
+    
+    <item>
+      <title>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry</title>
+      <link>https://plancherb1.github.io/courses/mtgrss22/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/mtgrss22/</guid>
+      <description>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry is aimed at bridging the gap between academia and industry. For researchers, this workshop will help lift the curtain on the realities of academic to industry tech transfer. For industry experts, this workshop provides an opportunity to influence the direction of academic research. For both, we hope to provide an venue for integrated dialogue and identification of new potential collaborations.</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Leveraging Models for Contact-Rich Manipulation</title>
+      <link>https://plancherb1.github.io/courses/modelcontactiros23/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/modelcontactiros23/</guid>
+      <description>The objective of this workshop is to bring together researchers in the model-based manipulation community to present their work and review state-of-the art methods in the field. In conjunction, the workshop aims to facilitate discussions on the future of the field and ask several important questions: how can we synthesize model-based approaches and recent learning approaches into a coherent whole? Do we believe that there is structure we can leverage from the models that we use to better inform planning and control algorithms?</description>
+    </item>
+    
+    <item>
       <title>EASI-22: Edge AI Summer Institute</title>
       <link>https://plancherb1.github.io/courses/easi-22/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
@@ -60,15 +105,6 @@
       
       <guid>https://plancherb1.github.io/courses/coms-bc3997-f22/</guid>
       <description>Robots are cyber-physical systems – leveraging computational intelligence to sense and interact with the real world. As such, robotics is a very diverse, cross-disciplinary field. This introductory course exposes learners to the vast opportunities and challenges posed by the interdisciplinary nature of robotics. While grounded and focused in computation this course also explores hands-on electromechanical and ethical topics that are an integral part of a real-world robotic system. Topics will include: a survey of the algorithmic robotics pipeline (perception, mapping, localization, planning, control, and learning), an introduction to cyber-physical system design, and responsible AI. The course will culminate in a team-based final project.</description>
-    </item>
-    
-    <item>
-      <title>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry</title>
-      <link>https://plancherb1.github.io/courses/mtgrss22/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/courses/mtgrss22/</guid>
-      <description>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry is aimed at bridging the gap between academia and industry. For researchers, this workshop will help lift the curtain on the realities of academic to industry tech transfer. For industry experts, this workshop provides an opportunity to influence the direction of academic research. For both, we hope to provide an venue for integrated dialogue and identification of new potential collaborations.</description>
     </item>
     
     <item>
