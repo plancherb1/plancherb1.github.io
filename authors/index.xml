@@ -7,15 +7,186 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/admin/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/admin/</guid>
       <description>I am an Assistant Professor of Computer Science at Barnard College, Columbia University where I lead the Accessible and Accelerated Robotics Lab (A²R Lab). I am also a co-chair for the Tiny Machine Learning Open Education Initiative (TinyMLedu) and an associate co-chair for the IEEE RAS TC on Model Based Optimization for Robotics.
 My research is focused on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/alejandrafarina/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/alejandrafarina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/gauravvikhe/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/gauravvikhe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/giuliocorradi/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/giuliocorradi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/jasonjabbour/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/jasonjabbour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/juanreinamunoz/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/juanreinamunoz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/martinpinzger/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/martinpinzger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/matthewstewart/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/matthewstewart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/mohammadbakhshalipour/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/mohammadbakhshalipour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/niladriroy/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/niladriroy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/phillipgibbons/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/phillipgibbons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/prateeknagras/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/prateeknagras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/sabrinaneuman/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/sabrinaneuman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/smrutipanigrahi/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/smrutipanigrahi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/stefanrass/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/stefanrass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/victormayoralvilches/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/victormayoralvilches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/vijayjanapareddi/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/vijayjanapareddi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/yushunhsiao/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/yushunhsiao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/zishenwan/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/zishenwan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MartinoAlvarez</title>
+      <link>https://plancherb1.github.io/authors/martinoalvarez/</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/martinoalvarez/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -83,15 +254,6 @@ My research is focused on developing and implementing open-source algorithms for
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/matthewstewart/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/matthewstewart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://plancherb1.github.io/authors/natjeffries/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
@@ -119,15 +281,6 @@ My research is focused on developing and implementing open-source algorithms for
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/sabrinaneuman/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/sabrinaneuman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://plancherb1.github.io/authors/shawnhymel/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
@@ -150,15 +303,6 @@ My research is focused on developing and implementing open-source algorithms for
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/thomasbourgeat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/vijayjanapareddi/</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/vijayjanapareddi/</guid>
       <description></description>
     </item>
     
@@ -294,24 +438,6 @@ My research is focused on developing and implementing open-source algorithms for
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/vincentberry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/victormayoralvilches/</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/victormayoralvilches/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/jasonjabbour/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/jasonjabbour/</guid>
       <description></description>
     </item>
     
