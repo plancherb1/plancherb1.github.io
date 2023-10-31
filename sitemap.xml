@@ -3,18 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://plancherb1.github.io/authors/admin/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/levgrossman/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <loc>https://plancherb1.github.io/authors/anoushkaalavilli/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/khainguyen/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/samschoedel/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/zacharymanchester/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication_types/3/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/edge-computing/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/embedded-systems/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/quadrotor/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/tinympc/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/levgrossman/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/compressed-learning/</loc>
@@ -26,19 +62,10 @@
     <loc>https://plancherb1.github.io/tags/machine-learning/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/publication_types/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/robot-learning/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/computer-architecture/</loc>
@@ -167,9 +194,6 @@
     <loc>https://plancherb1.github.io/tags/linear-systems/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/publication/mpcgpu/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -202,9 +226,6 @@
   </url><url>
     <loc>https://plancherb1.github.io/tags/large-language-models/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/embedded-systems/</loc>
-    <lastmod>2023-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/open-education/</loc>
     <lastmod>2023-07-14T00:00:00+00:00</lastmod>
@@ -654,9 +675,6 @@
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/sertackaraman/</loc>
-    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/zacharymanchester/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/cudp/</loc>
