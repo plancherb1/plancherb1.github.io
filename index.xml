@@ -7,10 +7,39 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://plancherb1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FAQs</title>
+      <link>https://plancherb1.github.io/faqs/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/faqs/</guid>
+      <description>&lt;h2 id=&#34;becoming-a-postdoc-phd-masters-or-undergraduate-research-assistant&#34;&gt;Becoming a Postdoc, PhD, Masters, or Undergraduate Research Assistant&lt;/h2&gt;
+&lt;p&gt;If you want to do research with me, please follow the instructions on the &lt;a href=&#34;https://a2r-lab.org/join&#34;&gt;A²R Lab Join&lt;/a&gt; page.&lt;/p&gt;
+&lt;h2 id=&#34;letter-of-recommendation-requests&#34;&gt;Letter of Recommendation Requests&lt;/h2&gt;
+&lt;p&gt;In order to make sure I can write good letters of recommendation, all of the following must be true before I can commit to writing you a letter:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You&amp;rsquo;ve asked for it at least a month in advance of the deadline.&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ve given me all of the information you have about what is expected in the letter, especially if it is not a conventional graduate school application.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve collaborated with you on a project, or if you were a student in my class, I&amp;rsquo;ve had multiple conversations about things beyond the scope of a class and its requirements (e.g., in office hours, in research, or other settings).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For many students, this is easy to satisfy. For example, researchers in my lab easily satisfy all of the criteria above! If you do not qualify based on all of the criteria above, but still think I am the best person to write you a letter, exceptions may be made in some cases. Please make sure to explain in detail why you think an exception should be made!&lt;/p&gt;
+&lt;p&gt;If you are eligible for a letter, please send me an email to &lt;a href=&#34;mailto:bplancher+advising@barnard.edu&#34;&gt;bplancher+advising@barnard.edu&lt;/a&gt; with all of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The deadline and where/how to submit the letter.&lt;/li&gt;
+&lt;li&gt;Details about what the letter is for, preferably a URL to whatever you&amp;rsquo;re applying to.&lt;/li&gt;
+&lt;li&gt;Your latest transcript and CV/resume.&lt;/li&gt;
+&lt;li&gt;A draft of your application materials.&lt;/li&gt;
+&lt;li&gt;Why you think I&amp;rsquo;m an ideal person to write the letter and what you&amp;rsquo;d hope I&amp;rsquo;d highlight in my letter.&lt;/li&gt;
+&lt;li&gt;If we did not interact regularly, a detailed summary of all of our interactions, to help prime my memory.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, &lt;strong&gt;I will only write letters if you agree to waive your rights to see the letter&lt;/strong&gt;. That is the only way I can provide strong and honest letters to all students who submit requests each year.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -47,11 +76,140 @@
       
       <guid>https://plancherb1.github.io/office_hours/</guid>
       <description>&lt;p&gt;Office hours are open to students in my classes, to students interested in computer science, robotics, embedded machine learning, and STEM education, or really to any students who would like to find some time for one-on-one, or small-group conversations, discussions, and questions. If that&amp;rsquo;s you, you are welcome to drop in at any time during the office hours; no appointment needed.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;If you want to do research with me, please follow the instructions on the &lt;a href=&#34;https://a2r-lab.org/join&#34;&gt;A²R Lab Join&lt;/a&gt; page.&lt;/p&gt;
-&lt;p&gt;If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at &lt;a href=&#34;mailto:bplancher+advising@barnard.edu&#34;&gt;bplancher+advising@barnard.edu&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;For Fall 2023, my office hours will begin the semester by appointment only and generally over &lt;a href=&#34;https://plancherb1.github.io/zoom&#34;&gt;Zoom&lt;/a&gt; as I will be on parental course release.&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;A few quick notes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;If you want to do research with me, please follow the instructions on the &lt;a href=&#34;https://a2r-lab.org/join&#34;&gt;A²R Lab Join&lt;/a&gt; page.&lt;/li&gt;
+&lt;li&gt;If you are asking for a letter of recommendation, please follow the instructions on the &lt;a href=&#34;https://plancherb1.github.io/faqs&#34;&gt;FAQs&lt;/a&gt; page.&lt;/li&gt;
+&lt;li&gt;If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at &lt;a href=&#34;mailto:bplancher+advising@barnard.edu&#34;&gt;bplancher+advising@barnard.edu&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;I plan to hold these office hours in person in my office in Milstein 512 (unless noted below). If you want to meet via Zoom or would like to meet at a different time, please send me an email at &lt;a href=&#34;mailto:bplancher+meeting@barnard.edu&#34;&gt;bplancher+meeting@barnard.edu&lt;/a&gt;. I will try to respond to emails within 2 business days.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My Spring 2024 office hours schedule is below, with recent changes shown in &lt;strong&gt;bold&lt;/strong&gt;. Updates to office hours will usually be noted at least one business day in advance, except for (rare) emergency cancellations.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Day of the Week&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Location&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;January 24&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;January 31&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;February 7&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;February 14&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;February 21&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;February 28&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;March 6&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Spring Break&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Spring Break&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Spring Break&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Spring Break&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;March 20&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;March 27&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;April 3&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;April 10&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;April 17&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wednesday&lt;/td&gt;
+&lt;td&gt;April 24&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Monday&lt;/td&gt;
+&lt;td&gt;May 1&lt;/td&gt;
+&lt;td&gt;11:00 AM - 1:00 PM EDT&lt;/td&gt;
+&lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
