@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://plancherb1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>https://plancherb1.github.io/publication/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FAQs</title>
@@ -40,15 +49,6 @@
 &lt;p&gt;Also, as many recommendation letters now go through formal submission systems, once I agree to write your letter, please add me to that system as soon as you can.&lt;/p&gt;
 &lt;p&gt;Finally, &lt;strong&gt;I will only write letters if you agree to waive your rights to see the letter&lt;/strong&gt;. That is the only way I can provide strong and honest letters to all students who submit requests each year.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://plancherb1.github.io/publication/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/publication/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -296,8 +296,6 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
-&lt;/blockquote&gt;
 </description>
     </item>
     
