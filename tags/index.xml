@@ -7,7 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Architecture</title>
+      <link>https://plancherb1.github.io/tags/computer-architecture/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/computer-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control</title>
+      <link>https://plancherb1.github.io/tags/control/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hands-on</title>
+      <link>https://plancherb1.github.io/tags/hands-on/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/hands-on/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-Software Co-Design</title>
+      <link>https://plancherb1.github.io/tags/hardware-software-co-design/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/hardware-software-co-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>https://plancherb1.github.io/tags/optimization/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Programming</title>
+      <link>https://plancherb1.github.io/tags/parallel-programming/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/parallel-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning</title>
+      <link>https://plancherb1.github.io/tags/planning/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://plancherb1.github.io/tags/projects/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://plancherb1.github.io/tags/robotics/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Artificial Intelligence</title>
       <link>https://plancherb1.github.io/tags/artificial-intelligence/</link>
@@ -140,87 +221,6 @@
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/robot-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Architecture</title>
-      <link>https://plancherb1.github.io/tags/computer-architecture/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/computer-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Control</title>
-      <link>https://plancherb1.github.io/tags/control/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hands-on</title>
-      <link>https://plancherb1.github.io/tags/hands-on/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/hands-on/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware-Software Co-Design</title>
-      <link>https://plancherb1.github.io/tags/hardware-software-co-design/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/hardware-software-co-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimization</title>
-      <link>https://plancherb1.github.io/tags/optimization/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Programming</title>
-      <link>https://plancherb1.github.io/tags/parallel-programming/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/parallel-programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Planning</title>
-      <link>https://plancherb1.github.io/tags/planning/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/planning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://plancherb1.github.io/tags/projects/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://plancherb1.github.io/tags/robotics/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
