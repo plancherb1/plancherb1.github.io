@@ -7,15 +7,87 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sat, 17 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/admin/</link>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/admin/</guid>
       <description>I am an Assistant Professor of Computer Science at Barnard College, Columbia University where I lead the Accessible and Accelerated Robotics Lab (A²R Lab). I am also a co-chair for the Tiny Machine Learning Open Education Initiative (TinyMLedu) and an associate co-chair for the IEEE RAS TC on Model Based Optimization for Robotics.
 My research is focused on developing and implementing open-source algorithms for dynamic motion planning and control of robots by exploiting both the mathematical structure of algorithms and the design of computational platforms.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/elakhyanedumaran/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/elakhyanedumaran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/khainguyen/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/khainguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/samschoedel/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/samschoedel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/zacharymanchester/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/zacharymanchester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/chloeho/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/chloeho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/elizabethfields/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/elizabethfields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/minjiekim/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/minjiekim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/zixuanwu/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/zixuanwu/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -78,33 +150,6 @@ My research is focused on developing and implementing open-source algorithms for
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/anoushkaalavilli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/khainguyen/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/khainguyen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/samschoedel/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/samschoedel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/zacharymanchester/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/zacharymanchester/</guid>
       <description></description>
     </item>
     
@@ -920,19 +965,82 @@ My research is focused on developing and implementing open-source algorithms for
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/chloeho/</link>
+      <link>https://plancherb1.github.io/authors/alessandrogrande/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/chloeho/</guid>
+      <guid>https://plancherb1.github.io/authors/alessandrogrande/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/elizabethfields/</link>
+      <link>https://plancherb1.github.io/authors/andresolivatrevisan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/elizabethfields/</guid>
+      <guid>https://plancherb1.github.io/authors/andresolivatrevisan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/bharatchaudhari/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/bharatchaudhari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/borismurmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/borismurmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/davidcuartielles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/davidcuartielles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/diegomendez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/diegomendez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/ericpan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/ericpan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/ermannopietrosemoli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/ermannopietrosemoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/evgenigousev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/evgenigousev/</guid>
       <description></description>
     </item>
     
@@ -947,10 +1055,82 @@ My research is focused on developing and implementing open-source algorithms for
     
     <item>
       <title></title>
+      <link>https://plancherb1.github.io/authors/halleluyahaworinde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/halleluyahaworinde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://plancherb1.github.io/authors/halspeed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/halspeed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/jacklinetum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/jacklinetum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/jeremeyellis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/jeremeyellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/jesuslopezsotelo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/jesuslopezsotelo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/josealbertoferreirafilho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/josealbertoferreirafilho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/josebagur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/josebagur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/lailakazimierski/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/lailakazimierski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/manuelroveri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/manuelroveri/</guid>
       <description></description>
     </item>
     
@@ -965,19 +1145,163 @@ My research is focused on developing and implementing open-source algorithms for
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/minjiekim/</link>
+      <link>https://plancherb1.github.io/authors/marcusrub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/minjiekim/</guid>
+      <guid>https://plancherb1.github.io/authors/marcusrub/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/zixuanwu/</link>
+      <link>https://plancherb1.github.io/authors/marianverhelst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/authors/zixuanwu/</guid>
+      <guid>https://plancherb1.github.io/authors/marianverhelst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/massimopavan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/massimopavan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/milanlukic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/milanlukic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/nabilbenamar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/nabilbenamar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/neenagoveas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/neenagoveas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/petering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/petering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/pietromanzoni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/pietromanzoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/prashantmanandhar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/prashantmanandhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/ronaldcriollo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/ronaldcriollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/rosdiadeenordin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/rosdiadeenordin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/rytispaskauskas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/rytispaskauskas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/salahabdeljabar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/salahabdeljabar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/sebastianbuttrich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/sebastianbuttrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/segunadebayo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/segunadebayo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/solomongizaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/solomongizaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/talespimenta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/talespimenta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/thomasamberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/thomasamberg/</guid>
       <description></description>
     </item>
     

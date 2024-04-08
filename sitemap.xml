@@ -2,8 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://plancherb1.github.io/authors/admin/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/elakhyanedumaran/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/khainguyen/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/samschoedel/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/zacharymanchester/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/3/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://plancherb1.github.io/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/code-generation/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/conictinympc/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/conic-constraints/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/edge-computing/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/embedded-systems/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/quadrotor/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/chloeho/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/elizabethfields/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/minjiekim/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/zixuanwu/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/10/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/gender/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/research/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/robotics/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/underrepresentationwomenram/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/women/</loc>
+    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/computer-architecture/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
@@ -38,15 +119,6 @@
     <loc>https://plancherb1.github.io/tags/projects/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/robotics/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/</loc>
-    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/admin/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/authors/emanuelmoss/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -65,19 +137,10 @@
     <loc>https://plancherb1.github.io/authors/vijayjanapareddi/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/publication_types/3/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/edge-ml/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/embedded-systems/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/machine-learning/</loc>
@@ -90,12 +153,6 @@
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/privacy/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication_types/</loc>
-    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/risk/</loc>
@@ -113,25 +170,7 @@
     <loc>https://plancherb1.github.io/authors/anoushkaalavilli/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/khainguyen/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/samschoedel/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/zacharymanchester/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/publication_types/1/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/edge-computing/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/quadrotor/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/tinympc/</loc>
@@ -357,9 +396,6 @@
     <lastmod>2023-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/sachinkatti/</loc>
-    <lastmod>2023-03-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication_types/10/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/mlsensorscacm/</loc>
@@ -766,19 +802,81 @@
   </url><url>
     <loc>https://plancherb1.github.io/authors/alejandrafarina/</loc>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/chloeho/</loc>
+    <loc>https://plancherb1.github.io/authors/alessandrogrande/</loc>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/elizabethfields/</loc>
+    <loc>https://plancherb1.github.io/authors/andresolivatrevisan/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/bharatchaudhari/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/borismurmann/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/davidcuartielles/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/diegomendez/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/ericpan/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/ermannopietrosemoli/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/evgenigousev/</loc>
   </url><url>
     <loc>https://plancherb1.github.io/authors/greggbarrett/</loc>
   </url><url>
+    <loc>https://plancherb1.github.io/authors/halleluyahaworinde/</loc>
+  </url><url>
     <loc>https://plancherb1.github.io/authors/halspeed/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/jacklinetum/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/jeremeyellis/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/jesuslopezsotelo/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/josealbertoferreirafilho/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/josebagur/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/lailakazimierski/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/manuelroveri/</loc>
   </url><url>
     <loc>https://plancherb1.github.io/authors/marcelorovai/</loc>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/minjiekim/</loc>
+    <loc>https://plancherb1.github.io/authors/marcusrub/</loc>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/zixuanwu/</loc>
+    <loc>https://plancherb1.github.io/authors/marianverhelst/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/massimopavan/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/milanlukic/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/nabilbenamar/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/neenagoveas/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/petering/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/pietromanzoni/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/prashantmanandhar/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/ronaldcriollo/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/rosdiadeenordin/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/rytispaskauskas/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/salahabdeljabar/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/sebastianbuttrich/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/segunadebayo/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/solomongizaw/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/talespimenta/</loc>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/thomasamberg/</loc>
   </url><url>
     <loc>https://plancherb1.github.io/categories/</loc>
   </url>
