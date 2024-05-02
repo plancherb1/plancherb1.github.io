@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://plancherb1.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Courses</title>
+      <link>https://plancherb1.github.io/courses/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -18,15 +27,6 @@
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>https://plancherb1.github.io/courses/</link>
-      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/courses/</guid>
       <description></description>
     </item>
     
@@ -305,6 +305,8 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;co-organizer&#34;&gt;Co-Organizer:&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://indico.ictp.it/event/10499&#34;&gt;Workshop on TinyML for Sustainable Development&lt;/a&gt;: a 5-day in-person workshop workshop held at &lt;a href=&#34;https://research.ibm.com/labs/brazil&#34;&gt;IBM Research - Brazil&lt;/a&gt; for university students and professors exploring real-world applications and advances in TinyML for sustainable development with a focus on Latin America.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-24&#34;&gt;SciTinyML-24: Workshop on Machine Learning on Low-Power Devices: Applications and Advanced Topics&lt;/a&gt;: a 5-day hands-on, virtual, global workshop for university students and professors exploring real-world applications and advances in TinyML and how they can impact the developing world.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/edgemlup-23&#34;&gt;EdgeMLUP-23: Building Sustainable Edge Machine Learning University Programs&lt;/a&gt;: a 5-day in-person workshop held at &lt;a href=&#34;https://www.ictp.it/&#34;&gt;ICTP&lt;/a&gt; in Trieste, Italy. The workshop brought together educators and researchers from around the globe (47 participants from 28 countries) to develop a roadmap for sustainable university programs in embedded machine learning including the development of a common modular curriculum.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-23&#34;&gt;SciTinyML-23: Scientific Use of Machine Learning on Low-Power Devices: Applications and Advanced Topics&lt;/a&gt;: a 5-day hands-on, virtual, global (216 participants from 48 countries) workshop for university students and professors exploring real-world applications and advances in TinyML and how they can impact the developing world.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-22&#34;&gt;SciTinyML-22: Scientific Use of Machine Learning on Low-Power Devices&lt;/a&gt;: a 5-day hands-on, virtual workshop for university students and professors exploring real-world applications of TinyML and how they can impact the developing world. The workshop was run regionally for 2022 with seperate workshops for Africa (187 participants from 29 countries), Asia (100 from 8), and Latin America (200 from 17).&lt;/li&gt;

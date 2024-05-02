@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://plancherb1.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEM Education</title>
+      <link>https://plancherb1.github.io/tags/stem-education/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/stem-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TinyML</title>
+      <link>https://plancherb1.github.io/tags/tinyml/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/tinyml/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Code Generation</title>
       <link>https://plancherb1.github.io/tags/code-generation/</link>
@@ -171,15 +198,6 @@
     </item>
     
     <item>
-      <title>Artificial Intelligence</title>
-      <link>https://plancherb1.github.io/tags/artificial-intelligence/</link>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Edge ML</title>
       <link>https://plancherb1.github.io/tags/edge-ml/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
@@ -234,11 +252,20 @@
     </item>
     
     <item>
-      <title>TinyML</title>
-      <link>https://plancherb1.github.io/tags/tinyml/</link>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <title>Conservation</title>
+      <link>https://plancherb1.github.io/tags/conservation/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://plancherb1.github.io/tags/tinyml/</guid>
+      <guid>https://plancherb1.github.io/tags/conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing World</title>
+      <link>https://plancherb1.github.io/tags/developing-world/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/developing-world/</guid>
       <description></description>
     </item>
     
@@ -387,11 +414,29 @@
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>https://plancherb1.github.io/tags/contact/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hadware Acceleration</title>
       <link>https://plancherb1.github.io/tags/hadware-acceleration/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/hadware-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manipulation</title>
+      <link>https://plancherb1.github.io/tags/manipulation/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/manipulation/</guid>
       <description></description>
     </item>
     
@@ -405,20 +450,20 @@
     </item>
     
     <item>
+      <title>Models</title>
+      <link>https://plancherb1.github.io/tags/models/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Perception</title>
       <link>https://plancherb1.github.io/tags/perception/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STEM Education</title>
-      <link>https://plancherb1.github.io/tags/stem-education/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/stem-education/</guid>
       <description></description>
     </item>
     
@@ -473,33 +518,6 @@
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://plancherb1.github.io/tags/contact/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manipulation</title>
-      <link>https://plancherb1.github.io/tags/manipulation/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/manipulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Models</title>
-      <link>https://plancherb1.github.io/tags/models/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/models/</guid>
       <description></description>
     </item>
     

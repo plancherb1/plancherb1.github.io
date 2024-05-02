@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SciTinyML-24: Scientific Use of Machine Learning on Low-Power Devices</title>
+      <link>https://plancherb1.github.io/courses/scitinyml-24/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/scitinyml-24/</guid>
+      <description>SciTinyML-24 was a, five day, hands-on, virtual workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using embedded hardware devices and exploration of advanced topics. SciTinyML-24 was attend by TBD participants from TBD countries. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, Barnard College of Columbia University, Universidade Federal de Itajubá (UNIFEI), and TinyMLedu.</description>
+    </item>
+    
     <item>
       <title>COMS-BC3159-F24: Parallel Optimization for Robotics</title>
       <link>https://plancherb1.github.io/courses/coms-bc3159-f24/</link>
@@ -29,7 +38,7 @@
     <item>
       <title>COMS-BC3159-SP24: Parallel Optimization for Robotics</title>
       <link>https://plancherb1.github.io/courses/coms-bc3159-sp24/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/courses/coms-bc3159-sp24/</guid>
       <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on GPUs as well as numerical optimization. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
@@ -38,7 +47,7 @@
     <item>
       <title>COMS-BC3997-SP24: Applied Computing - Research and Industry Perspectives</title>
       <link>https://plancherb1.github.io/courses/coms-bc3997-sp24/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/courses/coms-bc3997-sp24/</guid>
       <description>This course is designed as a &lt;strong&gt;companion to mentored research and industry projects&lt;/strong&gt; in computer science that enable students to apply their learning in real-world contexts. While the course staff can provide general support for projects, they may not have the technical expertise to support all projects in depth. &lt;strong&gt;Therefore, for Spring 2024, students are expected to have arranged for a &lt;em&gt;mentored project&lt;/em&gt; during the course registration period and will need to present their project topic &lt;em&gt;in the first class&lt;/em&gt;.&lt;/strong&gt; For example, a student could be working on a research project mentored by a professor or helping a local company develop a web interface to their product mentored by a company software engineer. &lt;strong&gt;Mentors must commit to meeting with students at least every other week.&lt;/strong&gt; The course will be run through a mix of lecture and group work led by the course instructor as well as guest instructors from both industry and academia. Lectures cover a variety of applied computing topics designed to complement student projects and engage students with often underexplored considerations for effective and sustainable real-world projects. Students are evaluated both by their mentor on their project progress as well as by the course staff and peers on written deliverables and presentations.</description>
@@ -63,6 +72,15 @@
     </item>
     
     <item>
+      <title>Workshop on Leveraging Models for Contact-Rich Manipulation</title>
+      <link>https://plancherb1.github.io/courses/modelcontactiros23/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/courses/modelcontactiros23/</guid>
+      <description>The objective of this workshop is to bring together researchers in the model-based manipulation community to present their work and review state-of-the art methods in the field. In conjunction, the workshop aims to facilitate discussions on the future of the field and ask several important questions: how can we synthesize model-based approaches and recent learning approaches into a coherent whole? Do we believe that there is structure we can leverage from the models that we use to better inform planning and control algorithms?</description>
+    </item>
+    
+    <item>
       <title>SciTinyML-23: Scientific Use of Machine Learning on Low-Power Devices</title>
       <link>https://plancherb1.github.io/courses/scitinyml-23/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
@@ -74,7 +92,7 @@
     <item>
       <title>COMS-BC3159-SP23: Parallel Optimization for Robotics</title>
       <link>https://plancherb1.github.io/courses/coms-bc3159-sp23/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/courses/coms-bc3159-sp23/</guid>
       <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on CPUs and GPUs as well as optimization algorithms for robotics applications. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
@@ -83,7 +101,7 @@
     <item>
       <title>COMS-BC3997-SP23: Projects in Computer Science</title>
       <link>https://plancherb1.github.io/courses/coms-bc3997-sp23/</link>
-      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/courses/coms-bc3997-sp23/</guid>
       <description>This course is designed to explore topics and skills needed for the successful completion of large computer science projects. This will be done through a mix of lecture and group work led by both the course instructor as well as guest instructors from both industry and academia. Students will exercise their development of these skills by applying them in the context of a project. &lt;strong&gt;For Spring 2023, students are expected to bring a project to the course.&lt;/strong&gt; The course staff will be able to provide general support for projects but may not have the technical expertise to support projects in depth. &lt;strong&gt;As such, these projects will ideally already have a (technical) mentor or client sponsor who can support the student.&lt;/strong&gt; To document their projects and begin to build their personal portfolio, students will (learn how to and) develop a website, report, and presentation about both the final result of their project as well as the journey taken.</description>
@@ -105,15 +123,6 @@
       
       <guid>https://plancherb1.github.io/courses/mtgrss22/</guid>
       <description>Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry is aimed at bridging the gap between academia and industry. For researchers, this workshop will help lift the curtain on the realities of academic to industry tech transfer. For industry experts, this workshop provides an opportunity to influence the direction of academic research. For both, we hope to provide an venue for integrated dialogue and identification of new potential collaborations.</description>
-    </item>
-    
-    <item>
-      <title>Workshop on Leveraging Models for Contact-Rich Manipulation</title>
-      <link>https://plancherb1.github.io/courses/modelcontactiros23/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/courses/modelcontactiros23/</guid>
-      <description>The objective of this workshop is to bring together researchers in the model-based manipulation community to present their work and review state-of-the art methods in the field. In conjunction, the workshop aims to facilitate discussions on the future of the field and ask several important questions: how can we synthesize model-based approaches and recent learning approaches into a coherent whole? Do we believe that there is structure we can leverage from the models that we use to better inform planning and control algorithms?</description>
     </item>
     
     <item>
