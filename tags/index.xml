@@ -54,6 +54,168 @@
     </item>
     
     <item>
+      <title>Benchmarking</title>
+      <link>https://plancherb1.github.io/tags/benchmarking/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressed Learning</title>
+      <link>https://plancherb1.github.io/tags/compressed-learning/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/compressed-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge Computing</title>
+      <link>https://plancherb1.github.io/tags/edge-computing/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/edge-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded Systems</title>
+      <link>https://plancherb1.github.io/tags/embedded-systems/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://plancherb1.github.io/tags/fpga/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>https://plancherb1.github.io/tags/gpu/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Acceleration</title>
+      <link>https://plancherb1.github.io/tags/hardware-acceleration/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-Software Co-Design</title>
+      <link>https://plancherb1.github.io/tags/hardware-software-co-design/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/hardware-software-co-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Methods</title>
+      <link>https://plancherb1.github.io/tags/iterative-methods/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/iterative-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Systems</title>
+      <link>https://plancherb1.github.io/tags/linear-systems/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/linear-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://plancherb1.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Predictive Control</title>
+      <link>https://plancherb1.github.io/tags/model-predictive-control/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/model-predictive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preconditioning</title>
+      <link>https://plancherb1.github.io/tags/preconditioning/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/preconditioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadrotor</title>
+      <link>https://plancherb1.github.io/tags/quadrotor/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/quadrotor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://plancherb1.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot Learning</title>
+      <link>https://plancherb1.github.io/tags/robot-learning/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/robot-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROS2</title>
+      <link>https://plancherb1.github.io/tags/ros2/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/ros2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trajectory Optimization</title>
+      <link>https://plancherb1.github.io/tags/trajectory-optimization/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/trajectory-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artificial Intelligence</title>
       <link>https://plancherb1.github.io/tags/artificial-intelligence/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
@@ -99,56 +261,11 @@
     </item>
     
     <item>
-      <title>Edge Computing</title>
-      <link>https://plancherb1.github.io/tags/edge-computing/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/edge-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Embedded Systems</title>
-      <link>https://plancherb1.github.io/tags/embedded-systems/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/embedded-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Predictive Control</title>
-      <link>https://plancherb1.github.io/tags/model-predictive-control/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/model-predictive-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quadrotor</title>
-      <link>https://plancherb1.github.io/tags/quadrotor/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/quadrotor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Global Network</title>
       <link>https://plancherb1.github.io/tags/global-network/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/global-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://plancherb1.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -212,15 +329,6 @@
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/hands-on/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware-Software Co-Design</title>
-      <link>https://plancherb1.github.io/tags/hardware-software-co-design/</link>
-      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/hardware-software-co-design/</guid>
       <description></description>
     </item>
     
@@ -320,114 +428,6 @@
       <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/developing-world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compressed Learning</title>
-      <link>https://plancherb1.github.io/tags/compressed-learning/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/compressed-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>https://plancherb1.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robot Learning</title>
-      <link>https://plancherb1.github.io/tags/robot-learning/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/robot-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Benchmarking</title>
-      <link>https://plancherb1.github.io/tags/benchmarking/</link>
-      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/benchmarking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FPGA</title>
-      <link>https://plancherb1.github.io/tags/fpga/</link>
-      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/fpga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPU</title>
-      <link>https://plancherb1.github.io/tags/gpu/</link>
-      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/gpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware Acceleration</title>
-      <link>https://plancherb1.github.io/tags/hardware-acceleration/</link>
-      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/hardware-acceleration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ROS2</title>
-      <link>https://plancherb1.github.io/tags/ros2/</link>
-      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/ros2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iterative Methods</title>
-      <link>https://plancherb1.github.io/tags/iterative-methods/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/iterative-methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear Systems</title>
-      <link>https://plancherb1.github.io/tags/linear-systems/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/linear-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trajectory Optimization</title>
-      <link>https://plancherb1.github.io/tags/trajectory-optimization/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/trajectory-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preconditioning</title>
-      <link>https://plancherb1.github.io/tags/preconditioning/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/preconditioning/</guid>
       <description></description>
     </item>
     
