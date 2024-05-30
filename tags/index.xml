@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS Education</title>
+      <link>https://plancherb1.github.io/tags/cs-education/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/cs-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU Programming</title>
+      <link>https://plancherb1.github.io/tags/gpu-programming/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/gpu-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Optimizaiton</title>
+      <link>https://plancherb1.github.io/tags/numerical-optimizaiton/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/numerical-optimizaiton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://plancherb1.github.io/tags/parallel-computing/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://plancherb1.github.io/tags/robotics/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Artificial Intelligence</title>
       <link>https://plancherb1.github.io/tags/artificial-intelligence/</link>
@@ -131,15 +176,6 @@
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://plancherb1.github.io/tags/robotics/</link>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
@@ -378,15 +414,6 @@
     </item>
     
     <item>
-      <title>Parallel Computing</title>
-      <link>https://plancherb1.github.io/tags/parallel-computing/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/parallel-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Trajectory Optimization</title>
       <link>https://plancherb1.github.io/tags/trajectory-optimization/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
@@ -518,15 +545,6 @@
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/tags/un-sdgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CS Education</title>
-      <link>https://plancherb1.github.io/tags/cs-education/</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/tags/cs-education/</guid>
       <description></description>
     </item>
     

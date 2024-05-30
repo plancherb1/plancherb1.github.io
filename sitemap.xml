@@ -2,10 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://plancherb1.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <loc>https://plancherb1.github.io/authors/admin/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/1/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/cs-education/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/gpu-programming/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/numerical-optimizaiton/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/paroptrobcourse/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/robotics/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/courses/</loc>
@@ -17,14 +53,8 @@
     <loc>https://plancherb1.github.io/tags/stem-education/</loc>
     <lastmod>2024-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/</loc>
-    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/tinyml/</loc>
     <lastmod>2024-05-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/admin/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/elakhyanedumaran/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
@@ -39,9 +69,6 @@
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication_types/3/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/code-generation/</loc>
@@ -60,12 +87,6 @@
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication_types/</loc>
-    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/quadrotor/</loc>
@@ -191,9 +212,6 @@
     <loc>https://plancherb1.github.io/authors/vijayjanapareddi/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/publication_types/1/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/global-network/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -225,9 +243,6 @@
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/research/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/robotics/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/underrepresentationwomenram/</loc>
@@ -422,9 +437,6 @@
     <loc>https://plancherb1.github.io/publication/mpcgpu/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/trajectory-optimization/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -582,9 +594,6 @@
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/vincentberry/</loc>
-    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/cs-education/</loc>
     <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/open-source/</loc>
