@@ -31,10 +31,10 @@
   
     
   
-  <meta name="description" content="We introduce RobotPerf, a vendor-agnostic benchmarking suite designed to evaluate robotics computing performance across a diverse range of hardware platforms using ROS 2 as its common baseline. The suite encompasses ROS 2 packages covering the full robotics pipeline and integrates two distinct benchmarking approaches: black-box testing, which measures performance by eliminating upper layers and replacing them with a test application, and grey-box testing, an application-specific measure that observes internal system states with minimal interference. Our benchmarking framework provides ready-to-use tools and is easily adaptable for the assessment of custom ROS 2 computational graphs. Drawing from the knowledge of leading robot architects and system architecture experts, RobotPerf establishes a standardized approach to robotics benchmarking. As an open-source initiative, RobotPerf remains committed to evolving with community input to advance the future of hardware-accelerated robotics.">
+  <meta name="description" content="In our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/publication/robotperf/">
+  <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/publication/optimizingatallscales/">
 
   
 
@@ -101,7 +101,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://plancherb1.github.io/publication/robotperf/">
+  <link rel="canonical" href="https://plancherb1.github.io/publication/optimizingatallscales/">
 
   
   
@@ -112,14 +112,14 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Brian Plancher">
-  <meta property="og:url" content="https://plancherb1.github.io/publication/robotperf/">
-  <meta property="og:title" content="RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance | Brian Plancher">
-  <meta property="og:description" content="We introduce RobotPerf, a vendor-agnostic benchmarking suite designed to evaluate robotics computing performance across a diverse range of hardware platforms using ROS 2 as its common baseline. The suite encompasses ROS 2 packages covering the full robotics pipeline and integrates two distinct benchmarking approaches: black-box testing, which measures performance by eliminating upper layers and replacing them with a test application, and grey-box testing, an application-specific measure that observes internal system states with minimal interference. Our benchmarking framework provides ready-to-use tools and is easily adaptable for the assessment of custom ROS 2 computational graphs. Drawing from the knowledge of leading robot architects and system architecture experts, RobotPerf establishes a standardized approach to robotics benchmarking. As an open-source initiative, RobotPerf remains committed to evolving with community input to advance the future of hardware-accelerated robotics."><meta property="og:image" content="https://plancherb1.github.io/publication/robotperf/featured.png">
+  <meta property="og:url" content="https://plancherb1.github.io/publication/optimizingatallscales/">
+  <meta property="og:title" content="Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs | Brian Plancher">
+  <meta property="og:description" content="In our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking."><meta property="og:image" content="https://plancherb1.github.io/publication/optimizingatallscales/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2023-09-17T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2024-07-15T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2024-05-13T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2024-07-15T00:00:00&#43;00:00">
   
 
   
@@ -134,7 +134,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title>RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance | Brian Plancher</title>
+  <title>Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs | Brian Plancher</title>
 
   
   
@@ -425,7 +425,7 @@
 
 
 <div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/publication/robotperf/featured_huc6b2c2c31d8b0f3a2a80c0fc0a1593c2_182629_800x0_resize_lanczos_3.png');"></div>
+  <div class="featured-image" style="background-image: url('/publication/optimizingatallscales/featured_hua4a4ff7dabe8191ad87b7f5502e98c4a_110835_800x0_resize_lanczos_3.png');"></div>
   
 </div>
 
@@ -434,7 +434,7 @@
   <div class="row">
     <div class="col-6">
       <div class="split-header-content">
-        <h1 itemprop="name">RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</h1>
+        <h1 itemprop="name">Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</h1>
 
         
 
@@ -443,19 +443,14 @@
 
 
 
-	
-	  
-	     Best Poster Award for preliminary results at the Workshop on Methods for Objective Comparison of Results in Intelligent Robotics Research at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (iROS)
-	    <br/>
-
 </p>
 
         
 
 
 
-<meta content="2024-05-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2024-05-13 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2024-07-15 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-07-15 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -469,43 +464,25 @@
 
 
   <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://es.linkedin.com/in/vmayoral" target="_blank">Víctor Mayoral-Vilches</a>
+          <a href="https://www.linkedin.com/in/emre-adabag-223277174/" target="_blank">Emre Adabag</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://jabbourjason.com/" target="_blank">Jason Jabbour</a>
+          <a href="https://paulgroup.apam.columbia.edu/people/xueyi-bu" target="_blank">Xueyi Bu</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/yu-shun" target="_blank">Yu-Shun Hsiao</a>
+          <a href="https://xkhainguyen.github.io/" target="_blank">Khai Nguyen</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://zishenwan.github.io/" target="_blank">Zishen Wan</a>
+          <a href="https://samschoedel.com/" target="_blank">Sam Schoedel</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://es.linkedin.com/in/martino-crespo" target="_blank">Martiño Crespo-Álvarez</a>
+          <a href="https://www.linkedin.com/in/anoushka-alavilli-89586b178" target="_blank">Anoushka Alavilli</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://mpstewart.io/" target="_blank">Matthew Stewart</a>
+          <a href="https://www.linkedin.com/in/miloniatal/" target="_blank">Miloni Dipak Atal</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://es.linkedin.com/in/juan-manuel-reina-mu%C3%B1oz-56329b130" target="_blank">Juan Manuel Reina-Muñoz</a>
+          <a href="https://www.linkedin.com/in/wgerard/" target="_blank">William Gerard</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/nagrasprateek/" target="_blank">Prateek Nagras</a>
+          <a href="https://www.linkedin.com/in/elakhya-nedumaran/" target="_blank">Elakhya Nedumaran</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/gauravvikhe/" target="_blank">Gaurav Vikhe</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/mohammad-bakhshalipour-b87a6016b/" target="_blank">Mohammad Bakhshalipour</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://pinzger.github.io/" target="_blank">Martin Pinzger</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.jku.at/en/lit-secure-and-correct-systems-lab/secure-systems-group/team/stefan-rass/" target="_blank">Stefan Rass</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/smrutipanigrahi" target="_blank">Smruti Panigrahi</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/giulio-corradi-860b71b" target="_blank">Giulio Corradi</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/niladri/" target="_blank">Niladri Roy</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="http://www.cs.cmu.edu/~gibbons/" target="_blank">Phillip B. Gibbons</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://scholar.harvard.edu/sneuman" target="_blank">Sabrina M. Neuman</a>
+          <a href="http://zacmanchester.github.io/" target="_blank">Zachary Manchester</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <b>Brian Plancher</b>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home" target="_blank">Vijay Janapa Reddi</a>
         </span>
 
   </div>
@@ -518,7 +495,7 @@
     
       
     
-    <time>May 2024</time>
+    <time>July 2024</time>
   </span>
   
 
@@ -570,28 +547,24 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2309.09212" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/11rsDcUR1gz5DniZqbdAB2qbWXg80dHlv/view" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/robotperf/cite.bib">
+        data-filename="/publication/optimizingatallscales/cite.bib">
   Cite
 </button>
 
 
-  
+
+
+
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/robotperf/benchmarks" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
 
   
     
@@ -603,7 +576,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="/files/RobotPerf_IROS_poster.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/2024_Optimizing_at_All_Scales_Poster.pdf" target="_blank" rel="noopener">
   Poster
 </a>
 
@@ -624,13 +597,10 @@
   
   
     
-    
-      
-    
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/files/RobotPerf_extended_abstract.pdf" >
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home" target="_blank" rel="noopener">
     
-    Extended Abstract
+    Workshop Website
   </a>
 
   
@@ -644,9 +614,25 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://robotperf.net/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://tinympc.org/" target="_blank" rel="noopener">
     
-    Website
+    TinyMPC Website
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://a2r-lab.org/publication/mpcgpu/" target="_blank" rel="noopener">
+    
+    MPCGPU Website
   </a>
 
 
@@ -660,7 +646,7 @@
     </div>
     <div class="col-6">
       <div class="split-header-image">
-        <img src="/publication/robotperf/featured_huc6b2c2c31d8b0f3a2a80c0fc0a1593c2_182629_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
+        <img src="/publication/optimizingatallscales/featured_hua4a4ff7dabe8191ad87b7f5502e98c4a_110835_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
         
       </div>
     </div>
@@ -668,7 +654,7 @@
 </div>
 
 <div class="article-container d-xl-none">
-  <h1 itemprop="name">RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance</h1>
+  <h1 itemprop="name">Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</h1>
 
   
 
@@ -677,19 +663,14 @@
 
 
 
-	
-	  
-	     Best Poster Award for preliminary results at the Workshop on Methods for Objective Comparison of Results in Intelligent Robotics Research at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (iROS)
-	    <br/>
-
 
 
   
 
 
 
-<meta content="2024-05-13 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2024-05-13 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2024-07-15 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2024-07-15 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -703,43 +684,25 @@
 
 
   <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://es.linkedin.com/in/vmayoral" target="_blank">Víctor Mayoral-Vilches</a>
+          <a href="https://www.linkedin.com/in/emre-adabag-223277174/" target="_blank">Emre Adabag</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://jabbourjason.com/" target="_blank">Jason Jabbour</a>
+          <a href="https://paulgroup.apam.columbia.edu/people/xueyi-bu" target="_blank">Xueyi Bu</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/yu-shun" target="_blank">Yu-Shun Hsiao</a>
+          <a href="https://xkhainguyen.github.io/" target="_blank">Khai Nguyen</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://zishenwan.github.io/" target="_blank">Zishen Wan</a>
+          <a href="https://samschoedel.com/" target="_blank">Sam Schoedel</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://es.linkedin.com/in/martino-crespo" target="_blank">Martiño Crespo-Álvarez</a>
+          <a href="https://www.linkedin.com/in/anoushka-alavilli-89586b178" target="_blank">Anoushka Alavilli</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://mpstewart.io/" target="_blank">Matthew Stewart</a>
+          <a href="https://www.linkedin.com/in/miloniatal/" target="_blank">Miloni Dipak Atal</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://es.linkedin.com/in/juan-manuel-reina-mu%C3%B1oz-56329b130" target="_blank">Juan Manuel Reina-Muñoz</a>
+          <a href="https://www.linkedin.com/in/wgerard/" target="_blank">William Gerard</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/nagrasprateek/" target="_blank">Prateek Nagras</a>
+          <a href="https://www.linkedin.com/in/elakhya-nedumaran/" target="_blank">Elakhya Nedumaran</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/gauravvikhe/" target="_blank">Gaurav Vikhe</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/mohammad-bakhshalipour-b87a6016b/" target="_blank">Mohammad Bakhshalipour</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://pinzger.github.io/" target="_blank">Martin Pinzger</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.jku.at/en/lit-secure-and-correct-systems-lab/secure-systems-group/team/stefan-rass/" target="_blank">Stefan Rass</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/smrutipanigrahi" target="_blank">Smruti Panigrahi</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/giulio-corradi-860b71b" target="_blank">Giulio Corradi</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://www.linkedin.com/in/niladri/" target="_blank">Niladri Roy</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="http://www.cs.cmu.edu/~gibbons/" target="_blank">Phillip B. Gibbons</a>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://scholar.harvard.edu/sneuman" target="_blank">Sabrina M. Neuman</a>
+          <a href="http://zacmanchester.github.io/" target="_blank">Zachary Manchester</a>
         </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
           <b>Brian Plancher</b>
-        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
-          <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home" target="_blank">Vijay Janapa Reddi</a>
         </span>
 
   </div>
@@ -752,7 +715,7 @@
     
       
     
-    <time>May 2024</time>
+    <time>July 2024</time>
   </span>
   
 
@@ -806,28 +769,24 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2309.09212" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://drive.google.com/file/d/11rsDcUR1gz5DniZqbdAB2qbWXg80dHlv/view" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/robotperf/cite.bib">
+        data-filename="/publication/optimizingatallscales/cite.bib">
   Cite
 </button>
 
 
-  
+
+
+
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/robotperf/benchmarks" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
 
   
     
@@ -839,7 +798,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="/files/RobotPerf_IROS_poster.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/2024_Optimizing_at_All_Scales_Poster.pdf" target="_blank" rel="noopener">
   Poster
 </a>
 
@@ -860,13 +819,10 @@
   
   
     
-    
-      
-    
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/files/RobotPerf_extended_abstract.pdf" >
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home" target="_blank" rel="noopener">
     
-    Extended Abstract
+    Workshop Website
   </a>
 
   
@@ -880,9 +836,25 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://robotperf.net/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://tinympc.org/" target="_blank" rel="noopener">
     
-    Website
+    TinyMPC Website
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://a2r-lab.org/publication/mpcgpu/" target="_blank" rel="noopener">
+    
+    MPCGPU Website
   </a>
 
 
@@ -897,7 +869,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text">We introduce RobotPerf, a vendor-agnostic benchmarking suite designed to evaluate robotics computing performance across a diverse range of hardware platforms using ROS 2 as its common baseline. The suite encompasses ROS 2 packages covering the full robotics pipeline and integrates two distinct benchmarking approaches: black-box testing, which measures performance by eliminating upper layers and replacing them with a test application, and grey-box testing, an application-specific measure that observes internal system states with minimal interference. Our benchmarking framework provides ready-to-use tools and is easily adaptable for the assessment of custom ROS 2 computational graphs. Drawing from the knowledge of leading robot architects and system architecture experts, RobotPerf establishes a standardized approach to robotics benchmarking. As an open-source initiative, RobotPerf remains committed to evolving with community input to advance the future of hardware-accelerated robotics.</p>
+      <p class="pub-abstract" itemprop="text">Model predictive control (MPC) is a powerful tool for controlling highly dynamic robotic systems subject to complex constraints. However, MPC, and its underlying (nonlinear) optimization algorithms, are often too computationally demanding to meet real-time rates for robotic platforms, both large and small. These problems are exacerbated by the end of Dennard Scaling and Moore&rsquo;s law, which have led to a utilization wall that limits the performance a single CPU chip can deliver. As such, we now need to look to the field of software performance engineering to co-design our solvers for their target hardware architectures. As such, in our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking.</p>
     
 
     
@@ -909,8 +881,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference Proceedings
+            <a href="/publication/#9">
+              Posters / Abstracts / Other
             </a>
             
           </div>
@@ -927,7 +899,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em><a href="http://ieee-icra.org/">2024 IEEE International Conference on Robotics and Automation (ICRA)</a></em></div>
+          <div class="col-12 col-md-9">In <em><a href="https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home">Frontiers of Optimization for Robotics</a></em> a Workshop at <a href="https://roboticsconference.org/">Robotics: Sceince and Systems (RSS) 2024</a></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -946,19 +918,23 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/benchmarking/">Benchmarking</a>
+  <a class="badge badge-light" href="/tags/model-predictive-control/">Model Predictive Control</a>
   
-  <a class="badge badge-light" href="/tags/hardware-acceleration/">Hardware Acceleration</a>
-  
-  <a class="badge badge-light" href="/tags/hardware-software-co-design/">Hardware-Software Co-Design</a>
-  
-  <a class="badge badge-light" href="/tags/fpga/">FPGA</a>
+  <a class="badge badge-light" href="/tags/parallel-computing/">Parallel Computing</a>
   
   <a class="badge badge-light" href="/tags/gpu/">GPU</a>
   
-  <a class="badge badge-light" href="/tags/robotics/">Robotics</a>
+  <a class="badge badge-light" href="/tags/embedded-systems/">Embedded Systems</a>
   
-  <a class="badge badge-light" href="/tags/ros2/">ROS2</a>
+  <a class="badge badge-light" href="/tags/edge-computing/">Edge Computing</a>
+  
+  <a class="badge badge-light" href="/tags/mcu/">MCU</a>
+  
+  <a class="badge badge-light" href="/tags/linear-systems/">Linear Systems</a>
+  
+  <a class="badge badge-light" href="/tags/iterative-methods/">Iterative Methods</a>
+  
+  <a class="badge badge-light" href="/tags/trajectory-optimization/">Trajectory Optimization</a>
   
 </div>
 
@@ -985,10 +961,13 @@
   
   <div class="media author-card" itemscope itemtype="http://schema.org/Person">
     
+      
+      <img class="portrait mr-3" src="/authors/emreadabag/avatar_hu235da3fa0f02e961de331653adb5f757_42848_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+    
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/victormayoralvilches/">Víctor Mayoral-Vilches</a></h5>
-      
+      <h5 class="card-title" itemprop="name"><a href="/authors/emreadabag/">Emre Adabag</a></h5>
+      <h6 class="card-subtitle">Accelerated Numerical Optimization</h6>
       
       <ul class="network-icon" aria-hidden="true">
         
