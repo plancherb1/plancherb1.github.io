@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/admin/</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/admin/</guid>
       <description>I am an Assistant Professor of Computer Science at Barnard College, Columbia University where I lead the Accessible and Accelerated Robotics Lab (A²R Lab). I hold affiliate positions in the Department of Computer Science and Electrical Engineering at the Fu Foundation School of Engineering and Applied Science, Columbia University. I am also a co-chair for the Tiny Machine Learning Open Education Initiative (TinyMLedu) and an associate co-chair for the IEEE-RAS TC on Model Based Optimization for Robotics.</description>
@@ -20,7 +20,7 @@
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/anoushkaalavilli/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/anoushkaalavilli/</guid>
       <description></description>
@@ -28,10 +28,91 @@
     
     <item>
       <title></title>
+      <link>https://plancherb1.github.io/authors/elakhyanedumaran/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/elakhyanedumaran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://plancherb1.github.io/authors/emreadabag/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/emreadabag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/khainguyen/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/khainguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/milonidipakatal/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/milonidipakatal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/samschoedel/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/samschoedel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/williamgerard/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/williamgerard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/xueyibu/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/xueyibu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/zacharymanchester/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/zacharymanchester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/sabrinaneuman/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/sabrinaneuman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/vijayjanapareddi/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/authors/vijayjanapareddi/</guid>
       <description></description>
     </item>
     
@@ -73,15 +154,6 @@
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/khainguyen/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/khainguyen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://plancherb1.github.io/authors/levgrossman/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
@@ -113,15 +185,6 @@
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/matthewstewart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/milonidipakatal/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/milonidipakatal/</guid>
       <description></description>
     </item>
     
@@ -163,24 +226,6 @@
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/sabrinaneuman/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/sabrinaneuman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/samschoedel/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/samschoedel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://plancherb1.github.io/authors/smrutipanigrahi/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
@@ -208,33 +253,6 @@
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/vijayjanapareddi/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/vijayjanapareddi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/williamgerard/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/williamgerard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/xueyibu/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/xueyibu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://plancherb1.github.io/authors/yushunhsiao/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
@@ -244,28 +262,10 @@
     
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/zacharymanchester/</link>
-      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/zacharymanchester/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://plancherb1.github.io/authors/zishenwan/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://plancherb1.github.io/authors/zishenwan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/elakhyanedumaran/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://plancherb1.github.io/authors/elakhyanedumaran/</guid>
       <description></description>
     </item>
     

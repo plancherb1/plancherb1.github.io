@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 13 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/gpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimizing at All Scales: Edge (Non)linear Model Predictive Control from MCUs to GPUs</title>
+      <link>https://plancherb1.github.io/publication/optimizingatallscales/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/optimizingatallscales/</guid>
+      <description>In our recent works, by leveraging a combination of parallelism, approximation, and structure exploitation, we have enabled and accelerated (nonlinear) trajectory optimization solvers for real-time performance on non-standard computational hardware, ranging from microcontrollers (MCUs) to graphical processing units (GPUs). This has led to real-time MPC onboard an MCU powered 27g quadrotor for dynamic obstacle avoidance, as well as simulated whole-body nonlinear MPC at kHz rates for a GPU powered manipulator for high speed trajectory tracking.</description>
+    </item>
+    
+    <item>
+      <title>Invited: The Magnificent Seven Challenges and Opportunities in Domain-Specific Accelerator Design for Autonomous Systems</title>
+      <link>https://plancherb1.github.io/publication/magnificentseven/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://plancherb1.github.io/publication/magnificentseven/</guid>
+      <description>In this work, we present the Magnificent Seven Challenges in domain-specific accelerator design that can guide adventurous architects to contribute meaningfully to novel application domains. Although these challenges appear across domains ranging from ML to genomics, we examine them through the lens of autonomous systems as a motivating example in this work. To that end, we identify opportunities for the path forward in a successful domain-specific accelerator design from these challenges.</description>
+    </item>
+    
     <item>
       <title>MPCGPU: Real-Time Nonlinear Model Predictive Control through Preconditioned Conjugate Gradient on the GPU</title>
       <link>https://plancherb1.github.io/publication/mpcgpu/</link>
