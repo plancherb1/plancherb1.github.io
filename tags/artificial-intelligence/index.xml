@@ -7,96 +7,77 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://plancherb1.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SciTinyML-24: Scientific Use of Machine Learning on Low-Power Devices</title>
       <link>https://plancherb1.github.io/courses/scitinyml-24/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/courses/scitinyml-24/</guid>
       <description>SciTinyML-24 was a, five day, hands-on, virtual workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using embedded hardware devices and exploration of advanced topics. SciTinyML-24 was attend by TBD participants from TBD countries. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, Barnard College of Columbia University, Universidade Federal de Itajubá (UNIFEI), and TinyMLedu.</description>
     </item>
-    
     <item>
       <title>Materiality and Risk in the Age of Pervasive AI Sensors</title>
       <link>https://plancherb1.github.io/publication/pervasivesensors/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/publication/pervasivesensors/</guid>
       <description>Artificial intelligence systems connected to sensor-laden devices are becoming pervasive, which has significant implications for a range of AI risks, including to privacy, the environment, autonomy, and more. In this paper, we provide a comprehensive analysis of the evolution of sensors, the risks they pose by virtue of their material existence in the world, and the impacts of ubiquitous sensing and on-device AI. We propose incorporating sensors into risk management frameworks and call for more responsible sensor and system design paradigms that address risks of such systems. We show through calculative models that current systems prioritize data collection and cost reduction and produce risks that emerge around privacy, surveillance, waste, and power dynamics. We then analyze these risks, highlighting issues of validity, safety, security, accountability, interpretability, and bias. We conclude by advocating for increased attention to the materiality of algorithmic systems, and of on-device AI sensors in particular, and highlight the need for development of a responsible sensor design paradigm that empowers users and communities and leads to a future of increased fairness, accountability and transparency.</description>
     </item>
-    
     <item>
       <title>EdgeMLUP-23: Building Sustainable Edge Machine Learning University Programs</title>
       <link>https://plancherb1.github.io/courses/edgemlup-23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/courses/edgemlup-23/</guid>
       <description>EdgeMLUP-23 was an ICTP In-Person Meeting which brought together educators and researchers from around the globe (47 participants from 28 countries) to develop a roadmap for sustainable university programs in embedded machine learning including the development of a common modular curriculum. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, Barnard College of Columbia University, Universidade Federal de Itajubá (UNIFEI), and TinyMLedu with support from Edge Impulse, Arduino, Seeed Studio, Arm, and the TinyML Foundation.</description>
     </item>
-    
     <item>
       <title>SciTinyML-23: Scientific Use of Machine Learning on Low-Power Devices</title>
       <link>https://plancherb1.github.io/courses/scitinyml-23/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/courses/scitinyml-23/</guid>
       <description>SciTinyML-23 was a, five day, hands-on, virtual workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using embedded hardware devices and exploration of advanced topics. SciTinyML-23 was attend by 418 participants from 76 countries. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, Barnard College of Columbia University, Universidade Federal de Itajubá (UNIFEI), and TinyMLedu.</description>
     </item>
-    
     <item>
       <title>EASI-22: Edge AI Summer Institute</title>
       <link>https://plancherb1.github.io/courses/easi-22/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/courses/easi-22/</guid>
       <description>EASI-22 was a 3-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence at the edge through hands-on examples of Tiny Machine Learning (TinyML). This program was a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, and Barnard College, Columbia University.</description>
     </item>
-    
     <item>
       <title>SciTinyML-22: Scientific Use of Machine Learning on Low-Power Devices</title>
       <link>https://plancherb1.github.io/courses/scitinyml-22/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/courses/scitinyml-22/</guid>
       <description>SciTinyML-22 was a, five day, hands-on, virtual workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using embedded hardware devices. SciTinyML-22 was run regionally with seperate workshops for Africa (187 participants from 29 countries), Asia, and Latin America. This program was a collaboration led by the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyMLedu.</description>
     </item>
-    
     <item>
       <title>SciTinyML-21: Scientific Use of Machine Learning on Low-Power Devices</title>
       <link>https://plancherb1.github.io/courses/scitinyml-21/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/courses/scitinyml-21/</guid>
       <description>SciTinyML-21 was a, five day, hands-on, virtual, global (216 participants from 48 countries) workshop exploring how embedded ML (tinyML) can impact the developing world through hands-on activities using the Edge Impulse cloud platform and a smartphone. This program was a collaboration between the Abdus Salam International Centre for Theoretical Physics (ICTP), the Harvard John A. Paulson School of Engineering and Applied Sciences, and TinyML4D.</description>
     </item>
-    
     <item>
       <title>CRESTLEX 3.0 - CReating Effective STem Learning EXperiences</title>
       <link>https://plancherb1.github.io/courses/crestlex/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/courses/crestlex/</guid>
       <description>CRESTLEX 3.0 was a first-of-its-kind, 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of Tiny Machine Learning (TinyML). This program was a collaboration between Navajo Technical University, the Harvard John A. Paulson School of Engineering and Applied Sciences, Google, and Edge Impulse.</description>
     </item>
-    
     <item>
       <title>Harvard CS 182: Introduction to Artificial Intelligence</title>
       <link>https://plancherb1.github.io/courses/cs182/</link>
       <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/courses/cs182/</guid>
       <description>Artificial Intelligence (AI) is an exciting field that has enabled a wide range of cutting-edge tech-nology, from driverless cars to grandmaster-beating Go programs. The goal of this course is to introduce the ideas and techniques underlying the design of intelligent computer systems. Topics covered in this course are broadly be divided into 1) planning and search algorithms, 2) probabilistic reasoning and representations, and 3) machine learning (although, as you will see, it is impossible to separate these ideas so neatly).</description>
     </item>
-    
     <item>
       <title>MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix</title>
       <link>https://plancherb1.github.io/courses/beaverworks/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/courses/beaverworks/</guid>
       <description>Driverless vehicle technology has been growing at an exponential pace since the DARPA Grand and Urban Challenges pushed the state of the art to demonstrate what was already possible. Commercial interest and aggressive development are being driven by Google, Toyota, Tesla, Continental, Uber, Apple, NVidia, and many other companies. There is no single technology or “killer app” available to solve the myriad perception, understanding, localization, planning, and control problems required to achieve robust navigation in highly variable, extremely complex and dynamically changing environments. This summer, Beaver Works Summer Institute will offer nine teams of five students, each with its own MIT-designed RACECAR (Rapid Autonomous Complex Environment Competing Ackermann steeRing) robot, the opportunity to explore the broad spectrum of research in these areas, learn to collaborate, and demonstrate fast, autonomous navigation in a Mini Grand Prix to Move&amp;hellip; Explore&amp;hellip; Learn&amp;hellip;Race!</description>
     </item>
-    
   </channel>
 </rss>
