@@ -236,7 +236,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;5:30 PM - 6:00 PM EDT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;5:30 PM - 6:00 PM EDT&lt;/del&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -248,8 +248,14 @@
 &lt;tr&gt;
 &lt;td&gt;Monday&lt;/td&gt;
 &lt;td&gt;November 18&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;(Tentative) 8:05 PM - 9:30 PM EDT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;5:30 PM - 6:00 PM EDT&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;Milstein 512&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;8:05 PM - 9:00 PM EDT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Wednesday&lt;/td&gt;
