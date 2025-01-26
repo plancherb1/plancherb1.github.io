@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Architecture</title>
+      <link>https://plancherb1.github.io/tags/computer-architecture/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/computer-architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Systems</title>
+      <link>https://plancherb1.github.io/tags/computer-systems/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/computer-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Logic</title>
+      <link>https://plancherb1.github.io/tags/digital-logic/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/digital-logic/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Edge Computing</title>
       <link>https://plancherb1.github.io/tags/edge-computing/</link>
@@ -259,13 +280,6 @@
       <link>https://plancherb1.github.io/tags/women/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/tags/women/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Computer Architecture</title>
-      <link>https://plancherb1.github.io/tags/computer-architecture/</link>
-      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/computer-architecture/</guid>
       <description></description>
     </item>
     <item>
