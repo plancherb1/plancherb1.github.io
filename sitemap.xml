@@ -2,8 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://plancherb1.github.io/authors/admin/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/enaselmanhousein/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/1/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://plancherb1.github.io/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/cybersecurity/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/gender/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/improvingrepresentationcyber/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/representation/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/women/</loc>
+    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/computer-architecture/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
@@ -19,12 +55,6 @@
   </url><url>
     <loc>https://plancherb1.github.io/tags/digital-logic/</loc>
     <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/admin/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/anoushkaalavilli/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
@@ -56,9 +86,6 @@
     <loc>https://plancherb1.github.io/publication_types/9/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/edge-computing/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -86,12 +113,6 @@
     <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/publication_types/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/trajectory-optimization/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -99,9 +120,6 @@
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/vijayjanapareddi/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication_types/1/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/asic/</loc>
@@ -392,16 +410,10 @@
     <loc>https://plancherb1.github.io/publication_types/10/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/gender/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/research/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/underrepresentationwomenram/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/women/</loc>
     <lastmod>2024-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/courses/coms-bc3159-f24/</loc>
