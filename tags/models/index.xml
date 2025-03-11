@@ -7,14 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://plancherb1.github.io/tags/models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/tags/models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workshop on Leveraging Models for Contact-Rich Manipulation</title>
-      <link>https://plancherb1.github.io/courses/modelcontact@iros23/</link>
+      <link>https://plancherb1.github.io/courses/modelcontactiros23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/courses/modelcontact@iros23/</guid>
+      
+      <guid>https://plancherb1.github.io/courses/modelcontactiros23/</guid>
       <description>The objective of this workshop is to bring together researchers in the model-based manipulation community to present their work and review state-of-the art methods in the field. In conjunction, the workshop aims to facilitate discussions on the future of the field and ask several important questions: how can we synthesize model-based approaches and recent learning approaches into a coherent whole? Do we believe that there is structure we can leverage from the models that we use to better inform planning and control algorithms?</description>
     </item>
+    
   </channel>
 </rss>
