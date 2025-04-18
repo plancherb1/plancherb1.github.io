@@ -7,15 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/zainasgar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://plancherb1.github.io/authors/zainasgar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/zainasgar/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/zainasgar/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Machine Learning Sensors</title>
       <link>https://plancherb1.github.io/publication/mlsensors/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/publication/mlsensors/</guid>
       <description>Machine learning sensors represent a paradigm shift for the future of embedded machine learning applications. Current instantiations of embedded machine learning (ML) suffer from complex integration, lack of modularity, and privacy and security concerns from data movement. This article proposes a more data-centric paradigm for embedding sensor intelligence on edge devices to combat these challenges. Our vision for &amp;lsquo;sensor 2.0&amp;rsquo; entails segregating sensor input data and ML processing from the wider system at the hardware level and providing a thin interface that mimics traditional sensors in functionality. This separation leads to a modular and easy-to-use ML sensor device. We discuss challenges presented by the standard approach of building ML processing into the software stack of the controlling microprocessor on an embedded system and how the modularity of ML sensors alleviates these problems. ML sensors increase privacy and accuracy while making it easier for system builders to integrate ML into their products as a simple component. We provide examples of prospective ML sensors and an illustrative datasheet as a demonstration and hope that this will build a dialogue to progress us towards sensor 2.0.</description>
     </item>
-    
   </channel>
 </rss>
