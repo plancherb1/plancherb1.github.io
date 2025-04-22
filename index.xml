@@ -80,7 +80,7 @@
 &lt;p&gt;A few quick notes:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;If you want to do research with me, please follow the instructions on the &lt;a href=&#34;https://a2r-lab.org/join&#34;&gt;A²R Lab Join&lt;/a&gt; page.&lt;/li&gt;
-&lt;li&gt;If you are asking for a letter of recommendation, please follow the instructions on the &lt;a href=&#34;https://plancherb1.github.io/faqs/&#34;&gt;FAQs&lt;/a&gt; page.&lt;/li&gt;
+&lt;li&gt;If you are asking for a letter of recommendation, please follow the instructions on the &lt;a href=&#34;https://plancherb1.github.io/faqs&#34;&gt;FAQs&lt;/a&gt; page.&lt;/li&gt;
 &lt;li&gt;If you are trying to meet me because I am your faculty advisor please come to office hours (see below) or email me to set up a different time at &lt;a href=&#34;mailto:bplancher+advising@barnard.edu&#34;&gt;bplancher+advising@barnard.edu&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;I plan to hold these office hours in person in my office in Milstein 512 (unless noted below). If you want to meet via Zoom or would like to meet at a different time, please send me an email at &lt;a href=&#34;mailto:bplancher+meeting@barnard.edu&#34;&gt;bplancher+meeting@barnard.edu&lt;/a&gt;. I will try to respond to emails within 2 business days.&lt;/li&gt;
 &lt;/ol&gt;
@@ -135,13 +135,13 @@
 &lt;td&gt;&lt;del&gt;Tuesday&lt;/del&gt;&lt;/td&gt;
 &lt;td&gt;&lt;del&gt;February 11&lt;/del&gt;&lt;/td&gt;
 &lt;td&gt;&lt;del&gt;1:45 PM - 2:45 PM EDT&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;Milstein 512&lt;/del&gt; &lt;a href=&#34;https://plancherb1.github.io/&#34;&gt;&lt;strong&gt;Cancelled&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Milstein 512&lt;/del&gt; &lt;a href=&#34;#&#34;&gt;&lt;strong&gt;Cancelled&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;del&gt;Wednesday&lt;/del&gt;&lt;/td&gt;
 &lt;td&gt;&lt;del&gt;February 12&lt;/del&gt;&lt;/td&gt;
 &lt;td&gt;&lt;del&gt;10:30 AM - 11:30 AM EDT&lt;/del&gt;&lt;/td&gt;
-&lt;td&gt;&lt;del&gt;Milstein 512&lt;/del&gt; &lt;a href=&#34;https://plancherb1.github.io/&#34;&gt;&lt;strong&gt;Cancelled&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;del&gt;Milstein 512&lt;/del&gt; &lt;a href=&#34;#&#34;&gt;&lt;strong&gt;Cancelled&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Tuesday&lt;/td&gt;
@@ -248,7 +248,7 @@
 &lt;tr&gt;
 &lt;td&gt;Wednesday&lt;/td&gt;
 &lt;td&gt;April 23&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;9:30-10:00, 10:30-11:30 AM EDT&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;9:00-9:30, 10:30-11:30 AM EDT&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;Milstein 512&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -283,6 +283,8 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
@@ -299,17 +301,17 @@
 &lt;h2 id=&#34;co-organizer&#34;&gt;Co-Organizer:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://indico.ictp.it/event/10499&#34;&gt;Workshop on TinyML for Sustainable Development&lt;/a&gt;: a 5-day in-person workshop workshop held at &lt;a href=&#34;https://research.ibm.com/labs/brazil&#34;&gt;IBM Research - Brazil&lt;/a&gt; for university students and professors exploring real-world applications and advances in TinyML for sustainable development with a focus on Latin America.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-24/&#34;&gt;SciTinyML-24: Workshop on Machine Learning on Low-Power Devices: Applications and Advanced Topics&lt;/a&gt;: a 5-day hands-on, virtual, global workshop for university students and professors exploring real-world applications and advances in TinyML and how they can impact the developing world.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/edgemlup-23/&#34;&gt;EdgeMLUP-23: Building Sustainable Edge Machine Learning University Programs&lt;/a&gt;: a 5-day in-person workshop held at &lt;a href=&#34;https://www.ictp.it/&#34;&gt;ICTP&lt;/a&gt; in Trieste, Italy. The workshop brought together educators and researchers from around the globe (47 participants from 28 countries) to develop a roadmap for sustainable university programs in embedded machine learning including the development of a common modular curriculum.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-23/&#34;&gt;SciTinyML-23: Scientific Use of Machine Learning on Low-Power Devices: Applications and Advanced Topics&lt;/a&gt;: a 5-day hands-on, virtual, global (216 participants from 48 countries) workshop for university students and professors exploring real-world applications and advances in TinyML and how they can impact the developing world.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-22/&#34;&gt;SciTinyML-22: Scientific Use of Machine Learning on Low-Power Devices&lt;/a&gt;: a 5-day hands-on, virtual workshop for university students and professors exploring real-world applications of TinyML and how they can impact the developing world. The workshop was run regionally for 2022 with seperate workshops for Africa (187 participants from 29 countries), Asia (100 from 8), and Latin America (200 from 17).&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/easi-22/&#34;&gt;EASI-22: Edge AI Summer Institute&lt;/a&gt;. A 3-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence at the edge through hands-on examples of TinyML. This program was a collaboration between Harvard University, Navajo Technical University, and Barnard College, Columbia University.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-21/&#34;&gt;SciTinyML-21: Scientific Use of Machine Learning on Low-Power Devices&lt;/a&gt;: a 5-day hands-on, virtual, global (216 participants from 48 countries) workshop for university students and professors exploring real-world applications of TinyML and how they can impact the developing world.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/crestlex/&#34;&gt;CRESTLEX 3.0: CReating Effective STem Learning Experiences&lt;/a&gt;. A 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of TinyML. This program was a collaboration between Harvard University, Navajo Technical University, Google, and Edge Impulse.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-24&#34;&gt;SciTinyML-24: Workshop on Machine Learning on Low-Power Devices: Applications and Advanced Topics&lt;/a&gt;: a 5-day hands-on, virtual, global workshop for university students and professors exploring real-world applications and advances in TinyML and how they can impact the developing world.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/edgemlup-23&#34;&gt;EdgeMLUP-23: Building Sustainable Edge Machine Learning University Programs&lt;/a&gt;: a 5-day in-person workshop held at &lt;a href=&#34;https://www.ictp.it/&#34;&gt;ICTP&lt;/a&gt; in Trieste, Italy. The workshop brought together educators and researchers from around the globe (47 participants from 28 countries) to develop a roadmap for sustainable university programs in embedded machine learning including the development of a common modular curriculum.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-23&#34;&gt;SciTinyML-23: Scientific Use of Machine Learning on Low-Power Devices: Applications and Advanced Topics&lt;/a&gt;: a 5-day hands-on, virtual, global (216 participants from 48 countries) workshop for university students and professors exploring real-world applications and advances in TinyML and how they can impact the developing world.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-22&#34;&gt;SciTinyML-22: Scientific Use of Machine Learning on Low-Power Devices&lt;/a&gt;: a 5-day hands-on, virtual workshop for university students and professors exploring real-world applications of TinyML and how they can impact the developing world. The workshop was run regionally for 2022 with seperate workshops for Africa (187 participants from 29 countries), Asia (100 from 8), and Latin America (200 from 17).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/easi-22&#34;&gt;EASI-22: Edge AI Summer Institute&lt;/a&gt;. A 3-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence at the edge through hands-on examples of TinyML. This program was a collaboration between Harvard University, Navajo Technical University, and Barnard College, Columbia University.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/scitinyml-21&#34;&gt;SciTinyML-21: Scientific Use of Machine Learning on Low-Power Devices&lt;/a&gt;: a 5-day hands-on, virtual, global (216 participants from 48 countries) workshop for university students and professors exploring real-world applications of TinyML and how they can impact the developing world.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/crestlex&#34;&gt;CRESTLEX 3.0: CReating Effective STem Learning Experiences&lt;/a&gt;. A 4-day, hands-on workshop for high school teachers and students exploring real-world applications of artificial intelligence through hands-on examples of TinyML. This program was a collaboration between Harvard University, Navajo Technical University, Google, and Edge Impulse.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;instructor&#34;&gt;Instructor:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/beaverworks/&#34;&gt;MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix&lt;/a&gt;. A 4-week, project-based, summer program held at MIT for rising high school juniors and seniors exploring self driving cars. Students worked in teams of 4-6 to program their own 1/10-scale self driving car powered by an NVIDIA Jetson using an onboard LIDAR, stero camera, and IMU.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plancherb1.github.io/courses/beaverworks&#34;&gt;MIT Beaverworks Summer Institute: Autonomous RACECAR Grad Prix&lt;/a&gt;. A 4-week, project-based, summer program held at MIT for rising high school juniors and seniors exploring self driving cars. Students worked in teams of 4-6 to program their own 1/10-scale self driving car powered by an NVIDIA Jetson using an onboard LIDAR, stero camera, and IMU.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;mentor&#34;&gt;Mentor:&lt;/h2&gt;
 &lt;ul&gt;
