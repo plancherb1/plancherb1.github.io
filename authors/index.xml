@@ -7,1365 +7,1127 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 25 Mar 2025 00:00:03 +0000</lastBuildDate><atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/admin/</link>
-      <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
-      
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/authors/admin/</guid>
       <description>I am an Assistant Professor of Computer Science at Barnard College, Columbia University where I lead the Accessible and Accelerated Robotics Lab (A²R Lab). I hold affiliate positions in the Department of Computer Science and Electrical Engineering at the Fu Foundation School of Engineering and Applied Science, Columbia University. I am also a co-chair for the Tiny Machine Learning Open Education Initiative (TinyMLedu) and an associate co-chair for the IEEE-RAS TC on Model Based Optimization for Robotics.</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/charlescarver/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/charlescarver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/chunchengchang/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/chunchengchang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/hadleighschwartz/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/hadleighschwartz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/kechenliu/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/kechenliu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/megangraciela/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/megangraciela/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/tomaitagaki/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/tomaitagaki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/vikramiyer/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/vikramiyer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/xiazhou/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/xiazhou/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/zacharyenglhardt/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/zacharyenglhardt/</guid>
+      <description></description>
+    </item>
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/colinjones/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/colinjones/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/shaohuiyang/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/shaohuiyang/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/toshiyukiohtsuka/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:03 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/toshiyukiohtsuka/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/emanuelmoss/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/emanuelmoss/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/matthewstewart/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/matthewstewart/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/monasloane/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/monasloane/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/petewarden/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/petewarden/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/susankennedy/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/susankennedy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/vijayjanapareddi/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/vijayjanapareddi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/chihhuang/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/chihhuang/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/pranavjadhav/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/pranavjadhav/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/zacharykingston/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/zacharykingston/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/enaselmanhousein/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/enaselmanhousein/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/anoushkaalavilli/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/anoushkaalavilli/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/elakhyanedumaran/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/elakhyanedumaran/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/emreadabag/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/emreadabag/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/khainguyen/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/khainguyen/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/milonidipakatal/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/milonidipakatal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/samschoedel/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/samschoedel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/williamgerard/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/williamgerard/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/xueyibu/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/xueyibu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/zacharymanchester/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/zacharymanchester/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/sabrinaneuman/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/sabrinaneuman/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/levgrossman/</link>
       <pubDate>Mon, 13 May 2024 00:00:01 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/levgrossman/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/gauravvikhe/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/gauravvikhe/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/giuliocorradi/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/giuliocorradi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/jasonjabbour/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/jasonjabbour/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/juanreinamunoz/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/juanreinamunoz/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/martinoalvarez/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/martinoalvarez/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/martinpinzger/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/martinpinzger/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/mohammadbakhshalipour/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/mohammadbakhshalipour/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/niladriroy/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/niladriroy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/phillipgibbons/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/phillipgibbons/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/prateeknagras/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/prateeknagras/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/smrutipanigrahi/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/smrutipanigrahi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/stefanrass/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/stefanrass/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/victormayoralvilches/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/victormayoralvilches/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/yushunhsiao/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/yushunhsiao/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/zishenwan/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/zishenwan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/alessandrogrande/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/alessandrogrande/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/andresolivatrevisan/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/andresolivatrevisan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/bharatchaudhari/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/bharatchaudhari/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/borismurmann/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/borismurmann/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/davidcuartielles/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/davidcuartielles/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/diegomendez/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/diegomendez/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/ericpan/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/ericpan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/ermannopietrosemoli/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/ermannopietrosemoli/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/evgenigousev/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/evgenigousev/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/greggbarrett/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/greggbarrett/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/halleluyahaworinde/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/halleluyahaworinde/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/jacklinetum/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/jacklinetum/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/jeremeyellis/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/jeremeyellis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/jesuslopezsotelo/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/jesuslopezsotelo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/josealbertoferreirafilho/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/josealbertoferreirafilho/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/josebagur/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/josebagur/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/lailakazimierski/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/lailakazimierski/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/manuelroveri/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/manuelroveri/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/marcelorovai/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/marcelorovai/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/marcozennaro/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/marcozennaro/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/marcusrub/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/marcusrub/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/marianverhelst/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/marianverhelst/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/massimopavan/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/massimopavan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/milanlukic/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/milanlukic/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/nabilbenamar/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/nabilbenamar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/neenagoveas/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/neenagoveas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/petering/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/petering/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/pietromanzoni/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/pietromanzoni/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/prashantmanandhar/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/prashantmanandhar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/ronaldcriollo/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/ronaldcriollo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/rosdiadeenordin/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/rosdiadeenordin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/rytispaskauskas/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/rytispaskauskas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/salahabdeljabar/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/salahabdeljabar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/sebastianbuttrich/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/sebastianbuttrich/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/segunadebayo/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/segunadebayo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/shawnhymel/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/shawnhymel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/solomongizaw/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/solomongizaw/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/talespimenta/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/talespimenta/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/thomasamberg/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/thomasamberg/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/chloeho/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/chloeho/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/elizabethfields/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/elizabethfields/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/minjiekim/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/minjiekim/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/zixuanwu/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/zixuanwu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/williamxie/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/williamxie/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/benjaminbrown/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/benjaminbrown/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/joaosantos/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/joaosantos/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/natjeffries/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/natjeffries/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/radhikaghosal/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/radhikaghosal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/shvetankprakash/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/shvetankprakash/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/thomasbourgeat/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/thomasbourgeat/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/yasmineomri/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/yasmineomri/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>JimMacArthur</title>
       <link>https://plancherb1.github.io/authors/jimmacarthur/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/jimmacarthur/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/sachinkatti/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/sachinkatti/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/colbybanbury/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:01 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/colbybanbury/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/markmazumder/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:01 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/markmazumder/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/bobedmison/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/bobedmison/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/jeremiahblanchard/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/jeremiahblanchard/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/johnrhott/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/johnrhott/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/oscarkarnalim/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/oscarkarnalim/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/rebeccacarroll/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/rebeccacarroll/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/richardglassey/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/richardglassey/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/seanrussell/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/seanrussell/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/vincentberry/</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/vincentberry/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/aleksandrafaust/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/aleksandrafaust/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/bardienusduisterhof/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/bardienusduisterhof/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/guidodecroon/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/guidodecroon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/srivatsankrishnan/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/srivatsankrishnan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/emmachen/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/emmachen/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/zainasgar/</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/zainasgar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/dhilanramaprasad/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/dhilanramaprasad/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/scottkuindersma/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/scottkuindersma/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/anantagarwal/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/anantagarwal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/dominicpajak/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/dominicpajak/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/dustintingley/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/dustintingley/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/laurencemoroney/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/laurencemoroney/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/massimobanzi/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/massimobanzi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Benjamin Brown</title>
       <link>https://plancherb1.github.io/authors/benjamin-brown/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/benjamin-brown/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cara Mann</title>
       <link>https://plancherb1.github.io/authors/cara-mann/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/cara-mann/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Daniel Leiker</title>
       <link>https://plancherb1.github.io/authors/daniel-leiker/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/daniel-leiker/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dhilan Ramaprasad</title>
       <link>https://plancherb1.github.io/authors/dhilan-ramaprasad/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/dhilan-ramaprasad/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>J. Evan Smith</title>
       <link>https://plancherb1.github.io/authors/j.-evan-smith/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/j.-evan-smith/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Matthew Bennett</title>
       <link>https://plancherb1.github.io/authors/matthew-bennett/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/matthew-bennett/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Maximilian Lam</title>
       <link>https://plancherb1.github.io/authors/maximilian-lam/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/maximilian-lam/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Rupert Jaeger</title>
       <link>https://plancherb1.github.io/authors/rupert-jaeger/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/rupert-jaeger/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sarah Grafman</title>
       <link>https://plancherb1.github.io/authors/sarah-grafman/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/sarah-grafman/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sharad Chitlangia</title>
       <link>https://plancherb1.github.io/authors/sharad-chitlangia/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/sharad-chitlangia/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/behzadboroujerdian/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/behzadboroujerdian/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Jon Cruz</title>
       <link>https://plancherb1.github.io/authors/jon-cruz/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/jon-cruz/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/hasangenc/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/hasangenc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kayvan Mansoorshahi</title>
       <link>https://plancherb1.github.io/authors/kayvan-mansoorshahi/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/kayvan-mansoorshahi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Marcelino Almeida</title>
       <link>https://plancherb1.github.io/authors/marcelino-almeida/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/marcelino-almeida/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pieter Bardienus</title>
       <link>https://plancherb1.github.io/authors/pieter-bardienus/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/pieter-bardienus/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/srinidevadas/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/srinidevadas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/thierrytambe/</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/thierrytambe/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/cameliabrumar/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/cameliabrumar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/davidbrooks/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/davidbrooks/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/iulianbrumar/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/iulianbrumar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/lillianpentecost/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/lillianpentecost/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/sakethrama/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/sakethrama/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/arielanders/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/arielanders/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/sertackaraman/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/sertackaraman/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Jane Connor</title>
       <link>https://plancherb1.github.io/authors/jane-connor/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/jane-connor/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>John Vivilecchia</title>
       <link>https://plancherb1.github.io/authors/john-vivilecchia/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/john-vivilecchia/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kenneth Gregson</title>
       <link>https://plancherb1.github.io/authors/kenneth-gregson/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/kenneth-gregson/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Michael Boulet</title>
       <link>https://plancherb1.github.io/authors/michael-boulet/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/michael-boulet/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mubarik Mohamoud</title>
       <link>https://plancherb1.github.io/authors/mubarik-mohamoud/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/mubarik-mohamoud/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Owen Guldner</title>
       <link>https://plancherb1.github.io/authors/owen-guldner/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/owen-guldner/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Robert Shin</title>
       <link>https://plancherb1.github.io/authors/robert-shin/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/robert-shin/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Winter Guerra</title>
       <link>https://plancherb1.github.io/authors/winter-guerra/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/winter-guerra/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/alejandrafarina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/alejandrafarina/</guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/halspeed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://plancherb1.github.io/authors/halspeed/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
