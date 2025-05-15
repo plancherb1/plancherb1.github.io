@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://plancherb1.github.io/tags/control/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COSC 1/69.23-F25: Parallel Optimization for Robotics</title>
+      <link>https://plancherb1.github.io/courses/169.23-f25/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/courses/169.23-f25/</guid>
+      <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on GPUs as well as numerical optimization. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
+    </item>
+    <item>
+      <title>RoboARCH: Robotics Acceleration with Computing Hardware and Systems</title>
+      <link>https://plancherb1.github.io/courses/roboarch@icra-25/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/courses/roboarch@icra-25/</guid>
+      <description>Roboticists are increasingly leveraging heterogeneous deployments across edge and cloud infrastructures and integrating and co-designing robotics algorithms for specific computing hardware ranging from CPUs, to GPUs, to FPGAs, to MCUs, and even to custom accelerator ASICs (e.g., Neuromorphic processors). As such, a key challenge for the field of robotics in the future will be to determine not only the right allocation of algorithms to computer hardware and the right combination of heterogeneous computer hardware onboard robotic systems to balance performance with power, but also the right software engineering practices and paradigms to broaden access to these advanced approaches across the robotics community. As such, this workshop is designed to build a welcoming community and ignite innovation and collaboration at the exciting intersection of robotics and computer software, systems, and architecture, focusing on the development of advanced robotic systems through cutting-edge computational solutions for the benefit of all.</description>
+    </item>
+    <item>
+      <title>RoboARCH: Workshop on Robotics Acceleration with Computing Hardware</title>
+      <link>https://plancherb1.github.io/courses/roboarch@micro-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/courses/roboarch@micro-24/</guid>
+      <description>Robotics is pushing the limits of conventional computing. This is a call to action for researchers across academia and industry: we must leverage nontraditional computing hardware (e.g., custom accelerator ASICs, FPGAs, and GPUs) and navigate enormous design spaces spanning across algorithms, hardware, and physical robot parameters in order to design new high performance systems enabling critical tasks in robotics. This workshop aims to gather pioneers and innovators working at the intersection of robotics and computer architecture, and to provide an introduction to this exciting emerging field to the computer architecture community.</description>
+    </item>
     <item>
       <title>COMS-BC3159-F24: Parallel Optimization for Robotics</title>
       <link>https://plancherb1.github.io/courses/coms-bc3159-f24/</link>
