@@ -7,14 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://plancherb1.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://plancherb1.github.io/authors/admin/</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/authors/admin/</guid>
       <description>I am an incoming Assistant Professor of Computer Science at Dartmouth College (starting Fall 2025) where I will continue to lead the Accessible and Accelerated Robotics Lab (A²R Lab). I was previously an Assistant Professor of Computer Science at Barnard College where I also held affiliate positions in the Department of Computer Science and Electrical Engineering at Columbia University. I am also a co-chair for the Tiny Machine Learning Open Education Initiative (TinyMLedu) and an associate co-chair for the IEEE-RAS TC on Model Based Optimization for Robotics (TCOptRob).</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/alexdu/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/alexdu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/emreadabag/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/emreadabag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/gabrielbravo/</link>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/gabrielbravo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/caelyasutake/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/caelyasutake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/zacharykingston/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/zacharykingston/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/chihhuang/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/chihhuang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/pranavjadhav/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/pranavjadhav/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>
@@ -28,13 +77,6 @@
       <link>https://plancherb1.github.io/authors/elakhyanedumaran/</link>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/authors/elakhyanedumaran/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/gabrielbravo/</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/authors/gabrielbravo/</guid>
       <description></description>
     </item>
     <item>
@@ -221,27 +263,6 @@
     </item>
     <item>
       <title></title>
-      <link>https://plancherb1.github.io/authors/chihhuang/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/authors/chihhuang/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/pranavjadhav/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/authors/pranavjadhav/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/zacharykingston/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/authors/zacharykingston/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
       <link>https://plancherb1.github.io/authors/enaselmanhousein/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/authors/enaselmanhousein/</guid>
@@ -252,13 +273,6 @@
       <link>https://plancherb1.github.io/authors/anoushkaalavilli/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/authors/anoushkaalavilli/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://plancherb1.github.io/authors/emreadabag/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/authors/emreadabag/</guid>
       <description></description>
     </item>
     <item>
