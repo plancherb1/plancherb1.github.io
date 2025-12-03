@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BrianPlancher on Brian Plancher</title>
-    <link>http://localhost:1313/authors/brianplancher/</link>
-    <description>Recent content in BrianPlancher on Brian Plancher</description>
+    <title>Brian Plancher</title>
+    <link>https://plancherb1.github.io/authors/jonathankent/</link>
+    <description>Recent content on Brian Plancher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
     <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/authors/brianplancher/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://plancherb1.github.io/authors/jonathankent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://plancherb1.github.io/authors/jonathankent/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/authors/jonathankent/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Robust Geospatial Coordination of Multi-Agent Communications Networks Under Attrition</title>
-      <link>http://localhost:1313/publication/phireman/</link>
+      <link>https://plancherb1.github.io/publication/phireman/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/phireman/</guid>
+      <guid>https://plancherb1.github.io/publication/phireman/</guid>
       <description>This paper introduces and formalizes the problem of Robust Task Networking Under Attrition (RTNUA), which extends connectivity maintenance in multi-robot systems to explicitly address proactive redundancy and attrition recovery. We introduce Physics-Informed Robust Employment of Multi-Agent Networks (ΦIREMAN), a topological algorithm leveraging physics-inspired potential fields to solve this problem. Through simulation across 25 problem configurations, ΦIREMAN consistently outperforms the DCCRS baseline, and on large-scale problems with up to 100 tasks and 500 drones, maintains &amp;gt;99.9% task uptime despite substantial attrition, demonstrating both effectiveness and scalability.</description>
     </item>
   </channel>
