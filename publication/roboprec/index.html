@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -33,10 +31,10 @@
   
     
   
-  <meta name="description" content="plancher@dartmouth.edu">
+  <meta name="description" content="We introduce the RoboPrec framework, where we: (i) develop a transpiler that integrates code transformations and robot-specific code generation with traditional numerical stability analysis methods (which calculate error bounds), and adapts them to be practical for robotics software; and then leverage this to (ii) generate guaranteed-accuracy fixed-point code that is deployable to embedded computing platforms. We use rigid body dynamics, a fundamental robotics workload, as a motivating case study. We find that RoboPrec-generated 32-bit fixed-point code can be up to 8x faster than float and 122x faster than double on embedded processors while, critically, also providing guaranteed accuracy bounds with lower worst-case error than float.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/authors/lillianpentecost/">
+  <link rel="alternate" hreflang="en-us" href="https://plancherb1.github.io/publication/roboprec/">
 
   
 
@@ -98,32 +96,30 @@
   
 
   
-  <link rel="alternate" href="/authors/lillianpentecost/index.xml" type="application/rss+xml" title="Brian Plancher">
-  <link rel="feed" href="/authors/lillianpentecost/index.xml" type="application/rss+xml" title="Brian Plancher">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://plancherb1.github.io/authors/lillianpentecost/">
+  <link rel="canonical" href="https://plancherb1.github.io/publication/roboprec/">
 
   
   
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Brian Plancher">
-  <meta property="og:url" content="https://plancherb1.github.io/authors/lillianpentecost/">
-  <meta property="og:title" content=" | Brian Plancher">
-  <meta property="og:description" content="plancher@dartmouth.edu"><meta property="og:image" content="https://plancherb1.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://plancherb1.github.io/publication/roboprec/">
+  <meta property="og:title" content="RoboPrec: Enabling Reliable Embedded Computing for Robotics by Providing Accuracy Guarantees Across Mixed-Precision Datatypes | Brian Plancher">
+  <meta property="og:description" content="We introduce the RoboPrec framework, where we: (i) develop a transpiler that integrates code transformations and robot-specific code generation with traditional numerical stability analysis methods (which calculate error bounds), and adapts them to be practical for robotics software; and then leverage this to (ii) generate guaranteed-accuracy fixed-point code that is deployable to embedded computing platforms. We use rigid body dynamics, a fundamental robotics workload, as a motivating case study. We find that RoboPrec-generated 32-bit fixed-point code can be up to 8x faster than float and 122x faster than double on embedded processors while, critically, also providing guaranteed accuracy bounds with lower worst-case error than float."><meta property="og:image" content="https://plancherb1.github.io/publication/roboprec/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2025-12-09T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2025-12-09T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2025-12-09T00:00:00&#43;00:00">
   
 
   
@@ -138,7 +134,7 @@
   gtag('config', 'G-BWMRJXPX7Z');
 </script>
 
-  <title> | Brian Plancher</title>
+  <title>RoboPrec: Enabling Reliable Embedded Computing for Robotics by Providing Accuracy Guarantees Across Mixed-Precision Datatypes | Brian Plancher</title>
 
   
   
@@ -351,7 +347,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication">
+          <a class="nav-link  active" href="/publication">
             
             <span>Publications</span>
             
@@ -412,25 +408,7 @@
   </div>
 </nav>
 
-
-
-
-
-<section id="profile-page" class="pt-5">
-  <div class="container">
-    
-    
-      
-      
-      
-        
-      
-      
-      
-      
-
-
-
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
@@ -442,72 +420,419 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
 
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/publication/roboprec/featured_huf8178265e112cda0785138c6ea66c5be_249461_800x0_resize_lanczos_3.png');"></div>
+  
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">RoboPrec: Enabling Reliable Embedded Computing for Robotics by Providing Accuracy Guarantees Across Mixed-Precision Datatypes</h1>
+
+        
+
+        <p class="page-subtitle">
+
+</p>
+
+        
+
+
+
+<meta content="2025-12-09 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2025-12-09 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/alp-eren-y%C4%B1lmaz-81581b187" target="_blank">Alp Eren Yilmaz</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://people.csail.mit.edu/bthom/" target="_blank">Thomas Bourgeat</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://lpentecost.github.io/cv/" target="_blank">Lillian Pentecost</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <b>Brian Plancher</b>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://scholar.harvard.edu/sneuman" target="_blank">Sabrina M. Neuman</a>
+        </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
       
+    
+    <time>December 2025</time>
+  </span>
+  
 
-      <div class="portrait-title">
-        <h2 itemprop="name">Lillian Pentecost</h2>
-        
-        
-          <a href="https://lpentecost.github.io/cv/" target="_blank">Personal Website</a>
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+
+</div>
+
+
         
 
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/roboprec/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/robomorphic/roboprec" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1109/LRA.2025.3641090" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+
+        
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/publication/roboprec/featured_huf8178265e112cda0785138c6ea66c5be_249461_680x500_fit_q90_lanczos_3.png" itemprop="image" alt="" style="padding-top: 20px;">
         
       </div>
-
-      <link itemprop="url" href="">
-
-      <ul class="network-icon" aria-hidden="true">
-        
-      </ul>
-
-    </div>
-  </div>
-  <div class="col-12 col-lg-8" itemprop="description">
-
-    
-    
-
-    
-
-    
-
-    <div class="row">
-
-      
-
-      
-
     </div>
   </div>
 </div>
 
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">RoboPrec: Enabling Reliable Embedded Computing for Robotics by Providing Accuracy Guarantees Across Mixed-Precision Datatypes</h1>
+
+  
+
+  
+
+
+
+  
+
+
+
+<meta content="2025-12-09 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2025-12-09 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://www.linkedin.com/in/alp-eren-y%C4%B1lmaz-81581b187" target="_blank">Alp Eren Yilmaz</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://people.csail.mit.edu/bthom/" target="_blank">Thomas Bourgeat</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://lpentecost.github.io/cv/" target="_blank">Lillian Pentecost</a>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <b>Brian Plancher</b>
+        </span>, <span itemprop="author name" itemtype="http://schema.org/Person">
+          <a href="https://scholar.harvard.edu/sneuman" target="_blank">Sabrina M. Neuman</a>
+        </span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>December 2025</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/roboprec/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/robomorphic/roboprec" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1109/LRA.2025.3641090" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Mobile robots demand power efficiency as well as accuracy and high performance in their computations. Embedded microcontrollers and FPGAs can consume as much as 1000x less power than large CPUs and GPUs, however, these power-efficient platforms often lack full floating-point support and rely on fixed-point computations to deliver performance. This is a challenge as most robotics software uses floating-point datatypes (double, float) to conservatively ensure accuracy, and prior works that use fixed-point types employ unreliable ad hoc approaches to select the datatype precision (i.e., quantity and allocation of bits). We address this challenge with the RoboPrec framework, where we: (i) develop a transpiler that integrates code transformations and robot-specific code generation with traditional numerical stability analysis methods (which calculate error bounds), and adapts them to be practical for robotics software; and then leverage this to (ii) generate guaranteed-accuracy fixed-point code that is deployable to embedded computing platforms. We use rigid body dynamics, a fundamental robotics workload, as a motivating case study. We find that RoboPrec-generated 32-bit fixed-point code can be up to 8x faster than float and 122x faster than double on embedded processors while, critically, also providing guaranteed accuracy bounds with lower worst-case error than float.</p>
     
 
     
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal Articles
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
+
     
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/roboprec/">RoboPrec: Enabling Reliable Embedded Computing for Robotics by Providing Accuracy Guarantees Across Mixed-Precision Datatypes</a>
-        </li>
-        
-        <li>
-          <a href="/publication/appliedapproxmm/">Application of Approximate Matrix Multiplication to Neural Networks and Distributed SLAM</a>
-        </li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em><a href="https://www.ieee-ras.org/publications/ra-l">Robotics and Automation Letters</a></em> 2025</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+</div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/numerical-stability/">Numerical Stability</a>
+  
+  <a class="badge badge-light" href="/tags/mixed-precision/">Mixed Precision</a>
+  
+  <a class="badge badge-light" href="/tags/transpiler/">Transpiler</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/alpyilmaz/">Alp Eren Yilmaz</a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
         
       </ul>
     </div>
   </div>
-  
-</section>
+
+
+
+
+  </div>
+</div>
+
+
 
 <div class="container">
   <footer class="site-footer">
