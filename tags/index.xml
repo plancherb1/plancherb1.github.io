@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://plancherb1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>https://plancherb1.github.io/tags/education/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>https://plancherb1.github.io/tags/optimization/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics</title>
+      <link>https://plancherb1.github.io/tags/robotics/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mixed Precision</title>
       <link>https://plancherb1.github.io/tags/mixed-precision/</link>
@@ -185,13 +206,6 @@
       <description></description>
     </item>
     <item>
-      <title>Optimization</title>
-      <link>https://plancherb1.github.io/tags/optimization/</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/optimization/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Parallel Programming</title>
       <link>https://plancherb1.github.io/tags/parallel-programming/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
@@ -203,13 +217,6 @@
       <link>https://plancherb1.github.io/tags/planning/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/tags/planning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Robotics</title>
-      <link>https://plancherb1.github.io/tags/robotics/</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     <item>
