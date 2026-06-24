@@ -3,7 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://plancherb1.github.io/authors/admin/</loc>
-    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/andrewliu/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/caelyasutake/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/zacharykingston/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/1/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/gpu/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/hjcdik/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/inverse-kinematics/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/motion-planning/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/</loc>
+    <lastmod>2026-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/gabrielbravo/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/luyaozhang/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/sergiogrammatico/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/differential-dynamic-programming/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/paralleldynamicprogramming/</loc>
+    <lastmod>2026-08-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/andreagrillo/</loc>
     <lastmod>2026-07-13T00:00:05+00:00</lastmod>
@@ -23,15 +80,6 @@
     <loc>https://plancherb1.github.io/authors/zacharymanchester/</loc>
     <lastmod>2026-07-13T00:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/publication_types/1/</loc>
-    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/</loc>
-    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/</loc>
-    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/edge-computing/</loc>
     <lastmod>2026-07-13T00:00:05+00:00</lastmod>
   </url><url>
@@ -41,16 +89,7 @@
     <loc>https://plancherb1.github.io/tags/model-predictive-control/</loc>
     <lastmod>2026-07-13T00:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/publication_types/</loc>
-    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication/</loc>
-    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/semidefinite-programming/</loc>
-    <lastmod>2026-07-13T00:00:05+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/</loc>
     <lastmod>2026-07-13T00:00:05+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/tinysdp/</loc>
@@ -74,28 +113,40 @@
     <loc>https://plancherb1.github.io/publication/admmslack/</loc>
     <lastmod>2026-07-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://plancherb1.github.io/authors/jianghanzhang/</loc>
+    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/authors/zacharypestrikov/</loc>
+    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication_types/3/</loc>
+    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/differentiable/</loc>
+    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/hardware-acceleration/</loc>
+    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/mpc/</loc>
+    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/publication/turbompc/</loc>
+    <lastmod>2026-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://plancherb1.github.io/authors/alexdu/</loc>
     <lastmod>2026-06-01T10:00:01+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/authors/emreadabag/</loc>
     <lastmod>2026-06-01T10:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/gabrielbravo/</loc>
-    <lastmod>2026-06-01T10:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/publication/gato/</loc>
-    <lastmod>2026-06-01T10:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/gpu/</loc>
     <lastmod>2026-06-01T10:00:01+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/iterative-methods/</loc>
     <lastmod>2026-06-01T10:00:01+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/linear-systems/</loc>
-    <lastmod>2026-06-01T10:00:01+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/parallel-computing/</loc>
     <lastmod>2026-06-01T10:00:01+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/trajectory-optimization/</loc>
@@ -119,9 +170,6 @@
     <loc>https://plancherb1.github.io/authors/samschoedel/</loc>
     <lastmod>2026-06-01T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/authors/zacharykingston/</loc>
-    <lastmod>2026-06-01T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/tags/code-generation/</loc>
     <lastmod>2026-06-01T10:00:00+00:00</lastmod>
   </url><url>
@@ -129,9 +177,6 @@
     <lastmod>2026-06-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/conic-constraints/</loc>
-    <lastmod>2026-06-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/motion-planning/</loc>
     <lastmod>2026-06-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/publication/prrtc/</loc>
@@ -314,20 +359,8 @@
     <loc>https://plancherb1.github.io/tags/fpga/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/hardware-acceleration/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/publication/fpgatinympc/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/caelyasutake/</loc>
-    <lastmod>2025-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication_types/3/</loc>
-    <lastmod>2025-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/publication/hjcdik/</loc>
-    <lastmod>2025-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/adaptive-updates/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
@@ -953,9 +986,6 @@
     <loc>https://plancherb1.github.io/publication/tinymlunsti22/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/differential-dynamic-programming/</loc>
-    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/publication/dissertation/</loc>
     <lastmod>2022-04-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -1217,10 +1247,6 @@
     <loc>https://plancherb1.github.io/authors/alejandrafarina/</loc>
   </url><url>
     <loc>https://plancherb1.github.io/authors/halspeed/</loc>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/luyaozhang/</loc>
-  </url><url>
-    <loc>https://plancherb1.github.io/authors/sergiogrammatico/</loc>
   </url><url>
     <loc>https://plancherb1.github.io/categories/</loc>
   </url>
