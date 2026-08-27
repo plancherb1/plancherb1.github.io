@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search on Brian Plancher</title>
+    <link>https://plancherb1.github.io/tags/search/</link>
+    <description>Recent content in Search on Brian Plancher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Brian Plancher</copyright>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://plancherb1.github.io/tags/search/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COSC 2/81-F26: Principles of Robot Design and Programming</title>
+      <link>https://plancherb1.github.io/courses/cosc-281-f26/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/courses/cosc-281-f26/</guid>
+      <description>Robots are cyber-physical systems, leveraging computational intelligence to sense and act in a real world far too large to fully enumerate. This introductory course teaches robotics as an algorithmic discipline built around that challenge and explore concepts across the full robotics stack with examples from navigation, manipulation, and locomotion. The first third of the course covers the many ways to plan real-world motions, ranging from search to sampling to optimization to learning. The second third builds on this foundation, covering state estimation, computer vision, and modern robot learning, each reusing algorithmic machinery from our study of planning. Throughout, you will complete programming and written assignments that dive into the theory and practice of these algorithms, and will be assessed via written, in class, closed-book exams. The final third of the course culminates in a team-based project deploying a full robotics software stack on real hardware, where you will see firsthand how compute budgets and changing real-world conditions reshape your algorithms. Finally, we note that robotics is a much larger field than any one course can cover. This course surveys the key ideas across the full robotics stack, going deeper where fundamental concepts reach beyond any single algorithm or application.</description>
+    </item>
+  </channel>
+</rss>

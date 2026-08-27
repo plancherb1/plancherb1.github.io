@@ -38,6 +38,69 @@
       <description></description>
     </item>
     <item>
+      <title>Control</title>
+      <link>https://plancherb1.github.io/tags/control/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Estimation</title>
+      <link>https://plancherb1.github.io/tags/estimation/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/estimation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>https://plancherb1.github.io/tags/learning/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>https://plancherb1.github.io/tags/optimization/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perception</title>
+      <link>https://plancherb1.github.io/tags/perception/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/perception/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planning</title>
+      <link>https://plancherb1.github.io/tags/planning/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics</title>
+      <link>https://plancherb1.github.io/tags/robotics/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sampling</title>
+      <link>https://plancherb1.github.io/tags/sampling/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/sampling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://plancherb1.github.io/tags/search/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/search/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Differential Dynamic Programming</title>
       <link>https://plancherb1.github.io/tags/differential-dynamic-programming/</link>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
@@ -276,20 +339,6 @@
       <description></description>
     </item>
     <item>
-      <title>Optimization</title>
-      <link>https://plancherb1.github.io/tags/optimization/</link>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/optimization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Robotics</title>
-      <link>https://plancherb1.github.io/tags/robotics/</link>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Mixed Precision</title>
       <link>https://plancherb1.github.io/tags/mixed-precision/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
@@ -339,13 +388,6 @@
       <description></description>
     </item>
     <item>
-      <title>Control</title>
-      <link>https://plancherb1.github.io/tags/control/</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/control/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Hardware-Software Co-Design</title>
       <link>https://plancherb1.github.io/tags/hardware-software-co-design/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
@@ -360,13 +402,6 @@
       <description></description>
     </item>
     <item>
-      <title>Planning</title>
-      <link>https://plancherb1.github.io/tags/planning/</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/planning/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Hadware Acceleration</title>
       <link>https://plancherb1.github.io/tags/hadware-acceleration/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
@@ -378,13 +413,6 @@
       <link>https://plancherb1.github.io/tags/mapping--localization/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/tags/mapping--localization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Perception</title>
-      <link>https://plancherb1.github.io/tags/perception/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/perception/</guid>
       <description></description>
     </item>
     <item>

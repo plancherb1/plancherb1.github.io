@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Brian Plancher</copyright>
-    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://plancherb1.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COSC 2/81-F26: Principles of Robot Design and Programming</title>
+      <link>https://plancherb1.github.io/courses/cosc-281-f26/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/courses/cosc-281-f26/</guid>
+      <description>Robots are cyber-physical systems, leveraging computational intelligence to sense and act in a real world far too large to fully enumerate. This introductory course teaches robotics as an algorithmic discipline built around that challenge and explore concepts across the full robotics stack with examples from navigation, manipulation, and locomotion. The first third of the course covers the many ways to plan real-world motions, ranging from search to sampling to optimization to learning. The second third builds on this foundation, covering state estimation, computer vision, and modern robot learning, each reusing algorithmic machinery from our study of planning. Throughout, you will complete programming and written assignments that dive into the theory and practice of these algorithms, and will be assessed via written, in class, closed-book exams. The final third of the course culminates in a team-based project deploying a full robotics software stack on real hardware, where you will see firsthand how compute budgets and changing real-world conditions reshape your algorithms. Finally, we note that robotics is a much larger field than any one course can cover. This course surveys the key ideas across the full robotics stack, going deeper where fundamental concepts reach beyond any single algorithm or application.</description>
+    </item>
     <item>
       <title>The 2025 Summer School on Optimization for Robotics</title>
       <link>https://plancherb1.github.io/publication/optrobsummerschool2025ram/</link>
@@ -18,9 +25,9 @@
     </item>
     <item>
       <title>COSC 1/69.23-F25: Parallel Optimization for Robotics</title>
-      <link>https://plancherb1.github.io/courses/169.23-f25/</link>
+      <link>https://plancherb1.github.io/courses/cosc-169.23-f25/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/courses/169.23-f25/</guid>
+      <guid>https://plancherb1.github.io/courses/cosc-169.23-f25/</guid>
       <description>Many stages of state-of-the-art robotics pipelines rely on the solutions of underlying optimization algorithms. Unfortunately, many of these approaches rely on simplifications and conservative approximations in order to reduce their computational complexity and support online operation. At the same time, parallelism has been used to significantly increase the throughput of computationally expensive algorithms across the field of computer science. And, with the widespread adoption of parallel computing platforms such as GPUs, it is natural to consider whether these architectures can benefit robotics researchers interested in solving computationally constrained problems online. This course will provide students with an introduction to both parallel programming on GPUs as well as numerical optimization. It will then dive into the intersection of those fields through case studies of recent state-of-the-art research and culminate in a team-based final project.</description>
     </item>
     <item>

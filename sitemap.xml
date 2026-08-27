@@ -47,6 +47,39 @@
     <loc>https://plancherb1.github.io/tags/</loc>
     <lastmod>2026-09-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://plancherb1.github.io/tags/control/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/courses/cosc-281-f26/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/courses/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/estimation/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/learning/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/optimization/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/perception/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/planning/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/robotics/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/sampling/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://plancherb1.github.io/tags/search/</loc>
+    <lastmod>2026-08-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://plancherb1.github.io/authors/gabrielbravo/</loc>
     <lastmod>2026-08-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -350,12 +383,6 @@
     <loc>https://plancherb1.github.io/tags/education/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/optimization/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/robotics/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://plancherb1.github.io/publication/optrobsummerschool2025ram/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -416,22 +443,13 @@
     <loc>https://plancherb1.github.io/tags/computer-architecture/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://plancherb1.github.io/tags/control/</loc>
-    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/courses/169.23-f25/</loc>
-    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/courses/</loc>
+    <loc>https://plancherb1.github.io/courses/cosc-169.23-f25/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/hardware-software-co-design/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/parallel-programming/</loc>
-    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/planning/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/tags/hadware-acceleration/</loc>
@@ -441,9 +459,6 @@
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/courses/optrob-25/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://plancherb1.github.io/tags/perception/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://plancherb1.github.io/courses/roboarch@icra-25/</loc>
