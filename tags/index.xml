@@ -66,6 +66,34 @@
       <description></description>
     </item>
     <item>
+      <title>MCU</title>
+      <link>https://plancherb1.github.io/tags/mcu/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/mcu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MPC</title>
+      <link>https://plancherb1.github.io/tags/mpc/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/mpc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recoverability</title>
+      <link>https://plancherb1.github.io/tags/recoverability/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/recoverability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Safety</title>
+      <link>https://plancherb1.github.io/tags/safety/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/safety/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>FPGA</title>
       <link>https://plancherb1.github.io/tags/fpga/</link>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
@@ -77,13 +105,6 @@
       <link>https://plancherb1.github.io/tags/hardware-acceleration/</link>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/tags/hardware-acceleration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MPC</title>
-      <link>https://plancherb1.github.io/tags/mpc/</link>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/mpc/</guid>
       <description></description>
     </item>
     <item>
@@ -511,13 +532,6 @@
       <link>https://plancherb1.github.io/tags/digital-logic/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/tags/digital-logic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MCU</title>
-      <link>https://plancherb1.github.io/tags/mcu/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/mcu/</guid>
       <description></description>
     </item>
     <item>
