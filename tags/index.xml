@@ -52,10 +52,45 @@
       <description></description>
     </item>
     <item>
+      <title>Differentiable</title>
+      <link>https://plancherb1.github.io/tags/differentiable/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/differentiable/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>GPU</title>
       <link>https://plancherb1.github.io/tags/gpu/</link>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/tags/gpu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware Acceleration</title>
+      <link>https://plancherb1.github.io/tags/hardware-acceleration/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/hardware-acceleration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MPC</title>
+      <link>https://plancherb1.github.io/tags/mpc/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/mpc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parallel Computing</title>
+      <link>https://plancherb1.github.io/tags/parallel-computing/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SHAC</title>
+      <link>https://plancherb1.github.io/tags/shac/</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://plancherb1.github.io/tags/shac/</guid>
       <description></description>
     </item>
     <item>
@@ -70,13 +105,6 @@
       <link>https://plancherb1.github.io/tags/motion-planning/</link>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/tags/motion-planning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Parallel Computing</title>
-      <link>https://plancherb1.github.io/tags/parallel-computing/</link>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/parallel-computing/</guid>
       <description></description>
     </item>
     <item>
@@ -98,13 +126,6 @@
       <link>https://plancherb1.github.io/tags/continuous-integration/</link>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/tags/continuous-integration/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hardware Acceleration</title>
-      <link>https://plancherb1.github.io/tags/hardware-acceleration/</link>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/hardware-acceleration/</guid>
       <description></description>
     </item>
     <item>
@@ -133,13 +154,6 @@
       <link>https://plancherb1.github.io/tags/mcu/</link>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://plancherb1.github.io/tags/mcu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MPC</title>
-      <link>https://plancherb1.github.io/tags/mpc/</link>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/mpc/</guid>
       <description></description>
     </item>
     <item>
@@ -252,13 +266,6 @@
       <link>https://plancherb1.github.io/tags/semidefinite-programming/</link>
       <pubDate>Mon, 13 Jul 2026 00:00:05 +0000</pubDate>
       <guid>https://plancherb1.github.io/tags/semidefinite-programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Differentiable</title>
-      <link>https://plancherb1.github.io/tags/differentiable/</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://plancherb1.github.io/tags/differentiable/</guid>
       <description></description>
     </item>
     <item>
